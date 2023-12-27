@@ -1,10 +1,10 @@
 {
   "name": "UBC Latex Transcript",
-  "description": "Create a latex transcript from your UBC Grades Summary",
+  "description": "Create a transcript of your UBC Grades Summary",
   "version": "0.1.0",
   "manifest_version": 3,
   "background": {
-    "service_worker": "serviceWorker.js"
+    "service_worker": "background.js"
   },
   "content_scripts": [
     {

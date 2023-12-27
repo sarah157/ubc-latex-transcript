@@ -1,5 +1,12 @@
 import { getStorageItem } from './helpers';
-import { ButtonText, ButtonType, InputEvent, FormField } from './model';
+import {
+  ButtonText,
+  ButtonType,
+  InputEvent,
+  FormField,
+  GRADES_SUMMARY_URL,
+  INVALID_URL_HTML,
+} from './types';
 import '../public/popup.css';
 
 let titleInput: HTMLInputElement;
@@ -10,11 +17,11 @@ let errorMessage: HTMLElement;
 
 addEventListener('DOMContentLoaded', async () => {
   chrome.tabs.query({ active: true, currentWindow: true }, function (tabs) {
-    if (tabs[0].url != 'https://ssc.adm.ubc.ca/sscportal/servlets/SSCMain.jsp?function=SessGradeRpt') {
-      document.querySelector('.container').innerHTML = '<p>To use this extension, go to <b>Your Grades Summary</b> in the Student Service Centre (SSC).</p>';
+    if (tabs[0].url != GRADES_SUMMARY_URL) {
+      document.querySelector('.container').innerHTML = INVALID_URL_HTML;
       return;
     }
-  })
+  });
   titleInput = document.querySelector('#titleInput');
   checkboxInputs = document.querySelectorAll('.checkboxInput');
   button = document.querySelector('#button');
@@ -47,13 +54,13 @@ const handleButtonClick = () => {
     button.textContent = 'Generating...';
     chrome.tabs.sendMessage(tabs[0].id, request, async (response) => {
       if (chrome.runtime.lastError) {
-          errorMessage.textContent = 'Error: Could not generate transcript.';
-          resetButton();
-     } else {
-       formInput.value = 'data:application/zip;base64,' + response.data;
-       button.type = ButtonType.SUBMIT;
-       button.textContent = ButtonText.SUBMIT;
-     }
+        errorMessage.textContent = 'Error: Could not generate transcript.';
+        resetButton();
+      } else {
+        formInput.value = 'data:application/zip;base64,' + response.data;
+        button.type = ButtonType.SUBMIT;
+        button.textContent = ButtonText.SUBMIT;
+      }
     });
   });
 };
@@ -70,7 +77,7 @@ const handleUpdateOptions = async (event: InputEvent) => {
 };
 
 const resetButton = () => {
-    button.type = ButtonType.DEFAULT;
-    button.textContent = ButtonText.DEFAULT;
-    formInput.value = '';
-}
+  button.type = ButtonType.DEFAULT;
+  button.textContent = ButtonText.DEFAULT;
+  formInput.value = '';
+};

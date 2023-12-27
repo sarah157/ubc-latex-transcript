@@ -31,3 +31,21 @@ export interface Options {
 export interface InputEvent extends Event {
   target: HTMLInputElement;
 }
+
+// constants
+export const GRADES_SUMMARY_URL = 'https://ssc.adm.ubc.ca/sscportal/servlets/SSCMain.jsp?function=SessGradeRpt';
+
+export const INVALID_URL_HTML =
+  `<p>To use this extension, go to 
+  <a href="${GRADES_SUMMARY_URL}" target="_blank"><b>Your Grades Summary</b></a> 
+  in the Student Service Centre (SSC).</p>`;
+
+export const DEFAULT_OPTIONS: Options = {
+  [FormField.Title]: 'Grades Summary',
+  [FormField.GroupBySession]: true,
+  [FormField.BordersAroundTables]: false,
+  [FormField.BordersBetweenRows]: false,
+  [FormField.DropWCourses]: false,
+  [FormField.DropCdfCourses]: false,
+  [FormField.DropEmptyStdgCol]: false,
+};

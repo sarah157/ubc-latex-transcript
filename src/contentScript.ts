@@ -7,7 +7,7 @@ import {
   CourseColumn,
   Student,
   Options,
-} from './model';
+} from './types';
 
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
   if (request.action == 'GENERATE_TRANSCRIPT') {
@@ -92,8 +92,10 @@ const parseSession = (sessionEl: Element) => {
   return session;
 };
 
+// non-breaking space is used to split Course name into subject and code (e.g., MATH&nbsp200)
+const NBSP = ' ';
+
 const parseCourse = async (courseRowEl: Element, campus: string) => {
-  const NBSP = ' ';
   const course: Course = {};
   for (let col = 0; col < courseRowEl.children.length; col++) {
     if (col in CourseColumn) {

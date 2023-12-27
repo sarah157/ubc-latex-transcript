@@ -1,4 +1,4 @@
-// Order follows the columns in the Grades Summary page
+// Follows column order in the Grades Summary page
 export enum CourseColumn {
   TERM,
   NAME,
@@ -11,7 +11,7 @@ export enum CourseColumn {
   CLASS_SIZE,
 }
 
-// Corresponds to the values (in camel case) from the session tabs in the Grades Summary page
+// Corresponds to the values (in camel case) in the session tabs in the Grades Summary page
 export enum SessionValues {
   NAME = 'name',
   CAMPUS = 'campus',
