@@ -140,11 +140,11 @@ const sessionFullName = (sessionName: string) => {
 
 const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   const pipe = options.bordersAroundTables ? '|' : '';
-  const hline1 = options.bordersAroundTables ? '\\hline' : '';
-  const hline2 = options.bordersBetweenRows ? '\\hline' : '';
+  const hline = options.bordersAroundTables ? '\\hline' : '';
+  const hlineRow = options.bordersBetweenRows ? '\\hline' : '';
   const n = dropStdg ? 8 : 9;
 
-  const tableBegin = `\\begin{longtable}{${pipe}l l p{7cm}@{\\extracolsep{\\fill}} r l ${dropStdg ? '' : ' l'} r r r${pipe}}`;
+  const tableBegin = `\\begin{longtable}{${pipe}l l p{${dropStdg ? '8' : '7'}cm}@{\\extracolsep{\\fill}} r l ${dropStdg ? '' : ' l'} r r r${pipe}}`;
   const tableFooter =
     options.bordersAroundTables && !options.bordersBetweenRows
       ? `% Table Footer\n${TAB}\\hline\\endfoot`
@@ -156,7 +156,7 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
     % Table header
     \\TableHeading{#1}
     \\multicolumn{${n}}{${pipe}l${pipe}}{\\textbf{#2} (UBC #3) \\textbf{- Year #4}} \\\\[-0.75em]
-    \\TableColumnNames${hline2}
+    \\TableColumnNames${hlineRow}
     \\endfirsthead
     % Table header if table continues onto next page
     \\TableHeading{#1 continued \\dots}
@@ -168,22 +168,20 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   const allSessionsTable = `% Table environment
 \\newenvironment{Table}
 {${tableBegin}
-    % Table Header\n${hline1}\\TableColumnNames${hline2} \\endhead
+    % Table Header\n${hline}\\TableColumnNames${hlineRow} \\endhead
     ${tableFooter}}
 {\\end{longtable} \\tableSpacing}`;
 
   return `% Table column names
 \\newcommand{\\TableColumnNames}{
-\\multicolumn{${
-    n - 2
-  }}{${pipe}c}{} & \\multicolumn{2}{c${pipe}}{\\textbf{Class}} \\\\[-0.5em]
+\\multicolumn{${n - 2}}{${pipe}c}{} & \\multicolumn{2}{c${pipe}}{\\textbf{Class}} \\\\[-0.5em]
 \\textbf{Term} & \\textbf{Course} & \\textbf{Course Title} & \\textbf{Pct \\%} & \\textbf{Grade} & ${dropStdg ? '' : '\\textbf{Stdg} &'} \\textbf{Credits} & \\textbf{Avg} & \\textbf{Size}\\\\}
 
 % Table heading
-\\newcommand{\\TableHeading}[1]{${hline1}\\multicolumn{${n}}{${pipe}l${pipe}}{\\cellcolor{gray!25}\\large{\\textbf{#1}}}\\\\}
+\\newcommand{\\TableHeading}[1]{${hline}\\multicolumn{${n}}{${pipe}l${pipe}}{\\cellcolor{gray!25}\\large{\\textbf{#1}}}\\\\}
 
 % Table course row
-\\newcommand{\\Course}[${n}]{#1 & #2 & #3 & #4 & #5 & #6 & #7 & #8 ${dropStdg ? '' : '& #9'}\\\\ ${hline2}}
+\\newcommand{\\Course}[${n}]{#1 & #2 & #3 & #4 & #5 & #6 & #7 & #8 ${dropStdg ? '' : '& #9'}\\\\ ${hlineRow}}
 
 ${options.groupBySession ? sessionTable : allSessionsTable}`;
 };
