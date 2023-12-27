@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="stylesheet" href="popup.css" />
+</head>
+
+<body>
+  <header>
+    <h1 class="heading">UBC Unofficial Transcript</h1>
+  </header>
+  <main class="container">
+    <div class="options-group">
+      <label class="options-group-heading">Title: </label>
+      <input id="titleInput" type="text" placeholder="e.g., Grades Summary, Unofficial Transcript, or blank" />
+    </div>
+    <!-- Layout Options-->
+    <div class="options-group">
+      <label class="options-group-heading">Layout:</label>
+      <div class="checkbox-group">
+        <input class="checkboxInput" type="checkbox" id="groupBySession" name="groupBySession">
+        <label for="groupBySession">Group courses by session</label>
+      </div>
+      <div class="checkbox-group">
+        <input class="checkboxInput" type="checkbox" id="bordersAroundTables" name="bordersAroundTables">
+        <label for="bordersAroundTables">Add border around tables</label>
+      </div>
+      <div class="checkbox-group">
+        <input class="checkboxInput" type="checkbox" id="bordersBetweenRows" name="bordersBetweenRows">
+        <label for="bordersBetweenRows">Add border between rows</label>
+      </div>
+    </div>
+
+    <!-- Data Filtering Options -->
+    <div class="options-group">
+      <label class="options-group-heading">Filtering Options:</label>
+      <div class="checkbox-group">
+        <input class="checkboxInput" type="checkbox" id="dropWCourses" name="dropWCourses">
+        <label for="dropWCourses">Drop W courses</label>
+      </div>
+      <div class="checkbox-group">
+        <input class="checkboxInput" type="checkbox" id="dropCdfCourses" name="dropCdfCourses">
+        <label for="dropCdfCourses">Drop CDF courses</label>
+      </div>
+      <div class="checkbox-group">
+        <input class="checkboxInput" type="checkbox" id="dropEmptyStdgCol" name="dropEmptyStdgCol">
+        <label for="dropEmptyStdgCol">Drop Standing column if empty</label>
+      </div>
+    </div>
+
+    <!-- Generate/Open Transcript -->
+    <form id="form" action="https://www.overleaf.com/docs" method="post" target="_blank">
+      <input id="formInput" type="text" name="snip_uri" value="" />
+      <button type="button" id="button" class="button flex-center">
+        Generate Transcript
+      </button>
+      <p id="errorMessage"></p>
+    </form>
+  </main>
+  <script src="popup.js"></script>
+</body>
+
+</html>

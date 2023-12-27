@@ -1,0 +1,32 @@
+{
+  "name": "ubc-transcript",
+  "version": "0.1.0",
+  "description": "Create a transcript of your UBC Grades Summary",
+  "scripts": {
+    "start": "webpack --watch --config webpack/webpack.dev.cjs",
+    "build": "webpack --config webpack/webpack.prod.cjs",
+    "lint": "eslint --ext .ts,.js --max-warnings=0 .",
+    "prettier": "prettier --write"
+  },
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.254",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.8.1",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-webpack-plugin": "^4.0.1",
+    "prettier": "^3.1.1",
+    "style-loader": "^3.3.3",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.3.3",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
