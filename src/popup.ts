@@ -42,7 +42,6 @@ addEventListener('DOMContentLoaded', async () => {
 });
 
 const handleButtonClick = () => {
-  console.log(chrome.runtime.getURL('data/ubc-log.png'));
   errorMessage.textContent = '';
   if (button.type === ButtonType.SUBMIT) return;
 

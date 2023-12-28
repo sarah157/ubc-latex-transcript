@@ -1,6 +1,6 @@
 {
-  "name": "UBC Latex Transcript",
-  "description": "Create a transcript of your UBC Grades Summary",
+  "name": "UBC LaTeX Transcript",
+  "description": "Create a LaTeX transcript of your UBC Grades Summary",
   "version": "0.1.0",
   "manifest_version": 3,
   "background": {
@@ -11,28 +11,18 @@
       "matches": [
         "https://ssc.adm.ubc.ca/sscportal/servlets/SSCMain.jsp?function=SessGradeRpt*"
       ],
-      "js": [
-        "contentScript.js"
-      ]
+      "js": ["contentScript.js"]
     }
   ],
-  "permissions": [
-    "activeTab",
-    "storage"
-  ],
+  "permissions": ["activeTab", "storage"],
   "web_accessible_resources": [
     {
-      "resources": [
-        "data/*",
-        "ubc-logo/*"
-      ],
-      "matches": [
-        "<all_urls>"
-      ]
+      "resources": ["data/*"],
+      "matches": ["<all_urls>"]
     }
   ],
   "action": {
-    "default_title": "UBC Transcript",
+    "default_title": "UBC LaTeX Transcript",
     "default_popup": "popup.html",
     "default_icon": {
       "16": "/icons/icon16.png",

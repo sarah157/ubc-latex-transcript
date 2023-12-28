@@ -168,7 +168,8 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   const allSessionsTable = `% Table environment
 \\newenvironment{Table}
 {${tableBegin}
-    % Table Header\n${hline}\\TableColumnNames${hlineRow} \\endhead
+    % Table Header
+    ${hline}\\TableColumnNames${hlineRow} \\endhead
     ${tableFooter}}
 {\\end{longtable} \\tableSpacing}`;
 
