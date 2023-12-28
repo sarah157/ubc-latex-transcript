@@ -33,10 +33,10 @@ export interface InputEvent extends Event {
 }
 
 // constants
-export const GRADES_SUMMARY_URL = 'https://ssc.adm.ubc.ca/sscportal/servlets/SSCMain.jsp?function=SessGradeRpt';
+export const GRADES_SUMMARY_URL =
+  'https://ssc.adm.ubc.ca/sscportal/servlets/SSCMain.jsp?function=SessGradeRpt';
 
-export const INVALID_URL_HTML =
-  `<p>To use this extension, go to 
+export const INVALID_URL_HTML = `<p>To use this extension, go to 
   <a href="${GRADES_SUMMARY_URL}" target="_blank"><b>Your Grades Summary</b></a> 
   in the Student Service Centre (SSC).</p>`;
 

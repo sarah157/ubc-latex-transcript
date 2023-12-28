@@ -1,5 +1,5 @@
-import * as JSZip from 'jszip';
-import { fetchUBCLogo, getCourseName, toCamelCase, buildTex } from './helpers';
+import { getCourseName, toCamelCase } from './helpers';
+import { buildTex } from './buildTex';
 import {
   Session,
   SessionValues,
@@ -19,14 +19,8 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
 const generateTranscriptZip = async (options: Options) => {
   const { student, sessions, allCourses, isStdgColEmpty } = await parseDataFromDOM(options);
   const latexTranscript = buildTex(student, sessions, allCourses, options, isStdgColEmpty);
-  const ubcLogoBase64 = await fetchUBCLogo();
-  
-  // Compress transcript and UBC logo into zip
-  const zip = new JSZip();
-  zip.file('transcript.tex', latexTranscript);
-  zip.file('ubc-logo.png', ubcLogoBase64, { base64: true });
-  const base64Zip = await zip.generateAsync({ type: 'base64' });
-  return base64Zip;
+  // return base64-encoded transcript
+  return btoa(latexTranscript);
 };
 
 const parseDataFromDOM = async (options: Options) => {
@@ -117,6 +111,3 @@ const parseCourse = async (courseRowEl: Element, campus: string) => {
   }
   return course;
 };
-
-
-

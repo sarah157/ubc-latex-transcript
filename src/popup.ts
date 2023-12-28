@@ -42,6 +42,7 @@ addEventListener('DOMContentLoaded', async () => {
 });
 
 const handleButtonClick = () => {
+  console.log(chrome.runtime.getURL('data/ubc-log.png'));
   errorMessage.textContent = '';
   if (button.type === ButtonType.SUBMIT) return;
 
@@ -57,7 +58,7 @@ const handleButtonClick = () => {
         errorMessage.textContent = 'Error: Could not generate transcript.';
         resetButton();
       } else {
-        formInput.value = 'data:application/zip;base64,' + response.data;
+        formInput.value = 'data:application/x-tex;base64,' + response.data;
         button.type = ButtonType.SUBMIT;
         button.textContent = ButtonText.SUBMIT;
       }

@@ -1,4 +1,4 @@
-import { Course, CourseColumn, Session, Student, Options } from '../types';
+import { Course, CourseColumn, Session, Student, Options } from './types';
 
 export const buildTex = (
   student: Student,

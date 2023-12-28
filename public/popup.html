@@ -11,7 +11,7 @@
 
 <body>
   <header>
-    <h1 class="heading">UBC Transcript</h1>
+    <h1 class="heading">UBC LaTeX Transcript</h1>
   </header>
   <main class="container">
     <div class="options-group">
@@ -34,7 +34,6 @@
         <label for="bordersBetweenRows">Add border between rows</label>
       </div>
     </div>
-
     <!-- Data Filtering Options -->
     <div class="options-group">
       <label class="options-group-heading">Filtering Options:</label>
@@ -50,11 +49,13 @@
         <input class="checkboxInput" type="checkbox" id="dropEmptyStdgCol" name="dropEmptyStdgCol">
         <label for="dropEmptyStdgCol">Drop Standing column if empty</label>
       </div>
-    </div>
-
+    </div>   
     <!-- Generate/Open Transcript -->
     <form id="form" action="https://www.overleaf.com/docs" method="post" target="_blank">
-      <input id="formInput" type="text" name="snip_uri" value="" />
+      <input id="formInput" type="hidden" name="snip_uri[]" value="">      
+      <input type="hidden" name="snip_uri[]" value="https://bucket5678-uw2.s3.us-west-2.amazonaws.com/ubc-logo.png">
+      <input type="hidden" name="snip_name" value="transcript.tex">
+      <input type="hidden" name="snip_name" value="ubc-logo.png">
       <button type="button" id="button">Generate Transcript</button>
       <p id="errorMessage"></p>
     </form>

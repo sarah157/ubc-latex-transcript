@@ -1,5 +1,3 @@
-export * from './buildTex';
-
 export const getStorageItem = async (key: string) => {
   const obj = await chrome.storage.sync.get([key]);
   return obj[key];
@@ -16,11 +14,6 @@ export const toCamelCase = (str: string) => {
     camelCaseStr += idx === 0 ? add : add[0].toUpperCase() + add.slice(1);
   });
   return camelCaseStr;
-};
-
-export const fetchUBCLogo = async () => {
-  const res = await fetch(chrome.runtime.getURL('ubc-logo/base64.txt'));
-  return await res.text();
 };
 
 export const getCourseName = async (courseName: string, campus: string) => {
