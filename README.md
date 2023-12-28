@@ -16,7 +16,8 @@ The resulting transcript is loaded into Overleaf, a popular online LaTeX editor,
 
 ### How it works
 1. A LaTeX transcript is generated using the information from 'Your Grades Summary'.
-2. When the 'View Transcript in Overleaf' button is clicked, an HTML form POST request containing your Base64-encoded transcript is sent to the [Overleaf API](https://www.overleaf.com/devs):
+   - The course title is found in [`./public/data`](https://github.com/sarah157/ubc-latex-transcript/tree/main/public/data), which was created from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data/tree/master/tableau-dashboard-v2)
+3. When the 'View Transcript in Overleaf' button is clicked, an HTML form POST request containing your Base64-encoded transcript is sent to the [Overleaf API](https://www.overleaf.com/devs):
    ```html
    <form action="https://www.overleaf.com/docs" method="POST" target="_blank">
       <input type="hidden" name="snip_uri[]" value="data:application/x-tex;base64,[your_base64_encoded_transcript]">      
@@ -30,6 +31,9 @@ The resulting transcript is loaded into Overleaf, a popular online LaTeX editor,
 ### Images
 **Extension popup with default options**
 
+![Extension popup_with default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/4f7aaa45-c6d8-4c43-abd9-a10d65f9bd31)
+
+
 **Transcript generated using default options**
 
-**Grades Summary Before**
+![Grades summary before and after with default options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/83316a94-55b5-42d1-90cf-7ec9a14b0fea)
