@@ -1,23 +1,25 @@
 # UBC LaTeX Transcript Chrome Extension
 
+Add to Chrome [here.](https://chromewebstore.google.com/detail/ubc-latex-transcript/kfkhdllleecjpgamiadfdeffgjmljhkp)
+
 ### Description
 Transform your UBC Grades Summary into a LaTeX transcript using this Chrome extension! 
 
 Currently, UBC lacks an unofficial transcript, leaving students with a poorly formatted view of their Grades Summary page. While other solutions exist for improving the appearance of the Grades Summary page, this extension provides a transcript that looks professional and resembles the official version.
 
-The resulting transcript is loaded into Overleaf, a popular online LaTeX editor, using the Overleaf API (www.overleaf.com/devs). From there, it can be downloaded as a PDF or customized further by editing elements such as the table column names and line/table spacing.
+The resulting transcript is loaded into Overleaf, a popular online LaTeX editor, using the [Overleaf API](www.overleaf.com/devs). From there, it can be downloaded as a PDF or customized further by editing elements such as the table column names and line/table spacing.
 
 ### How to use this extension
 1. Sign up for a free [Overleaf](https://www.overleaf.com/) account if you don't have one already.
 2. Navigate to [Your Grades Summary](https://ssc.adm.ubc.ca/sscportal/servlets/SSCMain.jsp?function=SessGradeRpt) in the Student Service Centre.
-3. Click on the extension and adjust any options.
-4. Click on 'Generate Transcript.'
-4. Click on 'View Transcript in Overleaf' to load your transcript into Overleaf.
+3. Click on the extension and adjust any options (e.g., title, layout, filter W & Cr/D/F courses).
+4. Click on `Generate Transcript`.
+4. Click on `View Transcript in Overleaf` to load your transcript into Overleaf.
 
 ### How it works
-1. A LaTeX transcript is generated using the information from 'Your Grades Summary'.
+1. A LaTeX transcript is generated using the information from the 'Your Grades Summary' page.
    - The course title is found in [`./public/data`](https://github.com/sarah157/ubc-latex-transcript/tree/main/public/data), which was created from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data/tree/master/tableau-dashboard-v2)
-3. When the 'View Transcript in Overleaf' button is clicked, an HTML form POST request containing your Base64-encoded transcript is sent to the [Overleaf API](https://www.overleaf.com/devs):
+3. When the `View Transcript in Overleaf` button is clicked, an HTML form POST request containing your Base64-encoded transcript is sent to the Overleaf API:
    ```html
    <form action="https://www.overleaf.com/docs" method="POST" target="_blank">
       <input type="hidden" name="snip_uri[]" value="data:application/x-tex;base64,[your_base64_encoded_transcript]">      
@@ -28,12 +30,20 @@ The resulting transcript is loaded into Overleaf, a popular online LaTeX editor,
    </form>
    ```
 
+### How to run locally
+1. Clone the repo
+2. Run `npm install`
+2. Run `npm run start` for development mode or `npm run build` for production build
+3. Go to `chrome://extensions/` and click on `Load unpacked`
+   - make sure `Developer mode` is switched on
+4. Load the `dist` folder
+
 ### Images
 **Extension popup with default options**
 
-![Extension popup_with default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/4f7aaa45-c6d8-4c43-abd9-a10d65f9bd31)
+![Extension popup_with default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/59f1669e-6f51-4ba4-bc94-808f17e93304)
 
 
 **Transcript generated using default options**
 
-![Grades summary before and after with default options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/83316a94-55b5-42d1-90cf-7ec9a14b0fea)
+![Grades summary before and after with default options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/2b7e260f-311e-4b1e-ba3c-6dc49331767a)
