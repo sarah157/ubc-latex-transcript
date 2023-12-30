@@ -96,7 +96,9 @@ const parseCourse = async (courseRowEl: Element, campus: string) => {
       let value = courseRowEl.children[col].textContent.trim();
       // title is not in courseRow; instead get from storage (or fetch if not in storage)
       if (col === CourseColumn.TITLE) {
-        course[CourseColumn.TITLE] = await getCourseName(course[CourseColumn.NAME], campus);
+        const courseTitle = await getCourseName(course[CourseColumn.NAME], campus);
+        // escape latex special characters
+        course[CourseColumn.TITLE] = courseTitle.replace(/([&%$#_{}~^])/g, '\\$1');
       } else {
         // otherwise parse value from courseRowEl[col]
         if (col === CourseColumn.TERM && value == '') {
