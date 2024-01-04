@@ -98,7 +98,7 @@ const parseCourse = async (courseRowEl: Element, campus: string) => {
       if (col === CourseColumn.TITLE) {
         const courseTitle = await getCourseName(course[CourseColumn.NAME], campus);
         // escape latex special characters
-        course[CourseColumn.TITLE] = courseTitle.replace(/([&%$#_{}~^])/g, '\\$1');
+        course[CourseColumn.TITLE] = courseTitle?.replace(/([&%$#_{}~^])/g, '\\$1') || '---';
       } else {
         // otherwise parse value from courseRowEl[col]
         if (col === CourseColumn.TERM && value == '') {
