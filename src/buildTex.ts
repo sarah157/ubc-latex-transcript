@@ -10,10 +10,13 @@ export const buildTex = (
   const tex = [];
   const dropStdg = options.dropEmptyStdgCol && isStdgColEmpty;
   tex.push(docSetupAndHeaderTex(student, options, dropStdg));
-
+  
   // add document beginning
   tex.push('%%%%%%%%%%%%%%% TRANSCRIPT MAIN %%%%%%%%%%%%%%%');
   tex.push('\\begin{document}\n');
+  
+  // add border between course rows if specified in options
+  const hlineRow = options.bordersBetweenRows ? '\\hline' : '';
 
   if (options.groupBySession) {
     // create table for each session
@@ -22,7 +25,7 @@ export const buildTex = (
     }
   } else {
     // else create one table for all courses
-    tex.push(allSessionsTableTex(sessions, allCourses, dropStdg));
+    tex.push(allSessionsTableTex(sessions, allCourses, dropStdg, hlineRow));
   }
 
   // add document closing
@@ -51,7 +54,8 @@ const docSetupAndHeaderTex = (
 \\fancyfoot{}
 \\renewcommand{\\headrulewidth}{0pt}
 \\renewcommand{\\footrulewidth}{0pt}
-\\renewcommand{\\arraystretch}{1.4} % Line spacing - default 1
+\\renewcommand{\\arraystretch}{${options.groupBySession ? '1.4' : '1.6'}} % Line/row spacing - default 1
+${!options.groupBySession ? '\\setlength{\\tabcolsep}{4pt} % Column spacing' : ''}
 
 %%%%%%%%%%%%%%% DEFINITIONS %%%%%%%%%%%%%%%
 % Student info
@@ -80,20 +84,6 @@ ${tableDefinitionsTex(options, dropStdg)}
 
 const TAB = '    ';
 
-const courseTex = (course: Course, dropStdg: boolean) => {
-  const courseTex = [`${TAB}\\Course`];
-  courseTex.push(`{${course[CourseColumn.TERM]}}`);
-  courseTex.push(`{${course[CourseColumn.NAME]}}`);
-  courseTex.push(`{${course[CourseColumn.TITLE]}}`);
-  courseTex.push(`{${course[CourseColumn.PCT_GRADE]}}`);
-  courseTex.push(`{${course[CourseColumn.LETTER_GRADE]}}`);
-  courseTex.push(dropStdg ? '' : `{${course[CourseColumn.STANDING]}}`);
-  courseTex.push(`{${course[CourseColumn.CREDITS]}}`);
-  courseTex.push(`{${course[CourseColumn.CLASS_AVG]}}`);
-  courseTex.push(`{${course[CourseColumn.CLASS_SIZE]}}`);
-  return courseTex.join('');
-};
-
 const sessionTableTex = (
   session: Session,
   courses: Course[],
@@ -103,7 +93,17 @@ const sessionTableTex = (
   table.push(`\\begin{Table}{${sessionFullName(session.name)}}{${session.program}}{${session.campus}}{${session.yearLevel}}`);
 
   for (const course of courses) {
-    table.push(courseTex(course, dropStdg));
+    const courseTex = [`${TAB}\\Course`];
+    courseTex.push(`{${course[CourseColumn.TERM]}}`);
+    courseTex.push(`{${course[CourseColumn.NAME]}}`);
+    courseTex.push(`{${course[CourseColumn.TITLE]}}`);
+    courseTex.push(`{${course[CourseColumn.PCT_GRADE]}}`);
+    courseTex.push(`{${course[CourseColumn.LETTER_GRADE]}}`);
+    courseTex.push(dropStdg ? '' : `{${course[CourseColumn.STANDING]}}`);
+    courseTex.push(`{${course[CourseColumn.CREDITS]}}`);
+    courseTex.push(`{${course[CourseColumn.CLASS_AVG]}}`);
+    courseTex.push(`{${course[CourseColumn.CLASS_SIZE]}}`);
+    table.push(courseTex.join(''));
   }
 
   table.push('\\end{Table}\n');
@@ -114,13 +114,35 @@ const allSessionsTableTex = (
   sessions: Session[],
   allCourses: Course[][],
   dropStdg: boolean,
+  hlineRow: string,
 ) => {
   const table = [];
   table.push(`\\begin{Table}`);
 
   for (let i = 0; i < sessions.length; i++) {
-    for (const course of allCourses[i]) {
-      table.push(courseTex(course, dropStdg));
+    // order courses as seen in SSC All Sessions tab
+    // order by term (desc) then by course name (desc)
+    const orderedCourses = allCourses[i].sort((crs1, crs2) => {
+      if (crs1[CourseColumn.TERM] === crs2[CourseColumn.TERM]) {
+        return crs2[CourseColumn.NAME].localeCompare(crs1[CourseColumn.NAME]);
+      }
+      return crs2[CourseColumn.TERM].localeCompare(crs1[CourseColumn.TERM])
+    })
+    for (const course of orderedCourses) {
+      const courseTex = [];
+      courseTex.push(`{${course[CourseColumn.NAME]}}`);
+      courseTex.push(`{${course[CourseColumn.TITLE]}}`);
+      courseTex.push(`{${course[CourseColumn.PCT_GRADE]}}`);
+      courseTex.push(`{${course[CourseColumn.LETTER_GRADE]}}`);
+      courseTex.push(`{${sessions[i].name}}`);
+      courseTex.push(`{${course[CourseColumn.TERM]}}`);
+      courseTex.push(`{${sessions[i].program}}`);
+      courseTex.push(`{${sessions[i].yearLevel}}`);
+      if (!dropStdg) courseTex.push(`{${course[CourseColumn.STANDING]}}`);
+      courseTex.push(`{${course[CourseColumn.CREDITS]}}`);
+      courseTex.push(`{${course[CourseColumn.CLASS_AVG]}}`);
+      courseTex.push(`{${course[CourseColumn.CLASS_SIZE]}}`);
+      table.push([TAB] + courseTex.join(' & ') + [` \\\\${hlineRow}`]);
     }
   }
 
@@ -142,12 +164,22 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   const pipe = options.bordersAroundTables ? '|' : '';
   const hline = options.bordersAroundTables ? '\\hline' : '';
   const hlineRow = options.bordersBetweenRows ? '\\hline' : '';
-  const n = dropStdg ? 8 : 9;
+  let n = options.groupBySession ? 9 : 12;
+  if (dropStdg) n--;
 
-  const tableBegin = `\\begin{longtable}{${pipe}l l p{${dropStdg ? '8' : '7'}cm}@{\\extracolsep{\\fill}} r l ${dropStdg ? '' : ' l'} r r r${pipe}}`;
-  const tableFooter =
+  const tableBegin = 
+    options.groupBySession 
+      ? `\\begin{longtable}{${pipe}l l p{${dropStdg ? '8' : '7'}cm}@{\\extracolsep{\\fill}} r l ${dropStdg ? '' : 'l'} r r r${pipe}}`
+      : `\\begin{longtable}{${pipe}l p{${dropStdg ? '7' : '6'}cm}@{\\extracolsep{\\fill}} r l l l l l ${dropStdg ? '' : 'l'} r r r${pipe}}`;
+
+  const tableFooter = 
     options.bordersAroundTables && !options.bordersBetweenRows
       ? `% Table Footer\n${TAB}\\hline\\endfoot`
+      : '';
+
+  const extraColsForSessionInfo = 
+    !options.groupBySession
+      ? '\\textbf{Session} & \\textbf{Term} & \\textbf{Prgm} & \\textbf{Yr} &'
       : '';
 
   const sessionTable = `% Session table environment; args: Session, Program, Campus, Year
@@ -176,13 +208,13 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   return `% Table column names
 \\newcommand{\\TableColumnNames}{
 \\multicolumn{${n - 2}}{${pipe}c}{} & \\multicolumn{2}{c${pipe}}{\\textbf{Class}} \\\\[-0.5em]
-\\textbf{Term} & \\textbf{Course} & \\textbf{Course Title} & \\textbf{Pct \\%} & \\textbf{Grade} & ${dropStdg ? '' : '\\textbf{Stdg} &'} \\textbf{Credits} & \\textbf{Avg} & \\textbf{Size}\\\\}
+${options.groupBySession ? '\\textbf{Term} &' : ''} \\textbf{Course} & \\textbf{Course Title} & \\textbf{Grade} & \\textbf{Letter} & ${extraColsForSessionInfo} ${dropStdg ? '' : '\\textbf{Stdg} &'} \\textbf{Credits} & \\textbf{Avg} & \\textbf{Size}\\\\}
 
 % Table heading
 \\newcommand{\\TableHeading}[1]{${hline}\\multicolumn{${n}}{${pipe}l${pipe}}{\\cellcolor{gray!25}\\large{\\textbf{#1}}}\\\\}
 
-% Table course row
-\\newcommand{\\Course}[${n}]{#1 & #2 & #3 & #4 & #5 & #6 & #7 & #8 ${dropStdg ? '' : '& #9'}\\\\ ${hlineRow}}
-
+${options.groupBySession 
+  ? `% Table course row\n\\newcommand{\\Course}[${n}]{#1 & #2 & #3 & #4 & #5 & #6 & #7 & #8 ${dropStdg ? '' : '& #9'}\\\\ ${hlineRow}}\n`
+  : ''}
 ${options.groupBySession ? sessionTable : allSessionsTable}`;
 };

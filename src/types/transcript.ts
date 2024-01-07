@@ -34,3 +34,6 @@ export type Student = {
   name?: string;
   number?: string;
 };
+
+// non-breaking space is used to split Course name into subject and code (e.g., MATH&nbsp;200)
+export const NBSP = ' ';
