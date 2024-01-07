@@ -1,4 +1,4 @@
-import { getStorageItem } from './helpers';
+import { getStorageItem, setStorageItem } from './helpers';
 import {
   ButtonText,
   ButtonType,
@@ -66,10 +66,10 @@ const handleButtonClick = () => {
 };
 
 const handleUpdateOptions = async (event: InputEvent) => {
-  if (event.type == 'input') {
-    await chrome.storage.sync.set({ [FormField.Title]: event.target.value });
+  if (event.type === 'input') {
+    await setStorageItem(FormField.Title, event.target.value);
   } else {
-    await chrome.storage.sync.set({ [event.target.id]: event.target.checked });
+    await setStorageItem(event.target.id, event.target.checked);
   }
   if (button.type === ButtonType.SUBMIT) {
     resetButton();

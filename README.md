@@ -5,7 +5,7 @@ Add to Chrome [here.](https://chromewebstore.google.com/detail/ubc-latex-transcr
 ### Description
 Transform your UBC Grades Summary into a LaTeX transcript using this Chrome extension! 
 
-Currently, UBC lacks an unofficial transcript, leaving students with a poorly formatted view of their Grades Summary page. While other solutions exist for improving the appearance of the Grades Summary page, this extension provides a transcript that looks professional and resembles the official version.
+Currently, the unofficial transcript at UBC is a poorly formatted printout of the student Grades Summary page. While other solutions exist for improving the appearance of the Grades Summary page, this extension provides a transcript that looks professional and resembles the official version.
 
 The resulting transcript is loaded into Overleaf, a popular online LaTeX editor, using the [Overleaf API](www.overleaf.com/devs). From there, it can be downloaded as a PDF or customized further by editing elements such as the table column names and line/table spacing.
 
@@ -18,7 +18,7 @@ The resulting transcript is loaded into Overleaf, a popular online LaTeX editor,
 
 ### How it works
 1. A LaTeX transcript is generated using the information from the 'Your Grades Summary' page.
-   - The course title is found in [`./public/data`](https://github.com/sarah157/ubc-latex-transcript/tree/main/public/data), which was created from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data)
+   - The course title is found in [`./public/data`](https://github.com/sarah157/ubc-latex-transcript/tree/main/public/data), which was created from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data).
 3. When the `View Transcript in Overleaf` button is clicked, an HTML form POST request containing your Base64-encoded transcript is sent to the Overleaf API:
    ```html
    <form action="https://www.overleaf.com/docs" method="POST" target="_blank">
