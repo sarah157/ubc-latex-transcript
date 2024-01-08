@@ -7,7 +7,7 @@ Transform your UBC Grades Summary into a LaTeX transcript using this Chrome exte
 
 Currently, the unofficial transcript at UBC is a poorly formatted printout of the student Grades Summary page. While other solutions exist for improving the appearance of the Grades Summary page, this extension provides a transcript that looks professional and resembles the official version.
 
-The resulting transcript is loaded into Overleaf, a popular online LaTeX editor, using the [Overleaf API](www.overleaf.com/devs). From there, it can be downloaded as a PDF or customized further by editing elements such as the table column names and line/table spacing.
+The resulting transcript is loaded into Overleaf, a popular online LaTeX editor, using the [Overleaf API](https://www.overleaf.com/devs). From there, it can be downloaded as a PDF or customized further by editing elements such as the table column names and line/table spacing.
 
 ### How to use this extension
 1. Sign up for a free [Overleaf](https://www.overleaf.com/) account if you don't have one already.
