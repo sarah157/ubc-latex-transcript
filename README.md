@@ -18,15 +18,15 @@ The resulting transcript is loaded into Overleaf, a popular online LaTeX editor,
 
 ### How it works
 1. A LaTeX transcript is generated using the information from the 'Your Grades Summary' page.
-   - The course title is found in [`./public/data`](https://github.com/sarah157/ubc-latex-transcript/tree/main/public/data), which was created from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data).
+   - Most course titles are found in [`./public/data`](https://github.com/sarah157/ubc-latex-transcript/tree/main/public/data), which was created from [ubc-pair-grade-data](https://github.com/DonneyF/ubc-pair-grade-data). Otherwise, the [UBCGrades API](https://ubcgrades.com/api-reference) is used.
 3. When the `View Transcript in Overleaf` button is clicked, an HTML form POST request containing your Base64-encoded transcript is sent to the Overleaf API:
    ```html
    <form action="https://www.overleaf.com/docs" method="POST" target="_blank">
       <input type="hidden" name="snip_uri[]" value="data:application/x-tex;base64,[your_base64_encoded_transcript]">      
-      <input type="hidden" name="snip_uri[]" value="<url_to_ubc_logo_png>">
+      <input type="hidden" name="snip_uri[]" value="[url_to_ubc_logo_png]">
       <input type="hidden" name="snip_name" value="transcript.tex">
       <input type="hidden" name="snip_name" value="ubc-logo.png">
-      <button type="submit" id="button">View Transcript in Overleaf</button>
+      <button type="submit">View Transcript in Overleaf</button>
    </form>
    ```
 

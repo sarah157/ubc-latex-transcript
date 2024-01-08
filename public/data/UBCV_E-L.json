@@ -1,0 +1,4471 @@
+{
+  "LWS-548": "Major Project",
+  "ENGL-110": "Approaches to Literature and Culture",
+  "ENGL-224": "World Literature in English",
+  "ENGL-225": "Poetry",
+  "ENGL-301": "Technical Writing",
+  "ENGL-321": "English Grammar and Usage",
+  "ENGL-330": "The Structure of Modern English: Sounds and Words",
+  "ENGL-348": [
+    [
+      "2019W",
+      "Shakespeare"
+    ],
+    [
+      "2014S",
+      "Shakespeare and the Renaissance"
+    ]
+  ],
+  "ENGL-362": [
+    [
+      "2019W",
+      "Victorian Period Literature"
+    ],
+    [
+      "2014W",
+      "Studies in a Nineteenth-Century Genre"
+    ]
+  ],
+  "ENGL-392": "Children's Literature",
+  "ENGL-397": "Studies in Prose Fiction",
+  "ENGL-490": "Literature Majors Seminar",
+  "ENGL-491": "Senior Honours Seminar",
+  "ENGL-565": "Studies in Environmental Humanities",
+  "ITAL-101": [
+    [
+      "2020S",
+      "Beginners' Italian I"
+    ],
+    [
+      "2004W",
+      "First-Year Italian I"
+    ]
+  ],
+  "ITAL-102": [
+    [
+      "2020S",
+      "Beginners' Italian II"
+    ],
+    [
+      "2004W",
+      "First-Year Italian II"
+    ]
+  ],
+  "ITAL-322": "Italian for Reading Knowledge",
+  "LATN-101": [
+    [
+      "2019W",
+      "Beginning Latin I"
+    ],
+    [
+      "2014W",
+      "First-Year Latin I"
+    ]
+  ],
+  "EDST-493": "Introduction to the Study of Higher Education",
+  "EDST-508": "Review of Research in Educational Studies",
+  "EDST-514": "Adult Education Program Planning Theory",
+  "EDST-520": "Perspectives on Adult Education Practice",
+  "EDST-526": "Advanced Study of Educational Organizations",
+  "EDST-528": "Social Movements, Political Learning and Popular Education",
+  "EDST-532": "Leadership in Educational Organizations",
+  "EDST-536": "Higher Education Systems in Canada",
+  "EDST-542": "Fostering Learning in Practice",
+  "EDST-557": "Professional Ethics and School Leadership",
+  "EDST-558": "Antiracism Education",
+  "EDST-565": "Special Course in Subject Matter Field",
+  "EDST-572": "Research, Writing, and Representation",
+  "EDST-577": "Social Contexts of Educational Policy, Politics and Practice",
+  "EDST-583": "Advanced Seminar in Educational Studies",
+  "EDST-591": "Indigenous Epistemology and Curriculum",
+  "EDST-595": "Philosophical Research in Education",
+  "FRST-150": "Scholarly Writing and Argumentation in Forestry",
+  "FRST-231": "Introduction to Biometrics",
+  "FRST-307": "Biotic Disturbances",
+  "FRST-318": "Forest and Conservation Economics",
+  "FRST-395": "Forest Wildlife Ecology and Management",
+  "FRST-425": "Forest Planning",
+  "FRST-449": "Directed Studies in Forestry",
+  "FRST-456": "The Role of Natural and Planted Forests in the Global Bioeconomy",
+  "FRST-526": [
+    [
+      "2018S",
+      "Directed Studies in International Forestry"
+    ],
+    [
+      "2006W",
+      "Directed Studies in Forests and Society"
+    ]
+  ],
+  "FREN-101": "Beginners' French I",
+  "FREN-102": "Beginners' French II",
+  "FREN-201": "Elementary French I",
+  "FREN-202": "Elementary French II",
+  "FREN-301": "Intermediate French I",
+  "FREN-302": "Intermediate French II",
+  "FREN-341": "Arts, Cultures and Society from Romanticism to the Present Day",
+  "FREN-401": "Upper-Intermediate French I",
+  "FREN-402": "Upper-Intermediate French II",
+  "FREN-420": "Selected Topics in French Literature and Culture",
+  "FIST-100": "Introduction to Film Studies",
+  "FIST-300": "Cult Cinema",
+  "FIST-434": "Studies in Film",
+  "ELEC-281": "Technical Communication",
+  "ELEC-291": [
+    [
+      "2016S",
+      "Electrical Engineering Design Studio I"
+    ],
+    [
+      "2015W",
+      "Electrical and Computer Engineering Design Studio"
+    ]
+  ],
+  "ELEC-341": "Systems and Control",
+  "ELEC-391": "Electrical Engineering Design Studio II",
+  "ELEC-481": "Economic Analysis of Engineering Projects",
+  "ELEC-491": "Electrical Engineering Capstone Design Project",
+  "FMST-210": "Family Context of Human Development",
+  "FMST-312": "Parent-child Relationships",
+  "FMST-314": "Relationship Development",
+  "FMST-316": "Human Sexuality",
+  "FMST-441": "Social Context of Child Development",
+  "FNH-161": "Integrated Physiology for Human Nutrition II",
+  "FNH-200": "Exploring Our Food",
+  "FNH-250": "Nutrition Concepts and Controversies",
+  "FNH-330": [
+    [
+      "2023S",
+      "Introduction to Wine Science I"
+    ],
+    [
+      "2014S",
+      "Introduction to Wine Science 1"
+    ]
+  ],
+  "FNH-355": "International Nutrition",
+  "ECON-101": "Principles of Microeconomics",
+  "ECON-102": "Principles of Macroeconomics",
+  "ECON-323": "Quantitative Economic Modelling with Data Science Applications",
+  "ECON-325": "Introduction to Empirical Economics",
+  "ECON-345": "Money and Banking",
+  "ECON-350": "Public Finance Policy Topics",
+  "ECON-355": "Introduction to International Trade",
+  "ECON-356": "Introduction to International Finance",
+  "ECON-367": "Economic Analysis of Law",
+  "ECON-371": "Economics of the Environment",
+  "ECON-441": "The Process of Economic Development",
+  "ECON-594": "Applied Economics",
+  "HIST-220": "History of Europe",
+  "HIST-270": "China in World History",
+  "HIST-324": "Inventing Canada, 1840-1896",
+  "HIST-383": "Foundations of Sikh Traditions",
+  "HIST-402": "Problems in International Relations",
+  "HIST-425": "War and Society",
+  "HIST-441": "History of the Holocaust",
+  "HIST-484": "East Asian Military systems and warfare China",
+  "GRSJ-101": [
+    [
+      "2017S",
+      "Introduction to Social Justice"
+    ],
+    [
+      "2013W",
+      "Gender, Race, Sex and Power"
+    ]
+  ],
+  "GRSJ-224": "Gender, Race, Sexuality, and Social Justice in Literature",
+  "GRSJ-300": [
+    [
+      "2015W",
+      "Intersectional Approaches to Thinking Gender"
+    ],
+    [
+      "2013W",
+      "Intersectional Approaches to Gender Relations"
+    ]
+  ],
+  "EDUC-401": "Instructional Design",
+  "EDUC-500": "Research Methodology in Education",
+  "IGEN-201": "Integrated Technical Communication",
+  "KORN-102": "Basic Korean",
+  "FRE-547": "Graduating Project",
+  "HPB-504": "Building Energy Systems Design",
+  "HPB-505": "Capstone: Greening Existing Buildings",
+  "ETEC-500": "Research Methodology in Education",
+  "ETEC-510": "Design of Technology- Supported Learning Environments",
+  "ETEC-511": "Foundations of Educational Technology",
+  "ETEC-512": "Applications of Learning Theories to the Analysis of Instructional Settings",
+  "ETEC-520": [
+    [
+      "2022W",
+      "Planning and Managing eLearning"
+    ],
+    [
+      "2002W",
+      "Planning and Managing Learning Technologies in Higher Education"
+    ]
+  ],
+  "ETEC-521": "Indigeneity, Technology, and Education",
+  "ETEC-522": "Ventures in Learning Technology",
+  "ETEC-524": "Learning Technologies: Selection, Design, and Application",
+  "ETEC-542": [
+    [
+      "2021S",
+      "Culture and Communication in Virtual Learning Environments"
+    ],
+    [
+      "2020W",
+      "Culture and Communication in Virtual Environments"
+    ]
+  ],
+  "ETEC-565": "Special Course in Subject Matter Field",
+  "FNEL-191": "Introduction to an Indigenous Language I",
+  "FNEL-480": "Endangered Language Documentation and Revitalization",
+  "LFS-302": "International Field Studies",
+  "LFS-303": "International Field Studies in Policy Analysis for Agriculture and Natural Resources",
+  "LFS-496": [
+    [
+      "2019W",
+      "Career Development Practicum"
+    ],
+    [
+      "2009W",
+      "Career Development Internship"
+    ]
+  ],
+  "INLB-201": "Special Topics in Indigenous Land-based Studies",
+  "IWME-505": "Water Resources Systems Planning and Management",
+  "EDCP-328": "Environmental Education",
+  "EDCP-329": "Agriculture in the Curriculum",
+  "EDCP-343": "Mathematics Education: Problem Solving",
+  "EDCP-413": "Digital Media for Music Education",
+  "EDCP-467": "Special Topics in Curriculum and Pedagogy",
+  "EDCP-493": "Special Study in Home Economics: Foods Studies",
+  "EDCP-494": "Special Study in Home Economics: Family Studies",
+  "EDCP-496": "Global Education and Curriculum",
+  "EDCP-508": "Review of Research in Curriculum and Pedagogy",
+  "EDCP-525": "Special Colloquia in Music Education",
+  "EDCP-532": "Theories and Dimensions of Place-Based Education: Ecohumanist, Critical, and Indigenous Lenses",
+  "EDCP-535": "Research in School Health Education",
+  "EDCP-536": "Curriculum and Pedagogy in Home Economics",
+  "EDCP-538": "Theory and Research in Environmental Education",
+  "EDCP-539": "Narrativity, Ecopedagogy and Indigeneity",
+  "EDCP-542": "Theorizing Pedagogy",
+  "EDCP-546": "Indigenous Visual Expression as Pedagogy",
+  "EDCP-552": "Mathematics Education: Early Years",
+  "EDCP-557": "Issues in the Teaching and Learning of the Sciences",
+  "EDCP-559": "Research in the Teaching and Learning of the Sciences",
+  "EDCP-562": "Curriculum Issues and Theories",
+  "EDCP-564": "Texts, Politics, and Ideologies of Curriculum Development",
+  "EDCP-567": "Curriculum Issues and Theories in Museums",
+  "EDCP-575": "Media Education: Curriculum, Pedagogy, and Issues",
+  "EDCP-585": "Special Course in Curriculum and Pedagogy",
+  "EPSE-303": "Teaching Highly Able Learners",
+  "EPSE-312": "Introduction to the Study of Exceptional Children",
+  "EPSE-320": "Classroom Inclusion of Students who are Blind and Visually Impaired",
+  "EPSE-348": "Family-Centred Practice for Children with Special Needs",
+  "EPSE-403": "Education of Students with Developmental Disabilities in Inclusive Settings",
+  "EPSE-406": "Typical and Atypical Development in Infants and Children",
+  "EPSE-426": "Classroom Inclusion of Students Who are d/Deaf or Hard of Hearing",
+  "EPSE-432": "Classroom Management",
+  "EPSE-433": "Assessment and Positive Behavioural Support in School and Community Settings",
+  "EPSE-436": "Survey of Behaviour Disorders in Children and Adolescents",
+  "EPSE-437": "Interventions for Children and Adolescents with Behaviour Disorders",
+  "EPSE-449": "Education of Students with Autism",
+  "EPSE-462": "Human Development in Education",
+  "EPSE-482": "Introduction to Statistics for Research in Education",
+  "EPSE-483": "Reading and Interpreting Research in Education",
+  "EPSE-502": "Cognition, Language and Literacy Processes in Education",
+  "EPSE-509": "Organization of Special Education Services",
+  "EPSE-511": "Special Topics in Human Development, Learning, and Culture",
+  "EPSE-512": "Critical Issues in Special Education",
+  "EPSE-516": "Seminar in the Development and Education of Highly Able and Creative Learners",
+  "EPSE-518": "Speech Development of Deaf and Hard of Hearing Students",
+  "EPSE-520": "Curriculum Development in the Education of Deaf and Hard of Hearing Students",
+  "EPSE-540": "Seminar in Low Vision",
+  "EPSE-541": "Braille Reading and Writing",
+  "EPSE-552": [
+    [
+      "2020S",
+      "Intervention and Mental Health Promotion in Schools"
+    ],
+    [
+      "2007W",
+      "School-Based Interventions"
+    ]
+  ],
+  "EPSE-579": "Supervision and Management for Behaviour Analysts",
+  "EPSE-583": "Fostering Self-Regulated Learning",
+  "EPSE-588": "Indigenous Pathways Through Social and Emotional Learning",
+  "EOSC-114": "The Catastrophic Earth: Natural Disasters",
+  "EOSC-116": "Mesozoic Earth: Time of the Dinosaurs.",
+  "EOSC-118": "Earth's Treasures: Gold and Gems",
+  "EOSC-310": "The Earth and the Solar System",
+  "EOSC-311": "The Earth and its Resources",
+  "EOSC-314": "The Ocean Environment",
+  "EOSC-326": "Earth and Life Through Time",
+  "ISCI-361": "Field Course: Systems Approaches to Regional Sustainability",
+  "GERM-100": "Beginners' German I",
+  "GERM-110": "Beginners' German II",
+  "GERM-200": "Intermediate German I",
+  "GERM-210": "Intermediate German II",
+  "GERM-433": "German for Reading Knowledge I",
+  "LARC-582": [
+    [
+      "2015W",
+      "Seminar: Special Topics"
+    ],
+    [
+      "2000W",
+      "Special Topics Seminar"
+    ]
+  ],
+  "ECED-400": "Introduction to Early Childhood Education and Care",
+  "ECED-401": "Supporting Young Children's Health and Well-Being in Early Childhood Settings",
+  "ECED-406": "Early Learning Curriculum in the Pre-School Years",
+  "ECED-407": "Supporting Early Learning in the Pre-School Years",
+  "ECED-416": "Kindergarten Curriculum",
+  "ECED-420": "History of Early Childhood Education",
+  "ECED-421": "Supporting Young Children Through Home, School, and Community Relationships",
+  "ECED-438": "Observation and Documentation in Early Childhood Settings",
+  "ECED-439": "Assessment of Infants and Young Children with Special Needs",
+  "ECED-530": "Early Childhood Development, Intervention, and Inclusion in Early Childhood Programs",
+  "ECED-531": "Supporting Young Children's Social Emotional Learning in Early Childhood Programs",
+  "ECED-565": "Special Course in Early Childhood Education",
+  "EECE-599": "Thesis",
+  "KIN-110": "Human Anatomy",
+  "KIN-131": "Systems Physiology I",
+  "KIN-132": "Systems Physiology II",
+  "KIN-235": "Exercise Physiology I",
+  "KIN-335": "Advanced Applications of Exercise Physiology",
+  "KIN-368": "Indigenous Sport and Physical Culture in Settler Canada",
+  "KIN-483": "Advanced Seminar in Systems Biology, Exercise and Health",
+  "KIN-500": "Special Topics in Kinesiology",
+  "KIN-530": "Directed Studies",
+  "KIN-596": "High Performance Sport Inquiry",
+  "KIN-597": "Practical Applications in High Performance Sport",
+  "FIPR-469": "Special Projects",
+  "JAPN-100": "Beginning Japanese IA",
+  "JAPN-101": "Beginning Japanese IB",
+  "JAPN-200": "Beginning Japanese II A",
+  "JAPN-201": "Beginning Japanese II B",
+  "JAPN-360": "Intensive Intermediate Japanese I",
+  "JAPN-361": "Intensive Intermediate Japanese II",
+  "LAW-372": "Administrative Law",
+  "LAW-430": "Advanced Legal Research",
+  "LAW-459": "Business Organizations",
+  "LAW-468": "Ethics and Professionalism",
+  "LAW-505": "Canadian Public Law",
+  "LAW-509": "Administrative Law",
+  "LAW-515": "Canadian Private Law: Contractual Obligations and Remedies",
+  "LAW-525": "Canadian Criminal Law and Procedure",
+  "LAW-530": "Advanced Legal Research and Writing",
+  "LAW-561": "Fundamental Concepts in Tax Law",
+  "LAW-588": "Ethics and Professionalism",
+  "GEOS-103": "Our Changing Environment: Water and Landscapes",
+  "GEOS-270": "Geographic Information Science",
+  "GEOS-309": "Geographical Sciences Field Course",
+  "ENPH-253": "Introduction to Instrument Design",
+  "ENPH-257": "Heat and Thermodynamics",
+  "ENPH-270": "Mechanics II",
+  "HGSE-320": [
+    [
+      "2021W",
+      "Special Topics on Ecology and Society"
+    ],
+    [
+      "2018S",
+      "Special Topics on Ecology in Indigenous Contexts"
+    ]
+  ],
+  "HGSE-330": "Social Ecological Change: An Introduction to Systems Thinking and Resilience",
+  "HGSE-331": "Environmental Assessment in Cross-Cultural and Indigenous Contexts",
+  "HGSE-332": "Plant Ecology and Diversity",
+  "HGSE-333": "Indigenous Plant Knowledge: Ethnoecology and Ethnobotany",
+  "HGSE-372": "Language and Cultural Continuity",
+  "HGSE-381": "Ecological Economics",
+  "LIBR-514": "Topics in the Bibliographic Control of Information",
+  "LIBR-525": "Illustrated Literature and Other Materials for Children",
+  "LIBR-529": "Services for Families and Early Literacy in the Preschool Years",
+  "LIBR-531": "Client-Centred Services for Adults",
+  "LIBR-545": "Adult Popular Reading & Media Iinterests",
+  "LIBR-554": "Database Design",
+  "LIBR-559": "Topics in Computer-Based Information Systems",
+  "LIBR-574": "Project Management in Information Organizations",
+  "LIBR-575": "Academic Libraries",
+  "LIBR-587": "Preservation",
+  "LIBE-461": "Administration of the School Library Resource Centre",
+  "LIBE-465": "Organization of Learning Resources",
+  "LIBE-477": "Special Topics in Teacher Librarianship",
+  "GEOG-250": "Cities",
+  "GEOG-310": "Environment and Sustainability",
+  "GEOG-318": "Sustainability in a Changing Environment",
+  "GEOG-350": [
+    [
+      "2017W",
+      "Urban Worlds"
+    ],
+    [
+      "1996S",
+      "Introduction to Urban Geography"
+    ]
+  ],
+  "GEOG-357": [
+    [
+      "2020W",
+      "Society, Culture & Space"
+    ],
+    [
+      "2009W",
+      "Introduction to Social Geography"
+    ]
+  ],
+  "GEOG-410": "Environment and Society",
+  "GEOG-599": "Master's Thesis",
+  "LLED-421": "Gramligne: Learning and Teaching Grammar in Text for the Second Language Classroom",
+  "LLED-446": "Teaching with Illustrated Materials, K-12: From Picture Books to Information Texts",
+  "LLED-449": [
+    [
+      "2017S",
+      "Teaching Adolescents Literature"
+    ],
+    [
+      "2000W",
+      "Teaching Adolescents' Literature"
+    ]
+  ],
+  "LLED-459": "Trends and Issues in Literacy Instruction",
+  "LLED-469": [
+    [
+      "2017S",
+      "Inquiry-Based Pedagogy in School Library Programs"
+    ],
+    [
+      "2001S",
+      "Resource-Based Teaching"
+    ]
+  ],
+  "LLED-478": "Introduction to Teaching English as a Second Language",
+  "LLED-489": "Applied Linguistics for Teachers",
+  "LLED-513": "Indigenous Storytelling in Education",
+  "LLED-521": "Interculturality in Language Education: Theories, Research, and Practice",
+  "LLED-535": "Theory and Research in Drama in Education",
+  "LLED-536": "Drama, Literacies and Literature in Education",
+  "LLED-565": "Special Course in Subject Matter Field",
+  "LLED-573": "Theories of Second Language Acquisition",
+  "LING-101": "Languages of the World",
+  "LING-200": "Linguistic Theory and Analysis I",
+  "LING-201": "Linguistic Theory and Analysis II",
+  "LING-222": "Language Acquisition",
+  "EOSC-110": "The Solid Earth: A Dynamic Planet",
+  "EOSC-111": "Laboratory Exploration of Planet Earth",
+  "EOSC-112": "The Fluid Earth: Atmosphere and Ocean",
+  "EOSC-210": "Earth Science for Engineers",
+  "EOSC-211": "Computer Methods in Earth, Ocean and Atmospheric Sciences",
+  "EOSC-212": "Topics in the Earth and Planetary Sciences.",
+  "EOSC-213": "Computational Methods in Geological Engineering",
+  "EOSC-220": "Introductory Mineralogy",
+  "EOSC-221": "Introductory Petrology",
+  "EOSC-222": "Geological Time and Stratigraphy",
+  "EOSC-223": "Field Techniques",
+  "EOSC-240": "Site Investigation",
+  "EOSC-250": "Fields and Fluxes",
+  "EOSC-270": "Marine Ecosystems",
+  "EOSC-315": "The Ocean Ecosystem",
+  "EOSC-320": "Sedimentology",
+  "EOSC-321": "Igneous Petrology",
+  "EOSC-322": "Metamorphic Petrology",
+  "EOSC-323": "Structural Geology I",
+  "EOSC-325": "Principles of Physical Hydrogeology",
+  "EOSC-328": "Field Geology",
+  "EOSC-329": "Quantitative Groundwater Hydrology",
+  "EOSC-330": "Principles of Geomorphology",
+  "EOSC-331": "Introduction to Mineral Deposits",
+  "EOSC-332": "Tectonic Evolution of North America",
+  "EOSC-333": "Elemental and Isotopic Geochemistry",
+  "EOSC-340": "Global Climate Change",
+  "EOSC-350": "Environmental, Geotechnical, and Exploration Geophysics I",
+  "EOSC-352": "Geophysical Continuum Dynamics",
+  "EOSC-353": "Seismology",
+  "EOSC-354": "Analysis of Time Series and Inverse Theory for Earth Scientists",
+  "EOSC-372": "Introductory Oceanography: Circulation and Plankton",
+  "EOSC-373": "Introductory Oceanography: Climate and Ecosystems",
+  "EOSC-410": "Geoscientific Data Analysis and Empirical Modelling",
+  "EOSC-420": "Volcanology",
+  "EOSC-425": "Paleontology",
+  "EOSC-426": "Fundamentals of Geomicrobiology",
+  "EOSC-428": "Field Techniques in Groundwater Hydrology",
+  "EOSC-429": "Groundwater Contamination",
+  "EOSC-432": "Fossil Fuels",
+  "EOSC-433": [
+    [
+      "2017W",
+      "Geological Engineering Practice I - Rock Engineering"
+    ],
+    [
+      "2000W",
+      "Geotechnical Engineering Practice"
+    ]
+  ],
+  "EOSC-434": [
+    [
+      "2017W",
+      "Geological Engineering Practice II - Soil Engineering"
+    ],
+    [
+      "2012W",
+      "Geological Engineering Soils and Weak Rocks"
+    ]
+  ],
+  "EOSC-442": "Climate Measurement and Analysis",
+  "EOSC-445": "Engineering Design Project",
+  "EOSC-453": "Physics of the Earth and Other Planets",
+  "EOSC-470": "Biological Oceanography",
+  "EOSC-471": "Waves, Currents and Ocean Mixing",
+  "EOSC-472": "Chemical Oceanography and Marine Geochemistry",
+  "EOSC-473": "Methods in Oceanography",
+  "EOSC-474": "Marine Pollution",
+  "EOSC-475": "Marine Microbiology",
+  "EOSC-478": "Introduction to Fisheries Science",
+  "EOSC-510": "Data Analysis in Atmospheric, Earth and Ocean Sciences",
+  "EOSC-529": [
+    [
+      "2020W",
+      "Topics in Geohazard Risk Management"
+    ],
+    [
+      "2000W",
+      "Advanced Geotechnics"
+    ]
+  ],
+  "EOSC-531": "Exploration Methodology",
+  "EOSC-532": "Field Laboratory in Groundwater Hydrology",
+  "EOSC-533": "Advanced Groundwater Hydrology",
+  "EOSC-534": "Geological Engineering: Soils and Weak Rocks",
+  "EOSC-536": "Advanced Rock Engineering",
+  "EOSC-542": "Advanced Volcanology",
+  "EOSC-543": "Topics in Solid Earth Sciences",
+  "EOSC-547": "Tunneling and Underground Engineering",
+  "EOSC-555": "Nonlinear Inverse Theory",
+  "EOSC-573": "Methods in Oceanography",
+  "EOSC-595": "Directed Studies",
+  "EOSC-598": "M.Eng. Graduating Paper",
+  "KIN-120": "Health and Exercise Management",
+  "KIN-140": "Lifespan Motor Development",
+  "KIN-150": "Sport and Exercise Psychology",
+  "KIN-160": "Leisure and Sport in Society",
+  "KIN-205": "Research Methods in Kinesiology",
+  "KIN-206": "Introduction to Statistics in Kinesiology",
+  "KIN-211": "Human Motor Behaviour I",
+  "KIN-216": "Biomechanics I",
+  "KIN-232": "Nutrition, Physical Activity, and Health",
+  "KIN-262": "Health Policy and Society",
+  "KIN-300": "Human Athletic Performance",
+  "KIN-311": "Sensorimotor Control of Human Movement",
+  "KIN-313": "Neuromuscular Integration of Human Movement",
+  "KIN-316": "Biomechanical Properties of Tissues",
+  "KIN-320": "Exercise Testing and Prescription",
+  "KIN-341": "Instructional Strategies for Including Persons with Disabilities in Physical Activity",
+  "KIN-342": "Creating Effective, Developmentally Appropriate, Physical Activity Learning Environments",
+  "KIN-344": "Leisure Services for Persons with a Disability",
+  "KIN-345": "Foundations of Coaching",
+  "KIN-355": "Movement Experiences for Young Children",
+  "KIN-360": "Sport, Peace, and Conflict",
+  "KIN-364": "The Modern Olympics: Power, Politics, and Performance",
+  "KIN-411": "Neuroanatomy of Human Movement",
+  "KIN-419": "Laboratory Investigations in Neuromechanical Kinesiology",
+  "KIN-420": "Prevention of Sports Injuries",
+  "KIN-424": "Medical Aspects of Sport and Exercise",
+  "KIN-432": "Sport Nutrition",
+  "KIN-435": "Pulmonary Physiology of Exercise",
+  "KIN-438": [
+    [
+      "2022W",
+      "Skeletal Muscle Physiology: Molecular Adaptions to Training, Disuse and Aging"
+    ],
+    [
+      "2020W",
+      "Skeletal Muscle Physiology: From Generation to Regeneration"
+    ]
+  ],
+  "KIN-442": "Planning Physical Education, Sport and Exercise Programs",
+  "KIN-444": "Exploring Alternative Methods for Teaching Games and Sports",
+  "KIN-453": "Understanding and Changing Physical Activity Behaviour",
+  "KIN-459": "Psychobiology of Physical Activity",
+  "KIN-464": "Health Promotion and Physical Activity",
+  "KIN-465": "Interculturalism, Health and Physical Activity",
+  "KIN-468": "Indigenous Health and Wellness",
+  "KIN-482": "Advanced Seminar in Neuromechanics",
+  "KIN-487": "Advanced Seminar in Sociocultural Studies",
+  "KIN-488": "Advanced Seminar in Interdisciplinary Research in Kinesiology",
+  "KIN-490": "Directed Studies in Kinesiology",
+  "KIN-492": "Undergraduate Research Experience in Kinesiology",
+  "KIN-517": "Business of High Performance Sport in Canada",
+  "KIN-562": "Bioenergetics of Physical Activity",
+  "KIN-564": "Psycho-Social Aspects of Physical Activity",
+  "KIN-568": "Seminar in Human Sensorimotor Control",
+  "KIN-570": "Research Methods in Kinesiology",
+  "KIN-571": "Qualitative Methods in Sport, Leisure, and Health Studies",
+  "KIN-572": [
+    [
+      "2020W",
+      "Research Methods for Sport & Health Sciences"
+    ],
+    [
+      "2016W",
+      "Research Methods in Sports Coaching"
+    ]
+  ],
+  "KIN-575": "Principles of Applied Sports Analytics",
+  "KIN-580": "Seminar in Body, Exercise, and Society",
+  "KIN-585": [
+    [
+      "2015W",
+      "Performance Planning"
+    ],
+    [
+      "2014W",
+      "Coaching Science I"
+    ]
+  ],
+  "KIN-586": [
+    [
+      "2015W",
+      "Coaching Effectiveness"
+    ],
+    [
+      "2014W",
+      "Coaching Science II"
+    ]
+  ],
+  "ISCI-311": "The Size of Things",
+  "ISCI-312": "Symmetry",
+  "ISCI-320": "Research Development Project",
+  "ISCI-350": "Darwinian Medicine",
+  "ISCI-351": "Why the Big Brain? The Evolution of Human Cognition",
+  "ISCI-360": "Systems Approaches to Regional Sustainability",
+  "ISCI-433": "Ethical Issues in Science",
+  "ISCI-434": "Non-Animal Methods in Biomedical Science",
+  "ISCI-448": "Directed Studies",
+  "ISCI-490": "Student Directed Seminars",
+  "INLB-210": "Land and Indigenous Self-Determination: Introduction to Theoretical Perspectives",
+  "LAST-100": "Introduction to Latin American Studies",
+  "LAST-201": "Popular Culture in Latin America",
+  "LAST-303": "Indigenous Peoples of Latin America",
+  "LAW-200": "Indigenous Settler Legal Relations",
+  "LAW-211": "Contracts",
+  "LAW-221": "Criminal Law and Procedure",
+  "LAW-231": "Property Law",
+  "LAW-241": "Torts",
+  "LAW-261": "Transnational Law",
+  "LAW-271": "Introduction to Public Law and the Charter",
+  "LAW-281": "Legal Research and Writing",
+  "LAW-291": "Aboriginal and Treaty Rights",
+  "LAW-300": "Jurisprudence and Critical Perspectives",
+  "LAW-303": [
+    [
+      "2017W",
+      "Legal Traditions and Ideas of Law"
+    ],
+    [
+      "2004W",
+      "The Western Idea of Law"
+    ]
+  ],
+  "LAW-305": "Law, Society and State",
+  "LAW-306": "Corporate Social Responsibility and the Law",
+  "LAW-307": "Women, Law and Social Change",
+  "LAW-308": "Feminist Legal Theory",
+  "LAW-312": "Topics in Philosophy of Law and Theoretical Perspectives",
+  "LAW-316": "International Law",
+  "LAW-319": "International Human Rights",
+  "LAW-321": "Law of Armed Conflict",
+  "LAW-323": "International Environmental Law",
+  "LAW-324": "Topics in International Law and Transactions",
+  "LAW-325": "Conflict of Laws",
+  "LAW-332": "Maritime Law",
+  "LAW-334": "Introduction to Asian Legal Systems",
+  "LAW-336": "Chinese Law: Implications for Canada-China Relations",
+  "LAW-338": "Japanese Law",
+  "LAW-342": "Topics in Comparative Law",
+  "LAW-343": "Topics in Public Law",
+  "LAW-344": "Innovations in Governance and Regulatory Design",
+  "LAW-347": "Federalism",
+  "LAW-348": "Comparative Constitutional Law",
+  "LAW-349": "Topics in Constitutional Law",
+  "LAW-352": "Aboriginal Peoples and Canadian Law",
+  "LAW-353": "Aboriginal and Treaty Rights",
+  "LAW-356": "First Nations and Economic Development",
+  "LAW-358": "Topics in First Nations Law",
+  "LAW-359": "Family Law",
+  "LAW-363": "Racism and Law",
+  "LAW-374": "Municipal Law",
+  "LAW-377": "Immigration Law",
+  "LAW-378": "Refugee Law",
+  "LAW-380": "Externship Reflection",
+  "LAW-382": [
+    [
+      "2016W",
+      "Health Law"
+    ],
+    [
+      "1996W",
+      "Law and Medicine"
+    ]
+  ],
+  "LAW-383": "Mental Health Law",
+  "LAW-387": "Environmental Law",
+  "LAW-391": "Topics in Environmental Law",
+  "LAW-392": "Natural Resources Law",
+  "LAW-393": "Green Rights and Warrior Lawyers",
+  "LAW-394": "Mining Law",
+  "LAW-395": "Forest Law",
+  "LAW-400": "Advanced Criminal Procedure",
+  "LAW-401": "Penal Policy",
+  "LAW-406": "Topics in Criminal Justice",
+  "LAW-407": "Taxation",
+  "LAW-408": "Taxation of Corporations and Shareholders",
+  "LAW-411": [
+    [
+      "2018W",
+      "Tax Policy"
+    ],
+    [
+      "2014W",
+      "Tax Law and Policy Workshop"
+    ]
+  ],
+  "LAW-414": "Taxation of Corporate Reorganizations",
+  "LAW-416": "Labour Law",
+  "LAW-419": "Individual Employment Law",
+  "LAW-422": "Intellectual Property",
+  "LAW-423": "Topics in Intellectual Property",
+  "LAW-425": "Cyberspace Law",
+  "LAW-428": "International Justice and Human Rights Clinical Seminar",
+  "LAW-432": "Topics in Private Law",
+  "LAW-434": "Medical Negligence Law",
+  "LAW-435": "Topics in Tort Law",
+  "LAW-436": "Restitution",
+  "LAW-437": "Commercial Transactions",
+  "LAW-438": "Secured Transactions",
+  "LAW-439": "Construction Law",
+  "LAW-440": "Insurance Law",
+  "LAW-442": "Condominium Law",
+  "LAW-444": "Insolvency Law",
+  "LAW-447": "Topics in Commercial Law",
+  "LAW-448": "Sports Law",
+  "LAW-449": "Media and Entertainment Law",
+  "LAW-451": "Trusts",
+  "LAW-452": "Succession",
+  "LAW-455": "Real Estate Transactions",
+  "LAW-460": "Advanced Corporate Law",
+  "LAW-461": "Corporate Transactions",
+  "LAW-462": "Close Corporations",
+  "LAW-463": "Securities Regulation",
+  "LAW-464": "Competition Policy",
+  "LAW-466": "Business Law Capstone",
+  "LAW-467": "Topics in Corporate Law",
+  "LAW-469": "Civil Procedure",
+  "LAW-470": "Innocence Project",
+  "LAW-471": "Preventing Wrongful Convictions",
+  "LAW-473": "Appellate Advocacy",
+  "LAW-476": "Evidence",
+  "LAW-478": "Foundations of Dispute Resolution",
+  "LAW-481": "Topics in Litigation, Dispute Resolution and the Administration of Justice",
+  "LAW-489": "Clinical Term: Paper",
+  "LAW-493": "Directed Research",
+  "LAW-494": "Directed Research",
+  "LAW-500": "Current Legal Problems",
+  "LAW-503": "Tort Law",
+  "LAW-504": "Property Law",
+  "LAW-511": "International Criminal Law",
+  "LAW-524": "Methodologies in Law and Policy",
+  "LAW-550": "Taxation of Corporate Reorganizations",
+  "LAW-562": "Taxation of Corporations and Shareholders",
+  "LAW-564": "Taxation of Trusts and Estates",
+  "LAW-565": "International Taxation",
+  "LAW-566": [
+    [
+      "2015W",
+      "Tax Policy"
+    ],
+    [
+      "2014W",
+      "Tax Law and Policy Workshop"
+    ]
+  ],
+  "LAW-567": "Tax Administration and Dispute Resolution",
+  "LAW-568": "Topics in Taxation",
+  "LAW-569": "Topics in International Taxation",
+  "EPSE-301": "Introduction to Educational Psychology",
+  "EPSE-316": "Learning Disabilities",
+  "EPSE-390": "Special Topics",
+  "EPSE-408": "Educational Programming for Highly Able Learners",
+  "EPSE-411": "Augmentative and Alternative Communication for Individuals with Severe Speech and/or Physical Impairments",
+  "EPSE-421": "Assessment of Learning Difficulties",
+  "EPSE-481": "Introduction to Research in Education",
+  "EPSE-501": "Seminar in Human Development, Learning and Culture",
+  "EPSE-503": "Cultural Perspectives on Learning, Development and Media",
+  "EPSE-505": "Foundations in Human Development: Infancy to Adulthood",
+  "EPSE-506": "Applied Psychopathology Across the Lifespan",
+  "EPSE-515": [
+    [
+      "2018W",
+      "Building Supportive School and Community Environments to Prevent Problem Behaviour"
+    ],
+    [
+      "1999W",
+      "Seminar in Behaviour Disorders"
+    ]
+  ],
+  "EPSE-517": "Acoustic Environments and Amplification in the Classroom",
+  "EPSE-519": "Development of English Language Skills of Deaf and Hard of Hearing Students",
+  "EPSE-525": "Studies in Sign Language",
+  "EPSE-526": "Seminar in Specific Learning Disabilities",
+  "EPSE-528": "Basic Principles of Measurement",
+  "EPSE-531": [
+    [
+      "2020W",
+      "Data-Based Individualization of Academic Interventions for Learning Difficulties"
+    ],
+    [
+      "2007W",
+      "Curriculum-Based Assessment and Intervention"
+    ]
+  ],
+  "EPSE-537": "Programming in Orientation and Mobility",
+  "EPSE-538": "Seminar in Orientation and Mobility for the Blind",
+  "EPSE-539": "Research Issues and Trends in the Education of Students with Visual Impairments",
+  "EPSE-543": "Working with Students with Visual Impairments: Elementary and Secondary Curriculum",
+  "EPSE-546": "Assistive Technology for Teachers of Students with Visual Impairments",
+  "EPSE-549": "Seminar in Autism",
+  "EPSE-550": [
+    [
+      "2021W",
+      "Professional, Ethical and Legal Issues in School and Applied Child Psychology"
+    ],
+    [
+      "1996W",
+      "Professional, Ethical and Legal Issues in School Psychology"
+    ]
+  ],
+  "EPSE-551": "School-based Consultation",
+  "EPSE-553": [
+    [
+      "2018W",
+      "Theories of Cognitive and Affective Abilities"
+    ],
+    [
+      "2006W",
+      "Theories of Cognitive Assessment"
+    ]
+  ],
+  "EPSE-561": "Laboratory Practicum",
+  "EPSE-562": "Designing Inclusive Learning Communities: From Theory to Practice",
+  "EPSE-563": "Inclusive Assessment and Programming for Students Requiring Targeted Supports",
+  "EPSE-572": "Applications of Behaviour Analysis",
+  "EPSE-574": "Principles of Behaviour Analysis",
+  "EPSE-575": "Seminar in Instructional Methods for Persons with Significant Learning Challenges",
+  "EPSE-576": "Assessment and Positive Behaviour Support in School and Community Settings",
+  "EPSE-577": "Seminar in Assessment and Positive Behaviour Support in School and Community Settings",
+  "EPSE-581": "Special Topics in Measurement, Evaluation, and Research Methodology",
+  "EPSE-584": "Motivation in Education",
+  "EPSE-585": "Social and Emotional Development in Education",
+  "EPSE-592": "Experimental Designs and Analysis in Educational Research",
+  "EPSE-593": "Design and Analysis of Research with Small Samples and Single Subjects",
+  "EPSE-595": "Qualitative Research Methods",
+  "EPSE-596": "Correlational Designs and Analysis in Educational Research",
+  "EPSE-597": "Structural Equation Modelling and Factor Analysis",
+  "EPSE-604": "Advanced Topics in Human Development, Learning, and Culture",
+  "EPSE-683": "Hierarchical Linear Modelling, Growth and Change",
+  "EDCP-210": "Introduction to Music Education",
+  "EDCP-303": "Ceramic Design and Pedagogical Approaches: Art Education",
+  "EDCP-304": "Textile Design and Pedagogical Approaches: Art Education",
+  "EDCP-305": "Digital Media in Arts Education: Introduction",
+  "EDCP-312": "Instrumental Pedagogy: Secondary",
+  "EDCP-313": "Choral Pedagogy: Secondary",
+  "EDCP-326": "Health Education: Curriculum and Pedagogy",
+  "EDCP-362": "Curriculum Design and Evaluation: Practical and Theoretical Issues",
+  "EDCP-403": "Visual Arts for Classroom Practice: Three-Dimensional Practices and Processes",
+  "EDCP-404": "Visual Arts for Classroom Practice: Textile Design",
+  "EDCP-410": "Music and Movement - Elementary: Curriculum and Pedagogy",
+  "EDCP-412": "Conducting and Rehearsal Techniques for Teachers",
+  "EDCP-441": "Assessment in Mathematics Education",
+  "EDCP-442": "Mathematics History for Teachers",
+  "EDCP-471": "Technological Practices in Education: Technical Problems",
+  "EDCP-491": "Home Economics II - Secondary: Curriculum and Pedagogy",
+  "EDCP-492": "Special Study in Home Economics: Textile Studies",
+  "EDCP-498": "Curriculum Inquiry in Home Economics Education",
+  "EDCP-514": "Arts-Based Educational Research: A/r/tography",
+  "EDCP-520": "Perspectives, Practice, and Curriculum Issues in Contemporary Art Education",
+  "EDCP-523": "Seminar in Art Education",
+  "EDCP-526": "Theory and Principles of Music Education",
+  "EDCP-530": "Curriculum Innovations in Physical Education",
+  "EDCP-533": "Health, Outdoor and Physical Experiential Education Curriculum, Pedagogy and Place in the Elementary School",
+  "EDCP-534": [
+    [
+      "2020S",
+      "Health Promotion and Education"
+    ],
+    [
+      "2018S",
+      "Seminar in School Health Education"
+    ]
+  ],
+  "EDCP-537": "Foundations of Home Economics Education",
+  "EDCP-541": "Problems in Historical Understanding",
+  "EDCP-544": "Mathematics and Science Teaching and Learning with Technologies",
+  "EDCP-550": "Mathematics Education: Origins and Issues",
+  "EDCP-555": "Critical Analysis of Curriculum in Science Education",
+  "EDCP-558": "Science Learning in Informal Environments",
+  "EDCP-565": "Teaching in Museums",
+  "EDCP-566": "Curriculum Change, Planning, and Implementation",
+  "EDCP-570": "Seminar in the Teaching of Information and Communication Technologies",
+  "EDCP-580": "Problems in Education",
+  "EDCP-601": "Doctoral Seminar in Curriculum and Pedagogy: History and Theory",
+  "EDCP-602": "Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research",
+  "IWME-501": "Environmental Fluid Mechanics",
+  "IWME-503": "Chemical and Biological Industrial Water Treatment Design",
+  "IWME-504": "Water and Wastewater Management Strategies",
+  "IWME-506": "Water Infrastructure Capstone",
+  "GREK-101": [
+    [
+      "2019W",
+      "Beginning Ancient Greek I"
+    ],
+    [
+      "2014W",
+      "First-Year Ancient Greek I"
+    ]
+  ],
+  "GREK-102": [
+    [
+      "2019W",
+      "Beginning Ancient Greek II"
+    ],
+    [
+      "2014W",
+      "First-Year Ancient Greek II"
+    ]
+  ],
+  "GREK-201": [
+    [
+      "2019W",
+      "Intermediate Ancient Greek I"
+    ],
+    [
+      "2014W",
+      "Second-Year Ancient Greek I"
+    ]
+  ],
+  "GREK-351": [
+    [
+      "2022W",
+      "Reading Ancient Greek: Prose"
+    ],
+    [
+      "2014W",
+      "Intermediate Ancient Greek: Prose"
+    ]
+  ],
+  "GSAT-502": "Advanced Concepts in Genome Science and Technology",
+  "GSAT-540": "Statistical Methods for High Dimensional Biology",
+  "ECED-405": [
+    [
+      "2015W",
+      "Foundations of Curriculum and Instruction in Early Childhood Education"
+    ],
+    [
+      "2014W",
+      "Foundations of Early Childhood Education"
+    ]
+  ],
+  "ECED-417": "Supporting Learning in the Kindergarten Year",
+  "ECED-440": "Supporting Social and Communication Development in Infants and Young Children with Special Needs",
+  "ECED-441": "Early Intervention for Infants and Young Children with Sensory Loss and Motor Impairments",
+  "ECED-442": "Supporting Indigenous Infants and Young Children within the Context of Their Communities",
+  "ECED-480": "Selected Topics in Early Childhood Education",
+  "ECED-508": [
+    [
+      "2015W",
+      "Review of Research in Early Childhood Education"
+    ],
+    [
+      "2014W",
+      "Review of Research in Educational Methods"
+    ]
+  ],
+  "ECED-585": "Advanced Seminar on Research in Early Childhood Education",
+  "LARC-316": "Trees and Shrubs in Landscape",
+  "LARC-415": [
+    [
+      "2022W",
+      "Plant Design"
+    ],
+    [
+      "2017W",
+      "A Behavioural Approach to Planting Design"
+    ]
+  ],
+  "LARC-444": "Green Network Planning",
+  "LARC-501": [
+    [
+      "2015W",
+      "Landscape Architecture Design Studio I"
+    ],
+    [
+      "2014W",
+      "Design Studio I: Introduction"
+    ]
+  ],
+  "LARC-502": [
+    [
+      "2015W",
+      "Landscape Architecture Design Studio II"
+    ],
+    [
+      "2014W",
+      "Design Studio II: Design Methods"
+    ]
+  ],
+  "LARC-503": [
+    [
+      "2015W",
+      "Landscape Architecture Design Studio III"
+    ],
+    [
+      "2014W",
+      "Design Studio III: Design Development"
+    ]
+  ],
+  "LARC-504": [
+    [
+      "2015W",
+      "Landscape Architecture Design Studio IV"
+    ],
+    [
+      "2014W",
+      "Design Studio IV: Urban and Regional Public Realms"
+    ]
+  ],
+  "LARC-505": "Landscape Architecture Design Studio V",
+  "LARC-522": "Landscape Architectural History",
+  "LARC-523": "Landscape Architecture Theory",
+  "LARC-525": [
+    [
+      "2020W",
+      "Design Research Methods"
+    ],
+    [
+      "2015W",
+      "Research Methods"
+    ],
+    [
+      "2014W",
+      "Design-Research Methods in Landscape in Landscape Architecture"
+    ]
+  ],
+  "LARC-531": [
+    [
+      "2015W",
+      "Landscape Technologies I"
+    ],
+    [
+      "2014W",
+      "Landscape Technologies I: Site Engineering"
+    ]
+  ],
+  "LARC-532": [
+    [
+      "2015W",
+      "Landscape Technologies II"
+    ],
+    [
+      "2014W",
+      "Landscape Technologies II: Structures and Materials"
+    ]
+  ],
+  "LARC-540": [
+    [
+      "2015W",
+      "Site Analysis and Planning"
+    ],
+    [
+      "2014W",
+      "Site Analysis and Planning II"
+    ]
+  ],
+  "LARC-541": "Landscape Planning and Management",
+  "LARC-551": [
+    [
+      "2015W",
+      "Professional Practice"
+    ],
+    [
+      "2014W",
+      "Professional Practice in Landscape Architecture"
+    ]
+  ],
+  "LARC-553": "Green Network Planning",
+  "LARC-595": "Graduate Project Part I",
+  "HINU-102": "Introductory Hindi-Urdu",
+  "HINU-200": "Intermediate Hindi-Urdu",
+  "FNIS-100": "Indigenous Foundations",
+  "FNIS-210": "Indigenous Politics and Self-Determination",
+  "FNIS-220": "Representation and Indigenous Cultural Politics",
+  "FNIS-300": "Writing First Nations",
+  "FNIS-310": "Critical Indigenous Theory Seminar",
+  "FNIS-320": [
+    [
+      "2017W",
+      "Critical Indigenous Methodologies and Ethics"
+    ],
+    [
+      "2015W",
+      "Methods Seminar"
+    ]
+  ],
+  "FNIS-452": "Indigenous Social Movements",
+  "FNIS-454": "Indigenous New Media",
+  "FOOD-510": "Advances in Food Science",
+  "FOOD-512": "Hazard Analysis and Critical Control Point and Food Safety Management",
+  "FOOD-515": "Fundamentals of Agri-Food Business",
+  "FOOD-516": "Advanced Food Safety and Quality Management",
+  "FOOD-520": "Advances in Food Analysis",
+  "FOOD-521": "Advances in Food Biotechnology",
+  "FOOD-522": "Advances in Food Chemistry",
+  "FOOD-523": "Advances in Food Microbiology",
+  "FOOD-524": [
+    [
+      "2021W",
+      "Advances in Food Processing"
+    ],
+    [
+      "2005W",
+      "Advances in Food Process Science"
+    ]
+  ],
+  "FOOD-525": "Advances in Food Toxicology",
+  "FOOD-527": "Special Topics in Food Science",
+  "FOOD-528": "International Food Laws and Regulations",
+  "FOOD-529": "Laboratory Methods in Sensory Evaluation",
+  "GERM-121": "German Fairy Tales and Popular Culture (in English)",
+  "GERM-206": "Exile, Flight and Migration (in English)",
+  "GERM-300": "Intermediate German III",
+  "GERM-301": "German Literature 1900 - 1945 (in English)",
+  "GERM-302": "German Literature after 1945 (in English)",
+  "GERM-304": "German Cinema (in English)",
+  "GERM-305": "The Culture of Nazism (in English)",
+  "GERM-310": "Intermediate German IV",
+  "GERM-313": "Conversational German II",
+  "GERM-325": "German Translation",
+  "GERM-390": "Progress and Disaster: Studies in the 20th and 21st Centuries",
+  "GERM-400": "Advanced German I",
+  "GERM-402": "Words and Music in German Literature (in English)",
+  "GERM-406": "Selected Topics in German Literature",
+  "GERM-408": "Selected Issues in German Culture",
+  "GERM-412": "German Media Studies (in English)",
+  "HUNU-500": "Research Methods in Human Nutrition",
+  "HUNU-510": "Nutrition Assessment Across the Lifespan",
+  "HUNU-540": "Advances in Food Theory and Applications",
+  "HUNU-545": "Counselling Skills in Dietetics",
+  "HUNU-550": "Advances in Human Nutrition",
+  "HUNU-573": "Population and Public Health Dietetics",
+  "HUNU-575": "Nutrition Care I",
+  "JAPN-160": "Intensive Beginning Japanese I",
+  "JAPN-260": "Intensive Beginning Japanese II",
+  "JAPN-320": "Intermediate Japanese I A",
+  "JAPN-321": "Intermediate Japanese I B",
+  "JAPN-322": "Intermediate Japanese II A",
+  "JAPN-323": "Intermediate Japanese II B",
+  "JAPN-400": "Advanced Modern Japanese: Reading and Writing I",
+  "JAPN-401": "Advanced Modern Japanese: Reading and Writing II",
+  "JAPN-422": "Classical Japanese I",
+  "JAPN-424": "Japanese for Professional Life I",
+  "JAPN-452": "Readings in Modern Japanese Essays",
+  "JAPN-465": "Japanese Media and Translation",
+  "LFS-100": "Introduction to Land, Food and Community",
+  "LFS-101": "Principles of Microeconomics with Applications to Land and Food Systems",
+  "LFS-110": "Land One: First-year Integrative Seminar",
+  "LFS-150": "Scholarly Writing and Argumentation in Land and Food Systems",
+  "LFS-250": "Land, Food and Community I: Introduction to Food Systems and Sustainability",
+  "LFS-252": "Land, Food, and Community: Quantitative Data Analysis",
+  "LFS-340": "First Nations Health and the Traditional Role of Plants",
+  "LFS-350": "Land, Food, and Community II: Principles and Practice of Community Food Security",
+  "LFS-400": "Audio Storytelling",
+  "LFS-450": [
+    [
+      "2018W",
+      "Land, Food, and Community III: Leadership in Campus Food System Sustainability"
+    ],
+    [
+      "2009W",
+      "Land, Food, and Community III: Food System Sustainability"
+    ]
+  ],
+  "EECE-541": "Multimedia Systems",
+  "EECE-549": "Dynamic Modelling of Electric Machines and Controls",
+  "EECE-550": "Topics in Power Electronic Design",
+  "EECE-554": "Advanced Power System Control and Dynamics",
+  "EECE-555": "Renewable and Efficient Electric Power Systems",
+  "EECE-560": "Network Analysis and Simulation",
+  "EECE-562": [
+    [
+      "2021W",
+      "Statistical Signal Processing"
+    ],
+    [
+      "2003W",
+      "Statistical Signal Processing with Applications in Wireless Communications and Defence"
+    ]
+  ],
+  "EECE-566": [
+    [
+      "2021W",
+      "Information and Coding Theory"
+    ],
+    [
+      "1999W",
+      "Communication and Information Theory"
+    ]
+  ],
+  "EECE-570": "Fundamentals of Visual Computing",
+  "EECE-571": "Electrical Engineering Seminar and Special Problems",
+  "EECE-589": "Introduction to Robotics",
+  "ENST-311": "Urban Environments",
+  "FISH-500": "Issues in Fisheries Research: Seminars - Fisheries Management",
+  "FISH-506": "Current Topics in Fisheries",
+  "FIPR-101": "Introduction to the History of Film Production",
+  "FIPR-131": "Introduction to Screen Acting",
+  "FIPR-133": "Introduction to Film and Media Production",
+  "FIPR-230": "Introduction to Motion Picture Directing",
+  "FIPR-233": [
+    [
+      "2016W",
+      "Film and Media Production I"
+    ],
+    [
+      "2006W",
+      "Video Production I"
+    ]
+  ],
+  "FIPR-234": "Production Planning and Professional Practices",
+  "FIPR-299": "Directed Studies: On-Campus Research",
+  "FIPR-330": "Intermediate Motion Picture Directing",
+  "FIPR-333": [
+    [
+      "2016W",
+      "Film and Media Production II"
+    ],
+    [
+      "2006W",
+      "Motion Picture Production I"
+    ]
+  ],
+  "FIPR-337": "Cinematography and Lighting I",
+  "FIPR-338": "Motion Picture Sound",
+  "FIPR-339": "Post-Production Techniques I",
+  "FIPR-433": [
+    [
+      "2016W",
+      "Film and Media Production III"
+    ],
+    [
+      "2006W",
+      "Motion Picture Production II"
+    ]
+  ],
+  "FIPR-434": "Producing for Film and Television",
+  "FIPR-437": "Cinematography II",
+  "FIPR-439": "Post-Production Techniques II",
+  "FIPR-534": "Advanced Production for Film and Television",
+  "LIBE-463": "Selection of Learning Resources I",
+  "LIBE-467": "Information Services I",
+  "LIBR-504": "Management of Information Organizations",
+  "LIBR-506": "Human-Information Interaction",
+  "LIBR-507": "Methods of Research and Evaluation in Information Organizations",
+  "LIBR-508": "Information Practices in Contemporary Society",
+  "LIBR-509": "Foundations of Resource Description and Knowledge Organization",
+  "LIBR-516": "Information Asset Management",
+  "LIBR-520": "Survey of Literature and Other Materials for Children",
+  "LIBR-526": "Literature and Other Materials for Young Adults",
+  "LIBR-527": "Services for Children",
+  "LIBR-533": "Legal Information Sources and Services",
+  "LIBR-534": "Health Information Sources and Services",
+  "LIBR-535": "Instructional Role of the Librarian",
+  "LIBR-541": "New Media for Children and Young Adults",
+  "LIBR-553": "Understanding Information Users in Diverse Environments",
+  "LIBR-555": "Information Design I - Systems",
+  "LIBR-556": "Information Design II - Documents",
+  "LIBR-561": "Information Policy",
+  "LIBR-564": "Information Practice and Protocol in Support of Indigenous Initiatives",
+  "LIBR-565": "Progressive and Radical Information Work",
+  "LIBR-570": "Marketing in Information Organizations",
+  "LIBR-571": "Human Resources Management",
+  "LIBR-576": "Public Libraries",
+  "LIBR-579": "Topics in the Management of Libraries and Archives",
+  "LIBR-580": "Collection Management",
+  "LIBR-582": "Digital Image and Text Collections",
+  "LIBR-597": "Research Collaboration",
+  "LING-100": "Introduction to Language and Linguistics",
+  "LING-140": "Challenging Language Myths",
+  "LING-170": "Introduction to How to Learn a Language",
+  "LING-209": "Clinical Topics in Speech, Language, and Hearing Sciences",
+  "LING-242": "Computational Tools for Linguistic Analysis",
+  "LING-300": "Studies in Grammar",
+  "LING-308": "The Languages of Africa",
+  "LING-311": "Studies in Phonology",
+  "LING-313": "Introduction to Linguistic Phonetics and Speech Science",
+  "LING-314": "Instrumental Phonetics",
+  "LING-319": [
+    [
+      "2018W",
+      "Historical Linguistics"
+    ],
+    [
+      "1997W",
+      "Comparative and Historical Linguistics"
+    ]
+  ],
+  "LING-327": "Introduction to Semantics",
+  "LING-333": "Research Methods for Linguistics",
+  "LING-342": "Computational Models of Language",
+  "LING-345": "Pragmatics",
+  "LING-405": "Morphology",
+  "LING-410": "Advanced Phonology",
+  "LING-415": "Language Across Time, Geography, and Society",
+  "LING-421": "Advanced Syntax",
+  "LING-425": "Advanced Semantics",
+  "LING-431": "Field Methods I",
+  "LING-440": "Language as a Social Instrument",
+  "LING-445": "Sociolinguistics",
+  "LING-447": "Topics in Linguistics",
+  "LING-451": "Acquisition of Phonology",
+  "LING-452": "Acquisition of Syntax",
+  "LING-508": "Phonetic Theory & Analysis",
+  "LING-510": "Phonological Theory and Analysis",
+  "LING-511": "Topics in Phonology",
+  "LING-518": "Advanced Research Seminar",
+  "LING-525": "Semantic Theory and Analysis",
+  "LING-527": "Topics in Semantics",
+  "LING-530": "Linguistic Problems in a Special Area",
+  "LING-531": "Field Methods in Linguistics I",
+  "LING-532": "Field Methods in Linguistics II",
+  "LLED-200": "Introduction to Writing in Academic and Professional Registers",
+  "LLED-201": "Critical Reading and Writing in Academic and Professional Registers",
+  "LLED-212": "Introduction to Language Communities and Variation in Language Practices",
+  "LLED-220": "Introduction to Translating in a Globalized Society",
+  "LLED-222": "Introduction to Public and Private Language Practices in a Globalized Society",
+  "LLED-223": "Introduction to the Nature of World Englishes",
+  "LLED-423": "Teaching French Adolescent Literature: Secondary",
+  "LLED-441": "Introduction to Teaching Children's Literature",
+  "LLED-452": [
+    [
+      "2016W",
+      "Disciplinary Literacies: Intermediate Through Secondary"
+    ],
+    [
+      "2000W",
+      "Literacy in the Content Areas: Intermediate Through Secondary"
+    ]
+  ],
+  "LLED-462": "School Library Resource Centre Programs",
+  "LLED-481": "Digital Media in English Language Arts Education",
+  "LLED-510": "Language, Discourse and Identity",
+  "LLED-520": "Theory and Research in Teaching of Modern Languages",
+  "LLED-553": "Theoretical Foundations of ESL/EL Reading Pedagogy",
+  "LLED-556": "Theory and Research in Early Literacy",
+  "LLED-558": "Literacy and Multimodality",
+  "LLED-572": "Theory and Research in Teaching English as a Second Language",
+  "LLED-574": "Theory and Research in Teaching Second Language Writing",
+  "LLED-577": "Culture and Politics in Second Language Education",
+  "LLED-601": "Theories for Language and Literacy Research",
+  "LLED-602": "Critical Analysis of Issues and Methodology in Language and Literacy Education",
+  "GEOG-121": [
+    [
+      "2015W",
+      "Geography, Environment and Globalization"
+    ],
+    [
+      "2014W",
+      "Geography, Modernity and Globalization I"
+    ]
+  ],
+  "GEOG-122": [
+    [
+      "2015W",
+      "Geography, Modernity and Globalization"
+    ],
+    [
+      "2005W",
+      "Geography, Modernity and Globalization II"
+    ]
+  ],
+  "GEOG-202": "Climate Emergency",
+  "GEOG-211": "The State of the Earth",
+  "GEOG-290": "Introduction to the Geography of Canada",
+  "GEOG-302": "Climate Justice",
+  "GEOG-311": "Urban Environments",
+  "GEOG-313": "Environmental Justice and Social Change",
+  "GEOG-314": "Analysing Environmental Problems",
+  "GEOG-316": "Geography of Natural Hazards",
+  "GEOG-319": "Environmental Impact Assessment",
+  "GEOG-327": "Creating Canada",
+  "GEOG-328": "Constructing Canada",
+  "GEOG-345": "Theory and Practice in Human Geography",
+  "GEOG-346": "Topics in Geography",
+  "GEOG-351": "Urban Environmental Politics",
+  "GEOG-352": "Urbanization in the Global South",
+  "GEOG-353": "Geographies of Migration and Settlement",
+  "GEOG-361": [
+    [
+      "2021W",
+      "Critical Geographies of the Economy"
+    ],
+    [
+      "1996W",
+      "Introduction to Economic Geography"
+    ]
+  ],
+  "GEOG-362": "Geography of Economic Development",
+  "GEOG-364": "Globalization, Cities, and Regions",
+  "GEOG-371": [
+    [
+      "2021W",
+      "Research Strategies in Geography"
+    ],
+    [
+      "1996W",
+      "Research Strategies in Human Geography"
+    ]
+  ],
+  "GEOG-374": "Statistics in Geography",
+  "GEOG-391": "Modern Europe: Places and Borders",
+  "GEOG-395": [
+    [
+      "2017W",
+      "Culture, Nature, and Coloniality in Latin America"
+    ],
+    [
+      "2009W",
+      "Introduction to the Changing Landscapes of Latin America"
+    ]
+  ],
+  "GEOG-412": "Water Management: Theory, Policy, and Practice.",
+  "GEOG-419": "Research in Environmental Geography",
+  "GEOG-424": "Feminist Geographies",
+  "GEOG-432": "Radical Traditions of Decolonization and Liberation",
+  "GEOG-446": "Topics in Geography",
+  "GEOG-450": "Urban Research",
+  "GEOG-453": "Political Geographic Analysis",
+  "GEOG-484": "Geography of Southeast Asia",
+  "GEOG-495": "Geographies of Social Movements in the Americas",
+  "GEOG-514": "Topics in Environmental Geography",
+  "GEOG-520": "Themes and Interpretive Issues in Modern Human Geography",
+  "GEOG-525": "Cultures of Nature in Contemporary Political Ecologies",
+  "GEOG-545": "Topics in Human Geography",
+  "HGSE-355": "Applied Ecology of Coastal Terrestrial Ecosystems",
+  "HGSE-356": "Biophysical Dynamics of the Marine-Terrestrial Interface",
+  "HGSE-357": "Ecology and Management of Island Wildlife",
+  "HGSE-358": [
+    [
+      "2016W",
+      "Systems Thinking for Resource Management"
+    ],
+    [
+      "2013W",
+      "Conservation Ecology: Applications of Multiple Sources of Ecological Knowledge"
+    ]
+  ],
+  "HGSE-359": "Ecosystem-Based Management Seminar",
+  "HGSE-360": "Ocean People, Culture and Tradition",
+  "HGSE-361": "Fisheries Co-Management of the North Pacific Coast",
+  "HGSE-371": "Re-Storying History: Indigenous Perspective",
+  "HGSE-394": "Marine Conservation in British Columbia",
+  "ENPH-259": "Experimental Techniques",
+  "ENPH-352": "Laboratory Techniques in Physics",
+  "ENPH-353": "Engineering Physics Project I",
+  "ENPH-459": "Engineering Physics Project II",
+  "ENPH-479": "Engineering Physics Project III",
+  "GEOS-102": "Our Changing Environment: Climate and Ecosystems",
+  "GEOS-200": "Atmospheric Environments",
+  "GEOS-206": "Geomorphic Processes and Hazards",
+  "GEOS-207": "Introduction to Biogeography",
+  "GEOS-300": "Microscale Weather and Climate",
+  "GEOS-303": "Tropical Ecosystems in a Changing World",
+  "GEOS-305": "Introduction to Hydrology",
+  "GEOS-306": "Paleoecology: Lessons for the Anthropocene",
+  "GEOS-308": "Quaternary and Applied Geomorphology",
+  "GEOS-370": "Advanced Geographic Information Science",
+  "GEOS-372": "Cartography",
+  "GEOS-373": "Introductory Remote Sensing",
+  "GEOS-401": "Urban Meteorology",
+  "GEOS-405": "Fluvial Geomorphology",
+  "GEOS-407": "Vegetation Dynamics: Disturbance, Climate and Human Impacts",
+  "GEOS-472": "Research in Cartography",
+  "GEOS-479": "Research in Geographic Information Science",
+  "GEOS-500": "Theory and Practice of Research in Geographical Sciences",
+  "GEOS-503": "Topics in Geomorphology and Hydrology",
+  "FOPE-500": "Sustainable Forest Management in a Changing World",
+  "FOPR-264": [
+    [
+      "2019W",
+      "Introduction to Forest Operations"
+    ],
+    [
+      "2015W",
+      "Geomatics, Forest Access and Transportation"
+    ]
+  ],
+  "FOPR-362": [
+    [
+      "2019W",
+      "Harvesting Systems and Forest Access"
+    ],
+    [
+      "2016W",
+      "Forest Harvesting Systems"
+    ],
+    [
+      "2015W",
+      "Harvest Systems and Operations Planning"
+    ],
+    [
+      "2014W",
+      "Sustainability and Forest Operations"
+    ]
+  ],
+  "FOPR-388": "Analytical Methods in Forest Hydrology",
+  "FOPR-464": [
+    [
+      "2019W",
+      "Operational Planning and Management"
+    ],
+    [
+      "2010W",
+      "Forestry Machines"
+    ]
+  ],
+  "LATN-102": [
+    [
+      "2019W",
+      "Beginning Latin II"
+    ],
+    [
+      "2014W",
+      "First-Year Latin II"
+    ]
+  ],
+  "LATN-201": [
+    [
+      "2019W",
+      "Intermediate Latin I"
+    ],
+    [
+      "2014W",
+      "Second-Year Latin I"
+    ]
+  ],
+  "LATN-202": [
+    [
+      "2019W",
+      "Intermediate Latin II"
+    ],
+    [
+      "2014W",
+      "Second-Year Latin II"
+    ]
+  ],
+  "LATN-350": "Latin Literature of the Classical Period (Prose)",
+  "LATN-351": "Latin Literature of the Classical Period (Verse)",
+  "ITAL-110": "Made in Italy (in English)",
+  "ITAL-201": [
+    [
+      "2020W",
+      "Elementary Italian I"
+    ],
+    [
+      "2004W",
+      "Second-Year Italian I"
+    ]
+  ],
+  "ITAL-202": [
+    [
+      "2020W",
+      "Elementary Italian II"
+    ],
+    [
+      "2004W",
+      "Second-Year Italian II"
+    ]
+  ],
+  "ITAL-301": [
+    [
+      "2020W",
+      "Intermediate Italian I"
+    ],
+    [
+      "2005W",
+      "Third-Year Italian I"
+    ]
+  ],
+  "ITAL-302": [
+    [
+      "2020W",
+      "Intermediate Italian II"
+    ],
+    [
+      "2005W",
+      "Third-Year Italian II"
+    ]
+  ],
+  "ITAL-303": "Italian Literature and Culture of the Medieval and Early Modern Period (in English)",
+  "ITAL-304": "Italian Literature and Culture of the Modern and Contemporary Age (in English)",
+  "ITAL-345": "Italian Fascism in Interdisciplinary Perspective (in English)",
+  "ITAL-385": "Italian Cinema: Neorealism (in English)",
+  "ITAL-403": "Dante Alighieri's Divine Comedy (in English)",
+  "ENGL-100": [
+    [
+      "2022W",
+      "Reading and Writing about Language and Literatures"
+    ],
+    [
+      "2009W",
+      "Reading and Writing about Literature"
+    ]
+  ],
+  "ENGL-111": [
+    [
+      "2022W",
+      "Approaches to Language and Communication"
+    ],
+    [
+      "1996W",
+      "Approaches to Non-fictional Prose"
+    ]
+  ],
+  "ENGL-140": "Challenging Language Myths",
+  "ENGL-200": "Principles of Literary Studies",
+  "ENGL-210": "An Introduction to English Honours",
+  "ENGL-220": "Literature in English to the 18th Century",
+  "ENGL-221": "Literature in Britain: the 18th Century to the Present",
+  "ENGL-222": "Literature in Canada",
+  "ENGL-223": "Literature in the United States",
+  "ENGL-227": "Prose Fiction",
+  "ENGL-229": "Topics in the Study of Language and/or Rhetoric",
+  "ENGL-231": "Introduction to Indigenous Literatures",
+  "ENGL-232": "Approaches to Media Studies",
+  "ENGL-241": "Shakespeare Now",
+  "ENGL-242": "Introduction to Children's and Young Adult Literature",
+  "ENGL-243": "Speculative Fiction",
+  "ENGL-244": "Environment and Literature",
+  "ENGL-245": "Comics and Graphic Media",
+  "ENGL-246": "Literature and Film",
+  "ENGL-300": "Introduction to Critical Theory",
+  "ENGL-309": "Rhetoric of Science, Technology, and Medicine",
+  "ENGL-310": "History and Theory of Rhetoric: Classical Rhetoric",
+  "ENGL-318": "History of the English Language: Early History",
+  "ENGL-319": "History of the English Language: Later History",
+  "ENGL-322": "Stylistics",
+  "ENGL-323": "Varieties of English",
+  "ENGL-326": "Studies in the English Language",
+  "ENGL-327": "Cognitive Approaches to the Study of Meaning",
+  "ENGL-328": "Metaphor, Language and Thought",
+  "ENGL-331": "The Structure of Modern English: Sentences and Their Uses",
+  "ENGL-332": "Approaches to Media History",
+  "ENGL-333": "History of the Book",
+  "ENGL-342": "Introduction to Old English",
+  "ENGL-344": [
+    [
+      "2019W",
+      "Middle English Literature"
+    ],
+    [
+      "2001W",
+      "Medieval Studies"
+    ]
+  ],
+  "ENGL-346": [
+    [
+      "2019W",
+      "Chaucer"
+    ],
+    [
+      "2014W",
+      "Chaucer and the Middle Ages"
+    ]
+  ],
+  "ENGL-347": [
+    [
+      "2019W",
+      "Renaissance Literature"
+    ],
+    [
+      "2014W",
+      "Renaissance Studies"
+    ]
+  ],
+  "ENGL-349": [
+    [
+      "2019W",
+      "Seventeenth-Century Literature"
+    ],
+    [
+      "2014W",
+      "Seventeenth-Century Studies"
+    ]
+  ],
+  "ENGL-351": "Restoration and Eighteenth-Century Literature",
+  "ENGL-353": "Eighteenth-Century Literature",
+  "ENGL-355": "Romantic Period Literature",
+  "ENGL-361": "U.S. Literature to 1890",
+  "ENGL-364": [
+    [
+      "2019W",
+      "Nineteenth-Century Literature"
+    ],
+    [
+      "2014S",
+      "Nineteenth-Century Studies"
+    ]
+  ],
+  "ENGL-365": "Modernist Literature",
+  "ENGL-366": "Twentieth-Century Literature",
+  "ENGL-368": "U.S. Literature from 1890",
+  "ENGL-370": "Literatures and Cultures of Africa and/or the Middle East",
+  "ENGL-371": "Asian Canadian and/or Asian Transnational Studies",
+  "ENGL-372": "Canadian Literature",
+  "ENGL-373": "Indigenous Literature",
+  "ENGL-374": "Post-colonial Literature",
+  "ENGL-375": "Global South Connections",
+  "ENGL-377": "World Literature and Social Movements",
+  "ENGL-378": "Contemporary Literature",
+  "ENGL-382": "Theory: Anti-/De-/Post-Colonization",
+  "ENGL-386": "Theory: Critique, Intervention and Dissent",
+  "ENGL-387": "Theory: Bodies",
+  "ENGL-390": "Life Narratives",
+  "ENGL-393": "Ecocriticism",
+  "ENGL-395": "Studies in Poetry",
+  "ENGL-489": "Language Majors Seminar",
+  "ENGL-499": "Honours Essay",
+  "ENGL-501": "Studies in Bibliography",
+  "ENGL-507": [
+    [
+      "2016W",
+      "Studies in English Historical Linguistics"
+    ],
+    [
+      "2014W",
+      "Studies in the History of the English Language"
+    ]
+  ],
+  "ENGL-508": [
+    [
+      "2017W",
+      "Linguistic Studies of Contemporary English"
+    ],
+    [
+      "2015W",
+      "Studies in the Structure of the English Language"
+    ]
+  ],
+  "ENGL-509": [
+    [
+      "2016W",
+      "Studies in Rhetoric"
+    ],
+    [
+      "1996W",
+      "Studies in Rhetoric and Theory of Composition"
+    ]
+  ],
+  "ENGL-512": "Middle English Studies",
+  "ENGL-514": "Studies in the Renaissance",
+  "ENGL-525": "Studies in the Eighteenth Century",
+  "ENGL-535": "Studies in the Victorian Period",
+  "ENGL-539": "Studies in the Twentieth Century",
+  "ENGL-540": "Studies in American Literature to 1890",
+  "ENGL-541": "Studies in American Literature Since 1890",
+  "ENGL-545": "Studies in Canadian Literature",
+  "ENGL-551": "Studies in Literary Movements",
+  "ENGL-553": "Studies in Literary Theory",
+  "ENGL-555": "Studies in Literature and the Other Arts",
+  "ENGL-561": "Topics in Science and Technology Studies",
+  "FIST-200": "Introduction to Canadian Cinema",
+  "FIST-210": "Early Cinema",
+  "FIST-220": "Hollywood Cinema 1930-1960",
+  "FIST-230": "Introduction to Asian Cinema",
+  "FIST-240": "Media Industries",
+  "FIST-331": "Studies in Film Theory",
+  "FIST-332": "Studies in Genre or Period",
+  "FIST-334": "Seminar in Documentary",
+  "FIST-338": "Asian and Australasian Cinema",
+  "FIST-340": "Media Audiences",
+  "FIST-430": "Studies in Auteurism",
+  "FIST-432": "Seminar in Motion Picture Forms",
+  "FIST-436": "Seminar in American Cinema Since 1960",
+  "FIST-445": "Majors and Honours Seminar",
+  "FREN-311": "Introduction to Literature in French",
+  "FREN-321": "Critical Writing",
+  "FREN-330": [
+    [
+      "2021W",
+      "Introduction to Quebec Literature"
+    ],
+    [
+      "2004W",
+      "Selected Works of Quebecois Literature"
+    ]
+  ],
+  "FREN-346": "French at Work",
+  "FREN-352": "French Grammar",
+  "FREN-353": "Advanced French Grammar",
+  "FREN-357": [
+    [
+      "2022W",
+      "Translation"
+    ],
+    [
+      "1996W",
+      "Translation I"
+    ]
+  ],
+  "FREN-370": "Introduction to French Linguistics",
+  "FREN-409": [
+    [
+      "2022W",
+      "Ancients and Moderns: Studies in 17th-century French Literature"
+    ],
+    [
+      "2005W",
+      "Studies in French Literature of the Seventeenth Century"
+    ]
+  ],
+  "FREN-417": "Popular Fiction",
+  "FREN-418": [
+    [
+      "2022W",
+      "African and Caribbean Francophone Literatures"
+    ],
+    [
+      "1996W",
+      "Studies in African and/or Caribbean Literatures of French Expression"
+    ]
+  ],
+  "FREN-428": "Francophone Cinema",
+  "FREN-470": "Studies in Modern French Linguistics",
+  "FREN-477": "Contemporary Varieties of French",
+  "FREN-495": "Research Seminar in French Literature and Culture",
+  "FREN-521": [
+    [
+      "2019W",
+      "Studies in Francophone Literatures and Cultures"
+    ],
+    [
+      "1996W",
+      "Studies in the Literature of the French-Speaking World"
+    ]
+  ],
+  "FRST-100": "Sustainable Forests",
+  "FRST-101": "Principles of Microeconomics for Forestry and Land and Food Systems",
+  "FRST-110": "Land One: First-year Integrative Seminar",
+  "FRST-200": "Forest Plant Biology I",
+  "FRST-201": "Forest Ecology",
+  "FRST-210": "Forest Plant Biology II",
+  "FRST-211": "Forest Classification and Silvics",
+  "FRST-232": "Computer Applications in Forestry",
+  "FRST-239": "Tree and Stand Level Measurements",
+  "FRST-302": "Forest Genetics",
+  "FRST-303": "Principles of Forest Science",
+  "FRST-304": [
+    [
+      "2020W",
+      "The Science of Forests and Conservation"
+    ],
+    [
+      "2005W",
+      "The Science Underlying Forestry Issues"
+    ]
+  ],
+  "FRST-305": "Silviculture",
+  "FRST-310": "Soil Biology",
+  "FRST-311": "Plant Physiology I",
+  "FRST-320": "Abiotic Disturbances: Fire and Climate",
+  "FRST-339": "Forest Level Measurement and Productivity",
+  "FRST-350": "Foundational Field School",
+  "FRST-351": "Interior Field School",
+  "FRST-370": "Community Forests and Community Forestry",
+  "FRST-385": "Watershed Hydrology",
+  "FRST-386": "Aquatic Ecosystems and Fish in Forested Watersheds",
+  "FRST-399": "Introduction to Research Methods",
+  "FRST-411": "Complex Adaptive Systems, Global Change Science, and Ecology Sustainability",
+  "FRST-415": "Sustainable Forest Policy",
+  "FRST-422": "Mathematical Modelling in Forest Resource Analysis",
+  "FRST-423": [
+    [
+      "2020W",
+      "Forest Management Planning"
+    ],
+    [
+      "2019W",
+      "Integrated Resources Management Planning"
+    ]
+  ],
+  "FRST-430": "Advanced Biometrics",
+  "FRST-436": "Growth and Yield",
+  "FRST-439": "International Forestry",
+  "FRST-443": "Remote Sensing for Ecosystem Management",
+  "FRST-444": "Agroforestry",
+  "FRST-452": "Coastal Field School",
+  "FRST-485": "Forest Watershed Management",
+  "FRST-490": "Visual Resource Management and Planning for Aesthetics",
+  "FRST-492": "Environmental Perception",
+  "FRST-495": [
+    [
+      "2022W",
+      "Biological Diversity and Conservation"
+    ],
+    [
+      "1996W",
+      "Biological Diversity and Forest Management"
+    ]
+  ],
+  "FRST-497": [
+    [
+      "2019W",
+      "Communications and Professionalism"
+    ],
+    [
+      "1996W",
+      "Graduating Essay or Technical Report"
+    ]
+  ],
+  "FRST-506": "Advanced Forest Pathology",
+  "FRST-507": "Topics in Forest Science",
+  "FRST-508": "Advanced Forest Insect Ecology",
+  "FRST-519": "Forests and Society",
+  "FRST-522": "Social, Community, and Indigenous Forestry",
+  "FRST-523": "Forest and Environmental Policy",
+  "FRST-531": "Multivariate Statistical Methods",
+  "FRST-532": "Directed Studies in Forest Management",
+  "FRST-533": "Problems in Statistical Methods",
+  "FRST-534": "Natural Resources Economics",
+  "FRST-537": "Topics in Forest Management",
+  "FRST-538": [
+    [
+      "2021W",
+      "Advanced Geomatics for Natural Resource Management"
+    ],
+    [
+      "2007W",
+      "Advanced Remote Sensing"
+    ]
+  ],
+  "FRST-543": [
+    [
+      "2017W",
+      "International Forestry Institutions, Diplomacy and Negotiation"
+    ],
+    [
+      "2015W",
+      "Development of Forestry Institutions"
+    ]
+  ],
+  "FRST-544": "Technical Communication Skills I",
+  "FRST-545": "Technical Communication Skills II",
+  "FRST-547": "Forestry in British Columbia",
+  "FRST-551": "Landscape Planning for Sustainability",
+  "FRST-553": "International Forest Governance and Policy",
+  "FRST-556": "Land Information Acquisition and Analysis",
+  "FRST-557": "Site-Level Forest Land Management",
+  "FRST-558": "Landscape-Level Forest Land Management",
+  "FRST-559": "Natural Resources Planning",
+  "FRST-560": "Forest Business Enterprise",
+  "EDST-501": "Research Traditions in Educational Administration",
+  "EDST-503": "Foundations of Adult Learning and Education",
+  "EDST-509": "Constructing Citizens: Canada and the Educational Past",
+  "EDST-511": "Organization and Administration of Higher Education",
+  "EDST-515": "Survey Research Methods",
+  "EDST-518": "Theory and Research on Adult Learning",
+  "EDST-521": "Foundations of Higher Education",
+  "EDST-523": "Comparative Education",
+  "EDST-531": "The Politics of Educational Governance",
+  "EDST-534": "Theory and Practice of Transformative Learning and Education",
+  "EDST-535": "Comparative and International Adult Education",
+  "EDST-540": "Locating Oneself in Global Learning",
+  "EDST-541": "Adult Learning: Contexts and Perspectives",
+  "EDST-543": "Understanding Research",
+  "EDST-544": "Global/Local Learning",
+  "EDST-545": "Indigenous Inquiry and Research",
+  "EDST-546": "Indigenous Methodology and Epistemology",
+  "EDST-561": "Practicum",
+  "EDST-571": "Educational Research: Relating Questions, Theory, and Methodology",
+  "EDST-575": "Work and Learning",
+  "EDST-578": "Multiculturalism and its Critical Alternatives: Diversity in Education and Society",
+  "EDST-579": "School-Community Relations",
+  "EDST-581": "Leadership, Administration, and the Aims of Education",
+  "EDST-582": "The Study of Educational Organizations",
+  "EDST-588": "Environmental Philosophy and Education",
+  "EDST-597": "Educational Theories: Equality, Democracy, and Justice",
+  "HPB-501": "Green Building Contemporary Practice",
+  "HPB-502": "Regenerative Development",
+  "HPB-503": "Whole Building Energy Modelling and Simulation",
+  "HPB-506": "Capstone: New Building Energy Systems Design",
+  "FRE-302": "Small Business Management in Agri-food Industries",
+  "FRE-306": "Introduction to Global Food Markets",
+  "FRE-326": "Empirical Methods for Food and Resource Economics",
+  "FRE-340": "International Agricultural Development",
+  "FRE-374": "Land and Resource Economics",
+  "FRE-385": "Quantitative Methods for Business and Resource Management",
+  "FRE-460": "Economics of Food Consumption",
+  "FRE-474": [
+    [
+      "2021W",
+      "Causal Inference in the Economics of Natural Resource Conservation"
+    ],
+    [
+      "2019W",
+      "Economics of Global Resource Use and Conservation"
+    ]
+  ],
+  "FRE-490": "Current Issues in Food and Resource Economics",
+  "FRE-501": [
+    [
+      "2019W",
+      "Strategic Economic Analysis of Agri-Food Markets"
+    ],
+    [
+      "2011W",
+      "Commodity Markets and Price Analysis"
+    ]
+  ],
+  "FRE-502": "Food Market Analysis",
+  "FRE-505": "Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools",
+  "FRE-515": "Agribusiness Management",
+  "FRE-516": "Financial and Marketing Management in Agri-food Industries",
+  "FRE-518": "Survey Design and Data Analysis",
+  "FRE-520": "Professional Masters Seminar",
+  "FRE-521": "Topics in Food and Resource Economics",
+  "FRE-523": "Resource Economics I",
+  "FRE-526": "Environmental Economics and Policy: Theory",
+  "FRE-527": "Environmental Economics and Policy: Empirical Analysis",
+  "FRE-528": "Applied Econometrics",
+  "FRE-530": "Econometrics with Time Series Data",
+  "FRE-531": "Global Food and Resource Governance",
+  "FRE-585": "Quantitative Methods for Business and Natural Resource Management",
+  "INFO-100": "(De)coding Information and Why it Matters",
+  "INFO-200": "Foundations of Informatics",
+  "INFO-250": "Networks, Crowds, and Communities",
+  "INFO-300": "Information and Data Design",
+  "INFO-301": "Digital Cultural Collections",
+  "INFO-303": "Search Engines and Society",
+  "INFO-419": "Information Visualization",
+  "INFO-441": "Media Design for Contemporary Childhood",
+  "INFO-456": "Information Policy and Society",
+  "ELEC-201": "Circuit Analysis I",
+  "ELEC-202": "Circuit Analysis II",
+  "ELEC-203": "Basic Circuit Analysis",
+  "ELEC-204": "Linear Circuits",
+  "ELEC-205": "Electronics Laboratory",
+  "ELEC-211": "Engineering Electromagnetics",
+  "ELEC-221": "Signals and Systems",
+  "ELEC-271": "Selected Topics in Biomedical Engineering",
+  "ELEC-292": "Biomedical Engineering Design Studio",
+  "ELEC-301": "Electronic Circuits",
+  "ELEC-302": "Electronic Circuits for Electromechanical Design",
+  "ELEC-311": "Electromagnetic Fields and Waves",
+  "ELEC-315": "Electronic Materials and Devices",
+  "ELEC-321": "Stochastic Signals and Systems",
+  "ELEC-331": "Computer Communications",
+  "ELEC-342": "Electro-Mechanical Energy Conversion and Transmission",
+  "ELEC-343": "Electromechanics",
+  "ELEC-344": "Applied Electronics and Electromechanics",
+  "ELEC-352": "Electric Energy Systems",
+  "ELEC-371": "Biomedical Engineering Instrumentation",
+  "ELEC-400": "Topics in Electrical Engineering",
+  "ELEC-401": "Analog CMOS Integrated Circuit Design",
+  "ELEC-402": "Introduction to VLSI Systems",
+  "ELEC-403": "Advanced Digital VLSI Systems",
+  "ELEC-404": "RF Integrated Circuits",
+  "ELEC-411": "Antennas and Propagation",
+  "ELEC-412": "Optical Waveguides and Photonics",
+  "ELEC-413": "Semiconductor Lasers",
+  "ELEC-415": "Semiconductor Devices: Physics, Design and Analysis",
+  "ELEC-421": "Digital Signal and Image Processing",
+  "ELEC-422": "Biosignals and Systems",
+  "ELEC-431": "Communication Systems I",
+  "ELEC-433": "Error Control Coding for Communications and Computers",
+  "ELEC-441": "Control Systems",
+  "ELEC-442": "Introduction to Robotics",
+  "ELEC-451": "Power Electronics",
+  "ELEC-453": "Power System Analysis",
+  "ELEC-454": "Power System Analysis II",
+  "ELEC-455": "Power Systems Protection",
+  "ELEC-456": "Decision Support Methods in Power Systems Operation",
+  "ELEC-457": "Optimization of Power System Operation",
+  "ELEC-461": "Nanotechnology in Electronics",
+  "ELEC-462": "Sensors and Actuators in Microsystems",
+  "ELEC-463": "Micro/Nanofabrication and Instrumentation Laboratory",
+  "ELEC-465": "Microsystems Design",
+  "ELEC-471": "Medical Imaging",
+  "ELEC-473": "Biological Micro-Electro-Mechanical Systems",
+  "ELEC-474": "Biophotonics",
+  "ELEC-494": "Biomedical Engineering Capstone Design Project",
+  "ELEC-501": "Analog Integrated Circuit Design",
+  "ELEC-502": "Advanced Topics in Very-Large-Scale Integration (VLSI) Design",
+  "ELEC-505": "Integrated Circuits for Phase-Locked Loops",
+  "ELEC-507": "Mixed-Signal and RF Integrated Circuits and Systems Test",
+  "ELEC-523": "Medical Imaging",
+  "ELEC-544": "Advanced Microsystems Design",
+  "ELEC-546": "Micro and Nano Fabrication Technologies",
+  "ELEC-574": "Self-Tuning Control",
+  "HIST-100": "What is History?",
+  "HIST-101": "World History to Oceanic Contact",
+  "HIST-102": "World History from 1500 to the Twentieth Century",
+  "HIST-103": "World History Since 1900",
+  "HIST-104": "Topics in World History",
+  "HIST-105": "Contemporary Global Issues in Historical Perspective",
+  "HIST-106": "Global Environmental History",
+  "HIST-107": "Global Indigenous Histories",
+  "HIST-108": "Global History of Capitalism",
+  "HIST-201": "History Through Photographs",
+  "HIST-202": "Gateway to the Middle Ages",
+  "HIST-235": "History of Canada: Moments that Matter",
+  "HIST-236": "Public History in Canada: Memory, Representation, and Interpretation",
+  "HIST-237": "History of the United States",
+  "HIST-240": "Health, Illness and Medicine I: From the Ancient World to the Early Modern Period",
+  "HIST-250": "Latin American History",
+  "HIST-260": "Science and Society in the Contemporary World",
+  "HIST-271": "Japan and Global History, 1550 - 1900",
+  "HIST-279": "Steppe Empires in World History",
+  "HIST-280": "Islamic World History",
+  "HIST-302": "History of the Indigenous Peoples of North America",
+  "HIST-304": "Researching Local History from the Ground Up",
+  "HIST-305": "History of British Columbia",
+  "HIST-311": "The British Empire after 1850",
+  "HIST-319": "Britain, 1945 to the Present",
+  "HIST-325": "Canada 1896-1945: Boom, Bust and War",
+  "HIST-326": "Canada Since 1945: Affluence and Anxiety in the Atomic Age.",
+  "HIST-330": "History of the Global Financial Order",
+  "HIST-333": "Third-Year Honours Seminar",
+  "HIST-339": "The United States Since 1945: The Limits of Power",
+  "HIST-342": "Modern Jewish History",
+  "HIST-347": "Medieval and Imperial Russian History, 998 to 1800",
+  "HIST-351": "East Central Europe in the 19th and 20th Centuries",
+  "HIST-352": [
+    [
+      "2021W",
+      "Modern Middle Eastern History"
+    ],
+    [
+      "2020W",
+      "Modern Middle Eastern Histrory"
+    ]
+  ],
+  "HIST-353": "Special Topics in Middle Eastern History",
+  "HIST-354": "The Ottoman Empire",
+  "HIST-356": "Twentieth-Century Germany",
+  "HIST-363": "Europe in the Early Middle Ages",
+  "HIST-365": "Europe During the Renaissance",
+  "HIST-366": "Europe During the Reformation",
+  "HIST-367": "Europe in the Age of the Enlightenment",
+  "HIST-368": "Europe in the 19th Century",
+  "HIST-369": "Europe, 1900-1950",
+  "HIST-370": "Europe Since 1950",
+  "HIST-373": "History of Hong Kong",
+  "HIST-379": "History of Later Imperial China",
+  "HIST-380": "The Making of Modern China: Nationalism, War, Revolution",
+  "HIST-381": "Imperialism and Nationalism in Southeast Asia",
+  "HIST-382": "Post-Colonial Southeast Asia",
+  "HIST-385": "India from Raj to Republic",
+  "HIST-386": "Korea Since 1860",
+  "HIST-393": "Introduction to History and Philosophy of Science",
+  "HIST-394": "Darwin, Evolution, and Modern History",
+  "HIST-396": "Environmental History of North America",
+  "HIST-403": "Seminar in the History of International Relations",
+  "HIST-406": "The Second World War",
+  "HIST-408": [
+    [
+      "2015W",
+      "U.S. Foreign Relations from Independence to World War II"
+    ],
+    [
+      "2014W",
+      "American Foreign Policy, 1870 to 1945"
+    ]
+  ],
+  "HIST-409": [
+    [
+      "2015W",
+      "U.S. Foreign Relations since 1945"
+    ],
+    [
+      "2014W",
+      "American Foreign Policy, 1945 to Present"
+    ]
+  ],
+  "HIST-414": "Constitutions in Canadian History: From Pre-Contact to the Charter of Rights",
+  "HIST-418": "The 1960s in Global Perspective",
+  "HIST-420": "Topics in Canadian History",
+  "HIST-421": "Honours Tutorial",
+  "HIST-432": [
+    [
+      "2018W",
+      "International Relations in the Twentieth Century"
+    ],
+    [
+      "1996S",
+      "International Relations of the Great Powers in the Twentieth Century"
+    ]
+  ],
+  "HIST-433": "Fourth-Year Honours Seminar",
+  "HIST-443": "History of North American Children and Youth",
+  "HIST-449": "Honours Essay",
+  "HIST-453": "Class and Culture in Latin America",
+  "HIST-460": "Revolution and Resistance in the Third World",
+  "HIST-478": "Medieval Portraits and Personalities",
+  "HIST-485": "Asian Migrant Communities in Vancouver",
+  "HIST-490": "Seminar for Majors in History",
+  "HIST-547": "Readings: Special Topics in History",
+  "HIST-548": "Historiography",
+  "HIST-585": "Topics in Cultural History",
+  "HIST-586": "Topics in Intellectual History",
+  "HIST-594": "Readings in Aboriginal History",
+  "HIST-599": "M.A. Research Seminar",
+  "ECON-221": "Introduction to Strategic Thinking",
+  "ECON-226": "Making Sense of Economic Data",
+  "ECON-234": "Wealth and Poverty of Nations",
+  "ECON-255": "Understanding Globalization",
+  "ECON-301": "Intermediate Microeconomic Analysis I",
+  "ECON-302": "Intermediate Macroeconomic Analysis I",
+  "ECON-303": "Intermediate Microeconomics II",
+  "ECON-304": "Honours Intermediate Microeconomic Analysis I",
+  "ECON-305": "Honours Intermediate Macroeconomic Analysis I",
+  "ECON-306": "Honours Intermediate Microeconomics II",
+  "ECON-307": "Honours Intermediate Macroeconomics II",
+  "ECON-309": "Intermediate Open Economy Macroeconomics",
+  "ECON-310": "Principles of Microeconomics",
+  "ECON-311": "Principles of Macroeconomics",
+  "ECON-315": "Intermediate Microeconomics I",
+  "ECON-316": "Intermediate Microeconomics II",
+  "ECON-317": "Poverty and Inequality",
+  "ECON-319": "History and Philosophy of Economics from Ricardo to Keynes",
+  "ECON-326": "Methods of Empirical Research in Economics",
+  "ECON-327": "Introduction to Empirical Methods",
+  "ECON-328": "Methods of Empirical Research",
+  "ECON-334": "Economic History of Modern Europe",
+  "ECON-335": "Fertility, Families and Human Migration",
+  "ECON-336": "Economic History of Canada",
+  "ECON-339": "Economics of Technological Change",
+  "ECON-351": [
+    [
+      "2022W",
+      "Sex and Gender in the Economy"
+    ],
+    [
+      "1996W",
+      "Women in the Economy"
+    ]
+  ],
+  "ECON-364": "The Economics of Sustainable Development: Communities, Markets and Technology",
+  "ECON-370": "Benefit-Cost Analysis and the Economics of Project Evaluation",
+  "ECON-374": "Land Economics",
+  "ECON-390": "Introduction to Economic Research",
+  "ECON-398": "Introduction to Applied Economics",
+  "ECON-407": "Topics in Macroeconomics",
+  "ECON-421": "Introduction to Game Theory and Applications.",
+  "ECON-425": "Introduction to Econometrics",
+  "ECON-442": "Issues in Economic Development",
+  "ECON-450": "Economics of Taxation",
+  "ECON-455": "International Trade",
+  "ECON-456": "International Macroeconomics and Finance",
+  "ECON-457": "Seminar in International Economic Relations",
+  "ECON-460": "Economics of Labour Markets",
+  "ECON-471": "Economics of Nonrenewable Resources",
+  "ECON-485": "Political Economy",
+  "ECON-490": "Seminar in Applied Economics",
+  "ECON-493": "Advanced Empirical Methods for International Economics",
+  "ECON-494": "Seminar in Applied International Economics",
+  "ECON-495": "Honours Seminar",
+  "ECON-499": "Honours Essay",
+  "ECON-500": "Microeconomics",
+  "ECON-502": "Macroeconomics",
+  "ECON-514": "Information and Incentives",
+  "ECON-526": "Mathematics for Economics",
+  "ECON-527": "Econometric Methods of Economic Research",
+  "ECON-541": "Economic Development I",
+  "ECON-542": "Economic Development II",
+  "ECON-543": "Economics of Transition Economies",
+  "ECON-544": "Political Economy, Institutions, and Business",
+  "ECON-546": "Monetary Theory and Policy I",
+  "ECON-555": "International Trade",
+  "ECON-556": "International Finance",
+  "ECON-561": "Topics in Industrial Relations",
+  "ECON-562": "Research Design and Policy Evaluation in Economics",
+  "ECON-567": "Organization Theory and Non-market Allocation",
+  "ECON-573": "Environmental Economics",
+  "ECON-574": "Special Topics in the Economics of Resource Use",
+  "ECON-590": "Special Advanced Course",
+  "ECON-600": "Microeconomics I",
+  "ECON-601": "Microeconomics II",
+  "ECON-602": "Macroeconomics I",
+  "ECON-603": "Macroeconomics II",
+  "ECON-622": "Computational Economics with Data Science Applications",
+  "ECON-626": "Econometric Theory I",
+  "ECON-627": "Econometric Theory II",
+  "ECON-628": "Topics in Applied Econometrics I",
+  "ECON-640": "Ph.D. Research Seminar",
+  "INDS-502": "Interdisciplinary Studies: Thematic Seminars",
+  "IGEN-230": "Introduction to Engineering Design",
+  "IGEN-330": "Intermediate Engineering Design",
+  "IGEN-430": "Advanced Engineering Design Projects",
+  "IGEN-450": "Pipeline Engineering",
+  "IGEN-451": "Pipeline Systems and Infrastructure",
+  "IGEN-452": "Pipeline Design",
+  "FCOR-500": "Leadership and Sustainability",
+  "FCOR-501": "Project Management",
+  "FCOR-502": "Entrepreneurship",
+  "FCOR-503": "Policy Analysis",
+  "FCOR-599": "Project Proposal Development and Proof of Concept",
+  "GRSJ-102": [
+    [
+      "2017W",
+      "Global Issues in Social Justice"
+    ],
+    [
+      "2013W",
+      "Decolonizing and Feminist Perspectives from Local to Global"
+    ]
+  ],
+  "GRSJ-200": "Gender and Environmental Justice",
+  "GRSJ-225": "Youth Activism and Social Justice",
+  "GRSJ-226": "Human Rights and Artistic Expression: Thinking Beyond the Legal",
+  "GRSJ-230": "Gender, Race, Sexuality, and Representation in Modern Asia",
+  "GRSJ-235": "Gender, Race, Sexuality, and Social Structures in Modern Asia",
+  "GRSJ-302": "Pedagogies of Social Justice",
+  "GRSJ-303": [
+    [
+      "2017W",
+      "Gender, Race, Social Justice and the Law"
+    ],
+    [
+      "2013W",
+      "Gender, Law, and Social Justice"
+    ]
+  ],
+  "GRSJ-305": "Social Justice Issues in Community and International Organizing",
+  "GRSJ-306": "Globalization and Social Justice: Gender, Race, and Sexuality in International Politics",
+  "GRSJ-307": "Gender, Race, Sexuality, and Popular Culture",
+  "GRSJ-310": [
+    [
+      "2017W",
+      "Gender, Race, Social Justice and Health"
+    ],
+    [
+      "2013W",
+      "Issues in Gender and Health"
+    ]
+  ],
+  "GRSJ-315": "Critical Racial Theories",
+  "GRSJ-316": "Queer and Trans of Colour Theorizing",
+  "GRSJ-325": [
+    [
+      "2017W",
+      "Anti-colonial and Feminist Qualitative Methodologies"
+    ],
+    [
+      "2013W",
+      "Decolonizing and Feminist Qualitative Methodologies"
+    ]
+  ],
+  "GRSJ-326": "The Politics of Gender, Families, and Nation-Building",
+  "GRSJ-327": [
+    [
+      "2017W",
+      "Theories of Representation and Difference"
+    ],
+    [
+      "2013W",
+      "Feminist Theories of Representation and Difference"
+    ]
+  ],
+  "GRSJ-328": [
+    [
+      "2017W",
+      "Theories of Subjectivity"
+    ],
+    [
+      "2013W",
+      "Feminist Theories of Subjectivity"
+    ]
+  ],
+  "GRSJ-401": "Body, Gender and Society",
+  "GRSJ-415": "Critical Racial and Anti-Colonial Feminist Approaches",
+  "GRSJ-422": "Advanced Research Seminar",
+  "GRSJ-450": "Directed Studies",
+  "GRSJ-500": "Intersectional Issues in Social Justice and Equality Studies",
+  "GRSJ-501": "Issues in Decolonizing and Feminist Methodologies",
+  "GRSJ-502": "Issues in Gender, Sexuality, and Critical Race Theories",
+  "GRSJ-511": "Difficult Knowledge: Ethics and Praxis of Research in Challenging Settings",
+  "GRSJ-515": "Critical and Creative Social Justice Studies Seminars",
+  "ENVR-200": "Introduction to Environmental Science",
+  "ENVR-300": "Introduction to Research in Environmental Science",
+  "ENVR-400": "Community Project in Environmental Science",
+  "ENVR-410": "Energy, Environment, and Society",
+  "ENVR-420": "Ecohydrology of Watersheds and Water Systems",
+  "ENVR-430": "Ecological Dimensions of Sustainability",
+  "ENVR-440": "Analytical Methods in Sustainability Science",
+  "ENVR-448": "Directed Studies in Environmental Science",
+  "ENVE-200": "Environmental Engineering Design and Decision Making",
+  "ENVE-201": "Technical Communications for Environmental Engineering",
+  "ENVE-202": "Environmental Engineering Science",
+  "ENVE-203": "Environmental Engineering and Sustainability",
+  "ENVE-301": "Environmental Engineering Intermediate Design Project",
+  "LWS-501": "Advanced Soil Processes",
+  "LWS-510": "Land and Water Seminar",
+  "LWS-516": "Urban Watershed Management",
+  "LWS-517": "Land and Water Resource Evaluation",
+  "LWS-525": "Global Issues in Land and Water Systems",
+  "LWS-550": "Professional Communications Strategies",
+  "EDUC-141": "Indigenous Studies",
+  "EDUC-210": "Global Citizenship, Part 1: Introduction",
+  "EDUC-449": "Supervised Research Investigation",
+  "LASO-204": "Introduction to Law and Society",
+  "LASO-309": "Against the Law",
+  "FNEL-101": "Introduction to a Salish Language I",
+  "FNEL-102": "Introduction to a Salish Language II",
+  "FNEL-180": "Introduction to Endangered Language Documentation and Revitalization",
+  "FNEL-282": "Structures of Endangered Languages: Conservation and Revitalization",
+  "FNEL-380": "Technologies for Endangered Language Documentation and Revitalization",
+  "FNEL-381": "Biocultural Diversity: Language, Community, and Environment",
+  "FNH-160": "Integrated Physiology for Human Nutrition I",
+  "FNH-300": [
+    [
+      "2021W",
+      "Food Engineering"
+    ],
+    [
+      "2000W",
+      "Principles of Food Engineering"
+    ]
+  ],
+  "FNH-301": [
+    [
+      "2021W",
+      "Food Chemistry"
+    ],
+    [
+      "2000W",
+      "Food Chemistry I"
+    ]
+  ],
+  "FNH-302": "Food Analysis",
+  "FNH-303": "Food Product Development",
+  "FNH-309": [
+    [
+      "2021W",
+      "Food Processing"
+    ],
+    [
+      "2000W",
+      "Food Process Science"
+    ]
+  ],
+  "FNH-313": [
+    [
+      "2018W",
+      "Food Microbiology"
+    ],
+    [
+      "2000W",
+      "Microorganisms in Food Systems"
+    ]
+  ],
+  "FNH-325": "Food Science Laboratory I",
+  "FNH-326": "Food Science Laboratory II",
+  "FNH-335": "Introduction to Wine Science II",
+  "FNH-340": "Food Theory and Applications",
+  "FNH-342": [
+    [
+      "2015W",
+      "Critical Perspectives on Consumer Food Practices"
+    ],
+    [
+      "2014W",
+      "Consumer Aspects of Food"
+    ]
+  ],
+  "FNH-345": "Counselling Skills in Dietetics",
+  "FNH-350": "Fundamentals of Nutrition",
+  "FNH-351": "Vitamins, Minerals, and Health",
+  "FNH-370": "Nutrition Assessment",
+  "FNH-371": "Human Nutrition Over The Life Span",
+  "FNH-375": "Nutrition Care I",
+  "FNH-398": "Research Methods in Human Nutrition",
+  "FNH-402": [
+    [
+      "2021W",
+      "Functional Foods"
+    ],
+    [
+      "2001W",
+      "Functional Foods and Nutraceuticals"
+    ]
+  ],
+  "FNH-403": "Food Laws, Regulations and Quality Assurance",
+  "FNH-404": "Food Safety and Quality Management",
+  "FNH-405": "Microbiology of Food and Beverage Fermentation",
+  "FNH-413": "Food Safety",
+  "FNH-414": "Sustainability in the Food Industry",
+  "FNH-415": "Business Concepts in Food, Nutrition, and Health",
+  "FNH-425": "Food Science Laboratory III",
+  "FNH-440": "Food Service Systems Management",
+  "FNH-451": "Nutrient Metabolism and Implications for Health",
+  "FNH-455": "Applied International Nutrition",
+  "FNH-470": [
+    [
+      "2021W",
+      "Nutrition Care II"
+    ],
+    [
+      "2016W",
+      "Foundations of Nutrition Care I"
+    ],
+    [
+      "2009W",
+      "Clinical Dietetics I"
+    ]
+  ],
+  "FNH-472": "Maternal and Fetal Nutrition",
+  "FNH-473": [
+    [
+      "2016W",
+      "Applied Public Health Nutrition"
+    ],
+    [
+      "2002W",
+      "Nutrition Education in the Community"
+    ]
+  ],
+  "FNH-474": "Sport Nutrition",
+  "FNH-475": [
+    [
+      "2021W",
+      "Nutrition Care III"
+    ],
+    [
+      "2016W",
+      "Foundations of Nutrition Care II"
+    ],
+    [
+      "2009W",
+      "Clinical Dietetics II"
+    ]
+  ],
+  "FNH-477": "Nutrition and Disease Prevention",
+  "FNH-490": "Advanced Topics in Food, Nutrition, and Health",
+  "FNH-497": [
+    [
+      "2019S",
+      "Directed Studies in Food, Nutrition and Health"
+    ],
+    [
+      "2000W",
+      "Dir Stud in FNH"
+    ]
+  ],
+  "FNH-499": "Undergraduate Thesis",
+  "JRNL-100": "New Media and Society",
+  "JRNL-400": "Feminist Postcolonial Critique and Journalism in a Digital Age",
+  "JRNL-503": "Journalism Practice and Standards",
+  "JRNL-515": "Integrated Journalism",
+  "JRNL-520": "Special Topics in Contemporary Journalism",
+  "JRNL-533": "Media Ethics & Leadership",
+  "JRNL-534": "Media Law",
+  "JRNL-539": "Directed Studies",
+  "JRNL-540": "Imagine Journalism Studio",
+  "JRNL-550": "Feature Writing",
+  "JRNL-555": "International Reporting",
+  "KORN-200": "Intermediate Korean",
+  "KORN-301": "Readings in Korean Topics I",
+  "KORN-302": "Readings in Korean Topics II",
+  "KORN-351": "Introduction to Sino-Korean Readings",
+  "GEM-500": "Landscape Ecology and Management",
+  "GEM-510": "Geographic Information Systems for Forestry and Conservation",
+  "GEM-511": "Advanced Geographic Information Systems for Environmental Management",
+  "GEM-520": "Remote Sensing for Ecosystem Management",
+  "GEM-521": "Advanced Earth Observation and Image Processing",
+  "GEM-530": "Geospatial Data Analysis",
+  "GEM-540": "Linear Regression Models and Introduction to Spatial Statistics",
+  "HEBR-101": [
+    [
+      "2020W",
+      "Beginning Biblical Hebrew I"
+    ],
+    [
+      "2014W",
+      "Elementary Biblical Hebrew Part I"
+    ]
+  ],
+  "HEBR-102": [
+    [
+      "2020W",
+      "Beginning Biblical Hebrew II"
+    ],
+    [
+      "2014W",
+      "Elementary Biblical Hebrew Part II"
+    ]
+  ],
+  "ETEC-523": "Mobile & Open Education",
+  "ETEC-530": "Constructivism Strategies for E-Learning",
+  "ETEC-531": "Curriculum Issues in Cultural and New Media Studies",
+  "ETEC-532": "Technology in the Arts and the Humanities Classroom",
+  "ETEC-533": "Technology in the Mathematics and Science Classroom",
+  "ETEC-540": "Text Technologies: The Changing Spaces of Reading and Writing",
+  "ETEC-543": "Understanding Learning Analytics",
+  "ETEC-544": "Digital Games & Learning",
+  "ETEC-590": "Graduating Project",
+  "ENGL-530": "Studies in the Romantic Period",
+  "ENGL-546": "Studies in Commonwealth/Post-colonial Literatures",
+  "FRST-555": "Fundamentals of Sustainable Forest Land Management",
+  "FREN-331": "Arts, Cultures and Society from the Middle Ages to the Revolution",
+  "EDST-400": "Social and Ethical Considerations in Education",
+  "EDST-525": "Program Evaluation in Adult and Community Education",
+  "EDST-529": "Qualitative Research Interviewing",
+  "EDST-598": "Field Experiences",
+  "EDST-604": "Advanced Seminar in Researching Educational Practice & Policy",
+  "HIST-109": "Cultural Histories of Media: From Writing to Tweeting",
+  "HIST-338": "American Modernity: The United States, 1890-1945",
+  "HIST-405": "Diplomacy and Conflict in the Middle East, 1914 to the Present",
+  "ECON-447": "Monetary Theory",
+  "LFS-490": "Topics in Land and Food Systems",
+  "LIBR-524": "Writing, Publishing and the Book Trade for Children",
+  "LIBR-581": "Digital Libraries",
+  "LLED-445": [
+    [
+      "2017S",
+      "Teaching Poetry"
+    ],
+    [
+      "2014S",
+      "Poetry in Education: Elementary and Middle Years"
+    ]
+  ],
+  "LLED-525": "Bilingual Education: Theory and Practice",
+  "LLED-552": "Theoretical Foundations of Reading Research and Practice",
+  "KIN-515": "Gap Analysis",
+  "EPSE-513": "Foundations of Orientation and Mobility for Teachers of Students with Visual Impairments",
+  "EPSE-514": "Advanced Orientation and Mobility Techniques for Instructors of Individuals who are Blind or Visually Impaired",
+  "EPSE-521": "Psychosocial Aspects of Hearing Loss",
+  "EPSE-522": "Designing English Language Programs for Deaf and Hard of Hearing Students",
+  "EPSE-545": [
+    [
+      "2020S",
+      "Teaching the Expanded Core Curriculum to Students with Visual Impairments"
+    ],
+    [
+      "2001W",
+      "Teaching Independent Living Skills to Students with Visual Impairments"
+    ]
+  ],
+  "EPSE-630": "Advanced Seminar: Adolescence Through Emerging Adulthood",
+  "IWME-502": "Engineering Hydrology",
+  "EDCP-474": "Digital Media in Education: Design and Pedagogy",
+  "EDCP-481": "Media Studies Across the Curriculum",
+  "EDCP-512": "Education Action Research",
+  "LARC-510": "Advanced Field Studies in Landscape Architecture",
+  "LARC-570": [
+    [
+      "2021S",
+      "Co-operative Education"
+    ],
+    [
+      "2018S",
+      "Co-op Work Placement"
+    ],
+    [
+      "2008S",
+      "Internship"
+    ]
+  ],
+  "LARC-580": "Directed Studies in Design Analysis, Programming and Theory",
+  "EDUC-140": "Introduction to Indigenous Studies",
+  "EDUC-240": "Issues in Indigenous Education",
+  "LAIS-608": "Academic and Research Practices in Library, Archival and Information Studies",
+  "GRSJ-301": [
+    [
+      "2018W",
+      "Gender, Race and Indigeneity in Canada"
+    ],
+    [
+      "2013W",
+      "Gender and Indigeneity in Canada"
+    ]
+  ],
+  "GRSJ-304": "Gaming the System: Digital Media, Social Justice, and Video Games",
+  "GRSJ-320": "Feminist Anti-Racist Pedagogies",
+  "GRSJ-410": "Religious Feminisms",
+  "JRNL-420": "Decoding Social Media",
+  "FNEL-201": "Intermediate Salish Language I",
+  "FNEL-202": "Intermediate Salish Language II",
+  "FNEL-281": "Sounds of Endangered Languages: Conservation and Revitalization",
+  "FNEL-382": "Lexicography for Endangered Languages",
+  "HEBR-201": "Intermediate Biblical Hebrew I",
+  "KORN-410": "Modern Korean Short Fiction",
+  "KORN-420": "Readings in Middle and Early Modern Korean",
+  "EDST-553": "Group Inquiry into Educational Practices",
+  "EDST-555": "Educational Finance",
+  "EDST-585": "Capstone: Society, Culture, and Politics in Education",
+  "EDST-593": "Ethics and Education",
+  "EDST-596": "Philosophy and Educational Policy",
+  "FREN-414": "The Modern and Contemporary French Novel",
+  "FREN-416": [
+    [
+      "2021W",
+      "Contemporary French Literature and Culture"
+    ],
+    [
+      "2004W",
+      "Studies in French Literature since 1900"
+    ]
+  ],
+  "FREN-419": [
+    [
+      "2021W",
+      "Women's Writing"
+    ],
+    [
+      "2019W",
+      "Studies in Women's Writing"
+    ]
+  ],
+  "FREN-427": [
+    [
+      "2021W",
+      "French Cinema"
+    ],
+    [
+      "2005W",
+      "Studies in Cinema"
+    ]
+  ],
+  "FREN-442": "Cultures of the Francophone World",
+  "FREN-451": "French Phonetics",
+  "FREN-476": "French Language and Societies",
+  "FREN-501": "Studies in Medieval French Literature",
+  "FREN-520": [
+    [
+      "2021W",
+      "Special Topics in French Literature"
+    ],
+    [
+      "2016W",
+      "Studies in French Literature"
+    ]
+  ],
+  "FIST-336": "Seminar in European Cinema",
+  "FIST-520": "Advanced Film and Media Criticism",
+  "FRST-408": [
+    [
+      "2021W",
+      "Advanced Forest Insect Ecology"
+    ],
+    [
+      "1996W",
+      "Problems of Forest Entomology"
+    ]
+  ],
+  "FRST-432": [
+    [
+      "2019W",
+      "Ecological Genomics"
+    ],
+    [
+      "2009W",
+      "Molecular Ecology"
+    ]
+  ],
+  "FRST-512": "Belowground Forest Ecosystems",
+  "FRST-530": "Multiple Regression Methods",
+  "FRST-588": "Fluvial Ecohydrology",
+  "FRST-590": "Statistical Methods in Hydrology",
+  "ITAL-401": [
+    [
+      "2020W",
+      "Upper-Intermediate Italian I"
+    ],
+    [
+      "2005W",
+      "Advanced Studies in Italian Language and Style I"
+    ]
+  ],
+  "ENGL-211": "Seminar for English Honours",
+  "ENGL-247": "Television Studies",
+  "ENGL-307": "Studies in Rhetoric",
+  "ENGL-311": "History and Theory of Rhetoric: The Later Theory",
+  "ENGL-312": "Discourse and Society",
+  "ENGL-324": "English Corpus Linguistics",
+  "ENGL-337": "Text and Image",
+  "ENGL-343": [
+    [
+      "2019W",
+      "Anglo-Saxon and Early Medieval Literature"
+    ],
+    [
+      "2014W",
+      "Old English Literature"
+    ]
+  ],
+  "ENGL-350": "Milton",
+  "ENGL-360": "Early Canadian Writing",
+  "ENGL-379": "Migrations, Movements, and Transnational Networks in Literary and Cultural Production",
+  "ENGL-492": "Senior Honours Seminar",
+  "ENGL-502": "Studies in Criticism",
+  "ENGL-506": "Studies in Poetry",
+  "LATN-503": "Studies in Latin Prose and Verse",
+  "ECON-318": "History and Philosophy of Economics from Aristotle to Adam Smith",
+  "ECON-384": "Economic Analysis of Health Services",
+  "ECON-451": "Economics of Public Expenditures",
+  "ECON-465": "Market Structure",
+  "ECON-472": "Economics of Renewable Resources",
+  "ECON-516": "Special Topics in Macroeconomics",
+  "ECON-531": "Economic History of Modern Europe",
+  "ECON-550": "Government Finance: Expenditures",
+  "ECON-629": "Topics in Applied Econometrics II",
+  "HIST-241": "Health, Illness and Medicine II: The Modern World from 1700 to the Present",
+  "HIST-256": "History of Africa",
+  "HIST-259": "Science, Medicine, and Technology in the Ancient and Medieval Worlds",
+  "HIST-273": "History of India",
+  "HIST-312": "Southern Africa",
+  "HIST-318": "Early Twentieth-Century Britain",
+  "HIST-321": "Honours Tutorial",
+  "HIST-323": [
+    [
+      "2017W",
+      "Empires, Wars, and Revolutions in Europe and the Americas,1763-1838"
+    ],
+    [
+      "2008W",
+      "The Atlantic Revolutions,1763-1838"
+    ]
+  ],
+  "HIST-334": [
+    [
+      "2021W",
+      "African-American History, 1450 - 1850"
+    ],
+    [
+      "2014W",
+      "Senegambia to South Carolina, Ghana to Georgia: African-American History, 1450 - 1850"
+    ]
+  ],
+  "HIST-335": [
+    [
+      "2021W",
+      "African-American History, 1850 to the Present"
+    ],
+    [
+      "2014W",
+      "From Slavery to Citizenship and Beyond: African-American History, 1850 to the Present"
+    ]
+  ],
+  "HIST-340": "Histories of the American West",
+  "HIST-357": "History of Mexico",
+  "HIST-358": "State and Society in 20th century Cuba",
+  "HIST-378": "History of Early China",
+  "HIST-388": "India in the Early Modern World: Mughals, Merchants, and Marauders",
+  "HIST-390": "Topics in History",
+  "HIST-391": "Human Rights in World History",
+  "HIST-399": "Theory and Practice of History",
+  "HIST-404": "The First World War",
+  "HIST-413": "Imagining the Nation: 19th- and 20th-Century Canada",
+  "HIST-419": "Crime and Punishment in Canadian History",
+  "HIST-440": "History of Global Health",
+  "HIST-464": "First Contacts in the Pacific",
+  "HIST-479": "Cultural History of Imperial China",
+  "HIST-483": "Asian Migrations to the Americas",
+  "HIST-500": "Readings in Canadian History",
+  "HIST-575": "Readings in International and Global History",
+  "HIST-595": "Public History",
+  "HIST-597": "Topics in Comparative History",
+  "ELEC-503": "Integrated Circuits for High-Speed Data Links",
+  "ELEC-506": "CMOS Design for Photonics",
+  "ELEC-524": "Advanced Biophotonics",
+  "ELEC-542": "Nanoscale Modelling and Simulations",
+  "ELEC-543": "Green Nanoelectronic Devices",
+  "FMST-238": "Family Resource Management",
+  "GBPR-501": "Biomass Fractionation Chemistry",
+  "JAPN-402": "Advanced Modern Japanese: Conversation and Composition I",
+  "JAPN-450": "Advanced Oral Communication I",
+  "JAPN-453": "Readings in Modern Japanese Literature",
+  "GEOB-500": [
+    [
+      "2021W",
+      "Theory and Practice of Research in Geographical Sciences"
+    ],
+    [
+      "2009W",
+      "Contemporary Research Trends in Physical Geography"
+    ]
+  ],
+  "GEOB-503": "Topics in Geomorphology and Hydrology",
+  "FIPR-436": "Documentary Development and Production",
+  "EECE-553": "Advanced Power Systems Analysis",
+  "EECE-565": "Communication Networks",
+  "EECE-567": "Power System Dynamics and Stability",
+  "FISH-507": "Grand Challenges in Ocean Leadership",
+  "FISH-520": "Fisheries Conservation, Governance, and Evaluation",
+  "GEOG-220": "Geopolitics",
+  "GEOG-312": "Climate Change: Science and Society",
+  "GEOG-321": "Historical Geography of Urbanization: Cities, Space, and Power",
+  "GEOG-329": [
+    [
+      "2017W",
+      "Political Geography"
+    ],
+    [
+      "1996W",
+      "Introduction to Political Geography"
+    ]
+  ],
+  "GEOG-423": "Development of Environmental Thought",
+  "GEOG-457": "Social and Behavioural Geography",
+  "GEOG-498": "Geographies of the Middle East",
+  "GEOG-547": "Directed Reading in Human Geography",
+  "LING-270": "Introduction to Studies in Second Language Acquisition",
+  "LING-433": "Native Languages of the Americas",
+  "LING-513": "Topics in Phonetics",
+  "LLED-213": "Introduction to Intercultural Communication and Socialization in Multicultural Contexts",
+  "LLED-479": "The Education of Immigrant Students",
+  "LLED-480": "Advanced Studies in Language and Literacy Education",
+  "LLED-501": "Analyzing Discourse and Talk: An Overview of Methods",
+  "LLED-526": "Second Language Assessment: Conceptual and Empirical Approaches",
+  "LLED-540": "Introduction to Research in the Teaching of Literature",
+  "LIBR-523": "Canadian Literature and other Materials for Children",
+  "LIBR-528": "Services for Young Adults",
+  "LIBR-539": "Specialized Materials",
+  "LIBR-548": "Issues in Information Services",
+  "LIBR-588": "Theory and Practice of Oral History",
+  "GEOS-307": "Biogeography and Global Change",
+  "GEOS-402": "Air Pollution Meteorology",
+  "GEOS-415": "River Restoration: Science and Society",
+  "FOPE-503": "Climate Modelling and Forest Applications",
+  "ISCI-330": "Topics in Integrated Sciences",
+  "ITST-110": [
+    [
+      "2019W",
+      "\"Made in Italy\""
+    ],
+    [
+      "2011W",
+      "Introduction to Italian Literature and Culture"
+    ]
+  ],
+  "ITST-231": "Introduction to Italian Culture I: From the Middle Ages to the Early Modern Period",
+  "ITST-232": "Introduction to Italian Culture II: From the Modern to the Post-Colonial Age",
+  "ITST-234": "Introduction to Italian Cinema",
+  "ITST-333": "Masterpieces of the Novella in Italian Literature",
+  "ITST-419": "Topics in Modern and Contemporary Italian Literature and Culture in Translation",
+  "EOSC-422": "Structural Geology II",
+  "EOSC-424": "Advanced Mineral Deposits",
+  "EOSC-511": "Numerical Techniques for Ocean, Atmosphere and Earth Scientists",
+  "EOSC-512": "Advanced Geophysical Fluid Dynamics",
+  "EOSC-523": "Isotope Geology",
+  "EOSC-541": "Multi-component Reactive Transport Modelling in Groundwater",
+  "EOSC-576": "Inorganic Chemical Tracers in the Study of Marine Systems",
+  "EDCP-327": "Special Topics  in Health Education",
+  "EDCP-452": "Science, Technology, and Society",
+  "EDCP-505": "Review of Research in Music Education: Theory and Practice",
+  "EDCP-513": "Case-Study Research and Cross-Case Analysis",
+  "EDCP-524": "Technology, Virtual Worlds, and Digital Visual Culture in Art Education",
+  "EDCP-545": "Educational Programming in Museums",
+  "EDCP-551": "Mathematics Education: Current Issues",
+  "EDCP-553": "Mathematics Education: Beyond the Early Years",
+  "EDCP-571": "History of Media and Technology in Education",
+  "EPSE-507": "Applied Child and Adolescent Psychopathology",
+  "EPSE-529": "Development of Scales and Measures",
+  "EPSE-530": "Seminar in Education of the Deaf and Hard of Hearing",
+  "EPSE-536": "Foundations of Education for Students with Visual Impairments",
+  "EPSE-554": "Practicum in Cognitive Assessment",
+  "EPSE-555": "Academic and Social-Emotional Assessment",
+  "EPSE-556": "Cognitive and Academic Assessment Practicum",
+  "EPSE-557": "Social and Emotional Interventions with Children and Youth",
+  "EPSE-565": "Special Course in Subject Matter Field",
+  "EPSE-568": "Applied Developmental Neuropsychology",
+  "EPSE-578": "Ethics for Behaviour Analysts",
+  "EPSE-594": "Meta-Analysis: Quantitative Research Synthesis",
+  "EPSE-606": "College and University Teaching",
+  "EPSE-682": "Multivariate Designs and Analysis in Educational Research",
+  "INLB-252": "Introduction to Gender Justice and Indigenous Communities",
+  "LARC-542": "Aesthetics and Sustainability",
+  "ECPS-310": "International Development and Human Security",
+  "GREK-202": [
+    [
+      "2019W",
+      "Intermediate Ancient Greek II"
+    ],
+    [
+      "2014W",
+      "Second-Year Ancient Greek II"
+    ]
+  ],
+  "GREK-503": "Studies in Ancient Greek Prose and Verse",
+  "GERM-314": "Business German",
+  "GERM-360": "Heaven and Earth: Studies in German Culture and Literature before 1700.",
+  "GERM-426": "German Representations of the Holocaust (in English)",
+  "FNIS-400": "Practicum/Advanced Research Seminar",
+  "FNIS-401": "Special Topics",
+  "FNIS-451": "Indigenous Feminisms",
+  "FNIS-456": "Indigenous Two-Spirit and Queer Studies",
+  "FNIS-501": "Special Topics",
+  "EDCP-325": "Approaches to Health Education",
+  "EDCP-420": "Advanced Physical Education: Elementary",
+  "GERM-303": "German Literature Before 1900 (in English)",
+  "GEOB-103": "Our Changing Environment: Water and Landscapes",
+  "GEOB-270": "Geographic Information Science",
+  "LLED-442": "Trends and Issues in Teaching Children's Literature",
+  "EDST-426": "History of Education",
+  "EDST-552": "School Law",
+  "FRST-319": "Principles of Forestry Economics",
+  "FRE-394": "Government and Business",
+  "FRE-517": "Futures Trading in Agricultural Commodities",
+  "FRE-529": "Estimating Econometric Models",
+  "ETEC-580": "Problems in Education",
+  "HEBR-202": "Intermediate Biblical Hebrew II",
+  "FREN-556": "Studies in French Language and Linguistics",
+  "GRS-300": "Global Water and Energy Nexus",
+  "LWS-515": [
+    [
+      "2018W",
+      "Watershed Science"
+    ],
+    [
+      "2017W",
+      "Integrated Watershed Management"
+    ]
+  ],
+  "HIST-549": "Master's Thesis",
+  "GEOG-448": "Directed Studies in Geography",
+  "LAW-340": "Comparative Law",
+  "LAW-351": "Topics in Human Rights",
+  "LAW-367": "Reproduction and Law",
+  "LAW-390": "Environmental Law Workshop",
+  "LAW-410": "International Taxation",
+  "LAW-418": "Resolution of Labour Disputes",
+  "LAW-424": "Communications Law",
+  "LAW-426": "Topics in Law and Technology",
+  "LAW-508": "Business Organizations",
+  "LAW-556": "Topics in Common Law Theory and Practice: Private and Commercial Law",
+  "LAW-559": "Family Law",
+  "LAW-610": "Doctoral Seminar I: Issues in Legal Theory",
+  "LAW-611": "Doctoral Seminar II: Comparative and Interdisciplinary Perspectives on Legal Theory",
+  "LIBR-592": "Directed Research Project",
+  "LIBR-594": "Directed Study",
+  "HGSE-370": "Introduction to Resilience Theory in Community",
+  "KIN-321": "Chronic Health Issues and Physical Activity",
+  "KIN-363": "Leisure, Sport and Popular Culture",
+  "KIN-460": "Aging, Health, and Society",
+  "KIN-484": "Advanced Seminar in Indigenous Sport, Physical Activity and Health",
+  "KIN-486": "Advanced Seminar in Psychology of Movement",
+  "KIN-516": "Psychology of Leadership and Group Processes",
+  "ITST-380": "Italian Food Cultures",
+  "EOSC-448": "Directed Studies",
+  "EDCP-599": "Master's Thesis",
+  "EECE-597": "Engineering Report",
+  "FRST-308": "Forest Entomology",
+  "FIST-500": "Research Methods",
+  "FREN-111": [
+    [
+      "2018W",
+      "Elementary French I"
+    ],
+    [
+      "2010W",
+      "Intermediate French I"
+    ]
+  ],
+  "FREN-112": [
+    [
+      "2018W",
+      "Elementary French II"
+    ],
+    [
+      "2010W",
+      "Intermediate French II"
+    ]
+  ],
+  "FREN-122": [
+    [
+      "2018W",
+      "Intermediate French I"
+    ],
+    [
+      "1996S",
+      "Contemporary French Language and Literature I"
+    ]
+  ],
+  "FREN-123": [
+    [
+      "2018W",
+      "Intermediate French II"
+    ],
+    [
+      "1996S",
+      "Contemporary French Language and Literature II"
+    ]
+  ],
+  "FREN-220": "Introduction to Early French Literature and to Textual Analysis",
+  "FREN-221": "Introduction to Modern Literature written in French and to Textual Analysis",
+  "FREN-222": "French Language and Style I",
+  "FREN-223": "French Language and Style II",
+  "FREN-224": [
+    [
+      "2018W",
+      "Upper-Intermediate French I"
+    ],
+    [
+      "2004W",
+      "An Interdisciplinary Approach to French I"
+    ]
+  ],
+  "FREN-225": [
+    [
+      "2018W",
+      "Upper-Intermediate French II"
+    ],
+    [
+      "2004W",
+      "An Interdisciplinary Approach to French II"
+    ]
+  ],
+  "FREN-328": "Selected Works of African and Caribbean Literature",
+  "FREN-329": "Selected Works of European French Literature",
+  "FREN-335": "French-Canadian Civilization",
+  "FREN-348": [
+    [
+      "2019W",
+      "French Literature from the Middle Ages to the Revolution (in English)"
+    ],
+    [
+      "2015W",
+      "French Literatures in Translation I"
+    ]
+  ],
+  "FREN-355": "Advanced Composition",
+  "FREN-371": "Introduction to French Literary Theory and Methodology",
+  "FREN-407": "Studies in Medieval French Literature",
+  "FREN-408": "Studies in French Literature of the Sixteenth Century",
+  "FREN-413": "Studies in French Literature of the Nineteenth Century",
+  "FREN-484": "Studies in Book Culture",
+  "FREN-502": [
+    [
+      "2020W",
+      "Studies in Sixteenth-Century French Literature"
+    ],
+    [
+      "2017W",
+      "Studies in Sixteenth-Century Literature"
+    ]
+  ],
+  "FREN-510": "Studies in Nineteenth-Century French Literature",
+  "FREN-512": "Studies in Literary Criticism",
+  "FREN-578": "Studies in Romance Philology",
+  "FRST-500": "Teaching and Learning in Forestry",
+  "LATN-403": "Studies in Latin Prose and Verse",
+  "ENGL-248": "Mystery and Detective Fiction",
+  "ENGL-308": "Rhetorical Criticism",
+  "ENGL-339": "Trauma and Memory: Literature, Performance and Theory",
+  "ENGL-394": "Canadian Environmental Writing",
+  "ENGL-547": "Directed Reading",
+  "FRE-295": "Managerial Economics",
+  "FRE-522": "Environmental Externalities in the Global Economy",
+  "ENDS-401": "Environmental Design Studio III",
+  "ENDS-402": "Environmental Design Studio IV",
+  "ENDS-440": "Environment and Urban Form",
+  "ENDS-482": "Special Topics",
+  "HIST-310": "The British Empire to 1850",
+  "HIST-313": "Africa from Imperialism to Independence",
+  "HIST-317": "Britain, 1850-1918",
+  "HIST-341": "Medieval Jewish History",
+  "HIST-346": [
+    [
+      "2018W",
+      "History of Modern France"
+    ],
+    [
+      "2007W",
+      "France Since the Revolution"
+    ]
+  ],
+  "HIST-350": "The Soviet Union",
+  "HIST-376": "Modern Japanese History Since 1800",
+  "HIST-415": "History of Vancouver",
+  "HIST-450": "Selected Topics in Latin American History",
+  "ECON-210": "Microeconomic Policy",
+  "ECON-211": "Macroeconomic Policy",
+  "ECON-360": "Labour Economics",
+  "ECON-365": "Topics in Canadian Industrial Organization and Regulation Policy",
+  "ECON-482": "The Economic Consequences of Religion",
+  "ECON-492": "Directed Reading",
+  "ECON-560": "Economics of Labour",
+  "ECON-565": "Market Structure and Business Behaviour",
+  "ELEC-521": "Biomedical Microdevices",
+  "GRS-497": "Regional Directed Field Studies",
+  "GRSJ-311": "African/Black Women in the Americas",
+  "FNH-341": "Food Theory Applications",
+  "FNH-430": "Enology and Wine Biotechnology",
+  "LASO-350": "Topics in Law and Society",
+  "FNEL-481": "Heritage Resources in Endangered First Nations Language Revitalization",
+  "EOSC-450": "Potential Fields in Earth and Planetary Sciences",
+  "EOSC-520": "Advanced Mineralogy",
+  "EOSC-562": "Mechanics of Earthquakes and Faulting",
+  "EOSC-575": "The Biology and Ecology of Marine Zooplanktonic Organisms",
+  "EOSC-584": "Topics in Biological Oceanography",
+  "ITST-345": "Italian Fascism in Interdisciplinary Perspective",
+  "ITST-377": "Cultural Exchange between Modern Italy and China",
+  "ITST-385": "Italian Cinema: Neorealism",
+  "ITST-414": "Topics in the Italian Literature and Culture of the Middle Ages in Translation",
+  "EPSE-535": [
+    [
+      "2020W",
+      "Social and Emotional Assessment"
+    ],
+    [
+      "1996W",
+      "Social and Emotional Assessment in Schools"
+    ]
+  ],
+  "EPSE-591": "Theory and Practice of Program Evaluation",
+  "EPSE-633": "Community-Based Services",
+  "EPSE-684": "Item Response Theory",
+  "EDCP-377": "Design and Technology II - Secondary: Curriculum and Pedagogy",
+  "EDCP-504": "Review of Research in Art Education: Theory and Practice",
+  "EDCP-556": "Theory and Research in the Social Context of School Science",
+  "EDCP-569": "Schooling in Comparative Perspective: North American and International Interpretations",
+  "LARC-440": [
+    [
+      "2014W",
+      "SITE ANALYSIS AND PLANNING II"
+    ],
+    [
+      "2003W",
+      "SITE ANALYS 2"
+    ]
+  ],
+  "LARC-515": [
+    [
+      "2016W",
+      "Planting Design"
+    ],
+    [
+      "2014W",
+      "A Behavioural Approach to Planting Design"
+    ]
+  ],
+  "LAW-310": "Economic Analysis of Law",
+  "LAW-368": "Sexuality and Law",
+  "LAW-386": "Sustainable Development Law",
+  "LAW-403": "Principles of Sentencing",
+  "LAW-412": "Taxation of Trusts and Estates",
+  "LAW-443": "Creditors' Remedies",
+  "LAW-465": "Introduction to Corporate Finance",
+  "LAW-549": "Master's Thesis",
+  "GERM-404": "Religion and German Literature (in English)",
+  "KIN-467": "Sport Marketing and Communication",
+  "KIN-567": "Human Motor Performance",
+  "JAPN-456": "Newspaper Japanese I",
+  "GEOB-102": "Our Changing Environment: Climate and Ecosystems",
+  "GEOB-200": "Atmospheric Environments",
+  "GEOB-206": "Geomorphic Processes and Hazards",
+  "GEOB-207": "Introduction to Biogeography",
+  "GEOB-300": "Microscale Weather and Climate",
+  "GEOB-305": "Introduction to Hydrology",
+  "GEOB-307": "Biogeography and Global Change",
+  "GEOB-308": "Quaternary and Applied Geomorphology",
+  "GEOB-370": "Advanced Geographic Information Science",
+  "GEOB-372": "Cartography",
+  "GEOB-373": "Introductory Remote Sensing",
+  "GEOB-402": "Air Pollution Meteorology",
+  "GEOB-405": "Fluvial Geomorphology",
+  "GEOB-407": "Vegetation Dynamics: Disturbance, Climate and Human Impacts",
+  "GEOB-472": "Research in Cartography",
+  "GEOB-479": "Research in Geographic Information Science",
+  "GEOB-504": "Topics in Climate Studies",
+  "FISH-501": "Issues in Fisheries Research: Ecosystem Modelling",
+  "FISH-505": "Quantitative Analysis of Fisheries II",
+  "LLED-454": "Adolescent Literacies: Processes and Practices",
+  "LLED-570": "Theory and Research in English Language Education: Discourse Perspectives",
+  "GEOG-380": [
+    [
+      "2017W",
+      "Geography of Asia"
+    ],
+    [
+      "2004W",
+      "Introduction to the Geography of Asia"
+    ]
+  ],
+  "GEOG-497": "The Arctic",
+  "GEOG-535": "International Migration and Settlement",
+  "GEOG-551": "Urban Social Geography",
+  "GEOG-560": "Economic Geography",
+  "LIBR-511": "Cataloguing and Classification",
+  "LIBR-557": "Information Retrieval Systems: Concepts and Practice",
+  "LIBR-569": "Current Issues and Trends in Library Services and Information Science",
+  "HGSE-352": [
+    [
+      "2016W",
+      "First Nations Governance and Natural Resource Management"
+    ],
+    [
+      "2013W",
+      "First Nations and Natural Resources"
+    ]
+  ],
+  "ENPH-480": "Engineering Physics Project IV",
+  "LIBR-593": "Seminar",
+  "GPP-562": "Resource Governance, Environment and Human Security",
+  "GPP-591": "Special Topics in Public Policy",
+  "LARC-581": "Directed Studies in Landscape Planning and Sustainability",
+  "GRS-397": "Regional Directed Field Studies",
+  "FNEL-448": "Directed Research in First Nations Languages",
+  "FRST-548": "Major Essay",
+  "EDST-580": "Directed Study",
+  "HIST-482": "Chinese Migration",
+  "GRSJ-503": "Special Topics in Feminist Studies",
+  "LAIS-607": "Doctoral Proseminar",
+  "KORN-415": "Korean Conversation and Composition",
+  "FNEL-141": "Introduction to a Wakashan Language I",
+  "ENGL-112": "Strategies for University Writing",
+  "ENGL-120": "Literature and Criticism",
+  "ENGL-380": "Theory: Meaning and Interpretation",
+  "ENGL-396": "Studies in Drama",
+  "ENGL-511": "Chaucer",
+  "ENGL-520": "Studies in the Seventeenth Century",
+  "EDST-592": "Topics in Philosophy  of Education",
+  "FRST-498": "B.Sc. Thesis in Forestry",
+  "FRST-505": "Directed Studies in Forest Science",
+  "FREN-334": "French Civilization II",
+  "FREN-511": "Studies in Contemporary French Literature",
+  "FIST-510": "Advanced Theory, Film and Media",
+  "INDS-530": "Directed Studies",
+  "ECON-337": "Economic History of the United States",
+  "ECON-406": "Topics in Microeconomics",
+  "ECON-420": "Optimization and Economic Theory",
+  "ECON-466": "The Economics of Government Regulation of Business",
+  "ECON-566": "Business Performance and Public Policy",
+  "ENDS-110": "Measured Architectural Drafting",
+  "ENDS-211": "Introduction to Environmental Design",
+  "ENDS-220": "Architecture in Context: Vancouver",
+  "ENDS-221": "Sustainability by Design",
+  "ENDS-231": "Thinking by Design",
+  "ENDS-301": "Environmental Design Studio I",
+  "ENDS-302": "Environmental Design Studio II",
+  "ENDS-320": "Design, Media and Representation",
+  "ENDS-420": "Technology and Technique",
+  "HIST-331": "The United States, 1865-1900: Labour, Race, Gender, and Empire",
+  "HIST-349": "Imperial Russian History, 1800 to 1917",
+  "HIST-392": "Scientific Revolution: Circulation of Knowledge in the Early Modern World",
+  "HIST-395": "The Nuclear Century: Scientists, Atoms, and the World Order Since 1900",
+  "HIST-447": "Selected Topics in United States History",
+  "HIST-456": [
+    [
+      "2016W",
+      "Race in the Americas"
+    ],
+    [
+      "2014W",
+      "Africans in the Americas"
+    ]
+  ],
+  "HIST-487": "History of Alternative and Complementary Medicine: Acupuncture to Yoga",
+  "FRE-420": "The Economics of International Trade and the Environment",
+  "GEOB-309": [
+    [
+      "2016W",
+      "Geographical Sciences Field Course"
+    ],
+    [
+      "2012W",
+      "Geographical Biogeosciences Field Course"
+    ]
+  ],
+  "GEOB-401": "Urban Meteorology",
+  "GEOB-406": "Watershed Geomorphology",
+  "GEOB-408": [
+    [
+      "2019W",
+      "The Changing Cryosphere"
+    ],
+    [
+      "2009W",
+      "Snow and Ice Processes"
+    ]
+  ],
+  "GEOB-507": "Directed Studies in Physical Geography",
+  "FIPR-536": "Advanced Documentary Development and Production",
+  "JAPN-423": "Classical Japanese II",
+  "LFS-501": "Approaches to the Integration of Knowledge",
+  "HGSE-350": "Case Studies in Haida Gwaii",
+  "HGSE-351": "History and Politics of Resource Management",
+  "HGSE-354": "Diversifying Resource-Dependent Communities",
+  "HGSE-362": "Marine Protected Areas and Marine Spatial Planning",
+  "HGSE-364": "Haida Gwaii Marine Conservation Seminar",
+  "LIBR-532": "Science and Technology Information Sources and Services",
+  "GEOG-390": "Geography of Selected Regions",
+  "GEOG-481": "Geography of Japan",
+  "GEOG-496": "Geography of Africa",
+  "LING-432": "Field Methods II",
+  "LING-520": "Syntactic Theory and Analysis",
+  "LAW-201": "Canadian Constitutional Law",
+  "LAW-251": "Public Law",
+  "LAW-313": "Legal History",
+  "LAW-333": "Cultural Law",
+  "LAW-362": "Topics in Family Law",
+  "LAW-402": "The Law of Sexual Offences",
+  "LAW-404": "The Law of Homicide",
+  "LAW-563": [
+    [
+      "2019W",
+      "Taxation of Partnerships"
+    ],
+    [
+      "2015W",
+      "Taxation of Partnerships and Trusts"
+    ],
+    [
+      "2014W",
+      "Taxation of Partnerships and Other Flow-Through Entities"
+    ]
+  ],
+  "LAW-577": "Immigration Law",
+  "EDCP-510": "Video Ethnography in Education Research: Culture, Technology, and Interpretation",
+  "EDCP-568": "Curricula in their Historical Context",
+  "EPSE-431": "Programming for Children with Specific Learning Disabilities",
+  "EPSE-544": "Literacy Instruction for Students who are Visually Impaired",
+  "EPSE-580": "Investigation and Report of a Problem in Education",
+  "EPSE-681": "Advanced Topics in Measurement, Evaluation, and Research",
+  "ITST-413": "Dante Alighieri's Divine Comedy in Translation",
+  "ITST-432": "Italian Cinema and Its Cultural Background",
+  "KIN-115": "Performance Analysis of Selected Individual Sports and Activities",
+  "KIN-215": "Performance Analysis of Selected Team Sports and Activities",
+  "KIN-230": "Human Motor Behaviour I",
+  "KIN-231": "Sport and Exercise Psychology",
+  "KIN-261": "Health Policy and Society",
+  "KIN-265": "Nutrition, Physical Activity, and Health",
+  "KIN-275": "Exercise Physiology I",
+  "KIN-284": [
+    [
+      "2016W",
+      "Lifespan Motor Development"
+    ],
+    [
+      "2012W",
+      "Physical Growth and Motor Development"
+    ]
+  ],
+  "KIN-303": "High Performance Conditioning in Physical Activity and Sport",
+  "KIN-330": "Human Motor Behaviour II",
+  "KIN-343": [
+    [
+      "2018W",
+      "Human Athletic Performance"
+    ],
+    [
+      "2012W",
+      "Biology of Human Athletic Performance"
+    ]
+  ],
+  "KIN-351": "Biomechanics II Mechanical Properties of Tissues",
+  "KIN-357": "Laboratory Investigations in Neuromechanical Kinesiology",
+  "KIN-361": "Introduction to Athletic Training",
+  "KIN-362": "Inclusive Physical Activity for Individuals with Special Needs",
+  "KIN-365": "Foundations of Coaching",
+  "KIN-366": "Movement Experiences for Young Children",
+  "KIN-367": "Leisure Services for Persons with a Disability",
+  "KIN-369": "Instructional Analysis and Design in Sport and Physical Activity Programs",
+  "KIN-371": "Introduction to Statistics in Kinesiology",
+  "KIN-373": "Research Methods in Kinesiology",
+  "KIN-375": "Exercise Physiology II",
+  "KIN-381": "Leisure, Sport and Popular Culture",
+  "KIN-383": "The Modern Olympics: Power, Politics, and Performance",
+  "KIN-389": "Neuromuscular Integration of Human Movement",
+  "KIN-400": "Planning Physical Education, Sport and Exercise Programs",
+  "KIN-415": "Conceptual Approaches to Games Education",
+  "KIN-425": "Aging, Health, and the Body",
+  "KIN-461": "Prevention of Sports Injuries I",
+  "KIN-471": "Prevention of Sports Injuries II",
+  "KIN-473": "Neuroanatomy of Human Movement",
+  "KIN-475": "Pulmonary Physiology of Exercise",
+  "KIN-481": "Sport Marketing and Communication",
+  "KIN-489": "Seminar",
+  "KIN-595": "Master's Graduating Paper",
+  "EOSC-449": "Thesis",
+  "EOSC-522": "Methods and Modelling in Petrology and Geochemistry",
+  "EOSC-540": "Advanced Groundwater Geochemistry",
+  "GERM-403": "Studies in Modern German Culture (in English)",
+  "GERM-410": "Advanced German II",
+  "GERM-414": "Business German",
+  "GERM-434": "German for Reading Knowledge II (Languages for special purposes)",
+  "GERM-506": "Intercultural Competence",
+  "FNIS-533": "Directed Study",
+  "GPP-501": "Microeconomic Analysis for Public Policy",
+  "GPP-502": "International Macroeconomics",
+  "GPP-503": "Measurement and Data Analysis for Policy",
+  "GPP-504": "Policy Analysis and Evaluation",
+  "GPP-505": "Domestic and Global Policy Process",
+  "GPP-506": "Public Management",
+  "GPP-508": [
+    [
+      "2019W",
+      "Policy in Context"
+    ],
+    [
+      "2015W",
+      "Philosophical and Ethical Foundations for Public Policy"
+    ]
+  ],
+  "GPP-509": "Communicating Policy",
+  "GPP-520": "Economics of Poverty",
+  "GPP-522": "Development Discourses and Practices",
+  "GPP-527": "Corporate Social Responsibility",
+  "GPP-541": "Policy Dimensions of Energy Systems",
+  "GPP-543": "Sustainable Water Systems",
+  "GPP-544": "Economic Foundations of Environmental Policies",
+  "GPP-560": "Global Governance: Frameworks and Policy Debates",
+  "GPP-565": "Nationalism, Religion, and Ethnic Conflict in Asia",
+  "GPP-580": "Internet and Global Affairs",
+  "GPP-581": "Behavioural Foundations for Public Policy",
+  "GPP-582": "Public Engagement in Policy Decisions",
+  "GPP-584": "Policy Responses to Global Climate Change",
+  "GPP-590": [
+    [
+      "2017W",
+      "Global Policy Project"
+    ],
+    [
+      "2016W",
+      "Capstone Project"
+    ]
+  ],
+  "INLB-220": "Land and Indigenous Self-Determination: Introduction to Methods and Application",
+  "EDCP-448": "Conceptions of the Natural World: Implications for Science Education",
+  "EDCP-531": "Health Promotion, Wellness and Lifeskills in Outdoor Settings",
+  "KIN-151": "Biomechanics I",
+  "KIN-161": "Leisure and Sport in Society",
+  "KIN-190": "Anatomy & Physiology I",
+  "KIN-191": "Anatomy & Physiology II",
+  "KIN-598": "Directed Field Studies in Sport and Physical Activity Agencies",
+  "EPSE-401": "Instructional Design",
+  "GERM-112": "German for Singers",
+  "FNIS-360": "Applied Learning: Collaborative Place-Based Research",
+  "FNIS-455": "Indigenous Geographies: Our Home on Native Land",
+  "LIBR-530": "Subject-Based Information Services",
+  "LLED-580": "Problems in Education",
+  "ENGL-406": "Studies in Prose Fiction",
+  "ENGL-468": "Children's Literature",
+  "ENGL-470": "Canadian Studies",
+  "EDST-427": "Philosophy of Education",
+  "EDST-451": "Issues and Frameworks in Environmental Education",
+  "EDST-504": "History of Educational Policy",
+  "EDST-516": "Adult Education and Community",
+  "FRST-309": "Forest Pathology",
+  "EDUC-490": "Special Studies in Education",
+  "LATN-402": "Latin Verse",
+  "ENGL-226": "Drama",
+  "ENGL-304": "Advanced Composition",
+  "ENGL-338": "Literature and Science",
+  "ENGL-340": "Introduction to Old English",
+  "ENGL-354": "Milton and the Seventeenth Century",
+  "ENGL-357": "Restoration and Eighteenth-Century Studies",
+  "ENGL-358": "Studies in an Eighteenth-Century Genre",
+  "ENGL-359": "Studies in Romanticism",
+  "ENGL-405": "Studies in Drama",
+  "ENGL-409": "Modern Critical Theories",
+  "ENGL-419": "History of the Book",
+  "ENGL-462": "Twentieth-Century British and Irish Studies",
+  "ENGL-464": "Twentieth-Century Studies",
+  "ENGL-466": "Studies in a Twentieth-Century Genre",
+  "ENGL-472": "American Studies",
+  "ENGL-474": "Studies in Contemporary Literature",
+  "ENGL-476": "Indigenous Studies",
+  "ENGL-478": "Post-colonial Studies",
+  "ENGL-480": "Asian Canadian and/or Asian Transnational Studies",
+  "ITAL-206": "Conversational Italian for Intermediate Learners",
+  "FRST-402": "Living Language: Science and Society",
+  "FRST-413": "Ecological Plant Biochemistry.",
+  "FRST-424": "Sustainable Forest Management",
+  "FRST-570": "Directed Studies in Wood Science and Forest Products",
+  "FREN-410": "Studies in French Literature of the Eighteenth Century",
+  "FREN-425": "Studies in French Autobiography",
+  "FREN-483": "Studies in Literature and History",
+  "EDST-570": "Topics in Sociology of Education",
+  "EDST-599": "Master's Thesis",
+  "ELEC-432": "Communication Systems II",
+  "HIST-308": "Quebec from the End of the 18th Century to the Present",
+  "HIST-315": "Britain 1750-1850",
+  "HIST-328": "Rebels in America: Revolution to Civil War, 1763 - 1865",
+  "HIST-364": "Europe in the Late Middle Ages",
+  "HIST-439": "Politics and Culture in Fin-de-Siécle Europe (1890-1914)",
+  "HIST-473": "Women in the Middle Ages",
+  "HIST-561": "Readings in Chinese History (post-1911)",
+  "ECON-551": "Government Finance: Revenues",
+  "ECON-580": "Social and Economic Measurement",
+  "GEM-580": "Geoinformatics Seminar",
+  "GEM-599": "Project Proposal Development and Proof of Concept",
+  "LAIS-609": "Advanced Seminar in Library, Archival and Information Studies Topics",
+  "IGEN-340": "Technology Entrepreneurship",
+  "FNEL-242": "Intermediate Wakashan Language II",
+  "FNEL-301": "Advanced Salish Language I",
+  "INLB-310": "Land and Indigenous Self-Determination: Advanced Theoretical Perspectives",
+  "INLB-320": "Land and Indigenous Self-Determination: Advanced Methods and Application",
+  "INLB-401": "Advanced Special Topics in Indigenous Land-Based Studies",
+  "INLB-452": "Gender Justice and Indigenous Resurgence",
+  "EPSE-569": "Social Psychological Foundations in Applied Psychology",
+  "EOSC-454": "Applied Geophysics",
+  "EOSC-538": "Diamond Exploration",
+  "EOSC-545": "Advanced Models in Mineral Deposits",
+  "ISCI-344": "Theory and Practice of Games in Economics and Evolution",
+  "FNIS-453": "Indigenous Legal Traditions",
+  "GERM-370": "Reason and Revolution: Studies in the 18th Century",
+  "GERM-520": "Studies in Literature after 1945",
+  "GREK-352": "Intermediate Ancient Greek: Verse",
+  "LARC-431": "Landscape Technologies I: Site Engineering",
+  "LAW-311": "Property Law and Theory",
+  "LAW-315": "Topics in Legal History",
+  "LAW-409": [
+    [
+      "2016W",
+      "Taxation of Partnerships and Trusts"
+    ],
+    [
+      "2014W",
+      "Taxation of Partnerships and Other Flow-Through Entities"
+    ]
+  ],
+  "LAW-421": "Topics in Labour Law",
+  "LAW-453": "Equitable Remedies",
+  "LAW-457": "Real Estate Development",
+  "LAW-495": "Directed Research",
+  "LAW-506": "Taxation",
+  "LAW-555": "Topics in Common Law Theory and Practice: Legal Theory and Practice",
+  "LAW-560": "Seminar in Topics in Common Law Theory and Practice",
+  "EECE-500": "Introduction to the Academic Enterprise",
+  "EECE-564": "Detection and Estimation of Signals in Noise",
+  "EECE-569": "Mobile Communications Networks",
+  "GEOB-204": "Introduction to Biometeorology",
+  "KIN-103": "Active Health",
+  "KIN-390": "Human Functional Musculoskeletal Anatomy",
+  "KIN-456": "Field Experiences in Physical Education Settings",
+  "KIN-499": "Projects in Kinesiology",
+  "GBPR-503": "Bioenergy and Biorefinery",
+  "HGSE-310": "First Nations and Canada: (Re)writing History",
+  "HGSE-311": "Law and Governance: Indigenous and European Traditions",
+  "HGSE-312": "Perspectives on Reconciliation",
+  "HGSE-313": "Reconciliation and Resource Management",
+  "HGSE-314": "Reconciliation and Communities",
+  "HGSE-353": "Rainforest Ecology and Management",
+  "FOPR-459": "Economics, Contracts, and Finances in Forest Operations",
+  "GPP-507": "Environmental Law and Policy Frameworks",
+  "GPP-564": "Security Challenges for Asian States and People",
+  "LIBR-512": "Indexing",
+  "LLED-527": [
+    [
+      "2017S",
+      "MATERIALS DEVELOPMENT FOR INDIGENOUS LANGUAGE LEARNING & TEACHING"
+    ],
+    [
+      "2017S",
+      "INDG LANG & TEAC"
+    ]
+  ],
+  "GEOG-442": "Student Directed Seminar in Human Geography",
+  "GEOG-533": "Political Geography",
+  "EECE-514": "Software Verification and Testing",
+  "LLED-444": [
+    [
+      "2018S",
+      "Transcultural Children's Literature"
+    ],
+    [
+      "2000W",
+      "Multicultural Children's Literature in the Elementary Classroom"
+    ]
+  ],
+  "LLED-559": "Early Literacies with Digital Technologies and Media",
+  "EPSE-456": "Advanced Orientation and Mobility Techniques",
+  "EPSE-586": "Analyzing Discourse and Talk: An Overview of Methods",
+  "ITAL-104": "Italian for Singers",
+  "ELEC-452": "Industrial Drives",
+  "ISCI-422": "Models in Science",
+  "LAW-381": "Disabilities and Law",
+  "LAW-496": "Directed Research",
+  "EOSC-430": "Aqueous Geochemistry",
+  "EOSC-550": "Linear Inverse Theory",
+  "EPSE-534": "Academic Assessment in Schools",
+  "KIN-382": "Meaning and Values in Sport",
+  "KIN-454": "Field Experience",
+  "KIN-462": "Skeletal Muscle Physiology: From Generation to Regeneration",
+  "EDCP-411": "Music - Elementary: Advanced Curriculum and Pedagogy",
+  "GERM-380": "Tradition and Change: Studies in the 19th Century.",
+  "GERM-411": "Major Controversies in German Culture (in English)",
+  "GERM-501": "Literary Theories",
+  "GPP-566": "Asia Diplomacy and International Relations",
+  "GPP-583": "Food Security",
+  "HUNU-505": "Current Issues in Applied Nutrition",
+  "GEOB-400": [
+    [
+      "2017W",
+      "Global Change Science"
+    ],
+    [
+      "2016W",
+      "Global Biogeochemistry"
+    ]
+  ],
+  "EECE-509": "Advanced Microsystems Design",
+  "EECE-512": "Topics in Computer Security",
+  "EECE-513": "Error Resilient Computing Systems",
+  "EECE-518": "Human Interface Technologies",
+  "EECE-527": "Advanced Computer Architecture",
+  "EECE-528": "Parallel and Reconfigurable Computing",
+  "EECE-531": "Nanoscale Modeling and Simulations",
+  "EECE-532": "Biomedical Microdevices",
+  "EECE-534": "Green Nanoelectronic Devices",
+  "EECE-535": "Advanced Biophotonics",
+  "EECE-543": "Software Project Management",
+  "EECE-544": "Medical Imaging",
+  "EECE-573": "Micro and Nano Fabrication Technologies",
+  "EECE-574": "Self-Tuning Control",
+  "EECE-579": "Advanced Topics in VLSI Design",
+  "EECE-580": "Emerging Electronic Materials and Devices",
+  "EECE-583": "CAD Algorithms for Integrated Circuits",
+  "EECE-588": "Analog Integrated Circuit Design",
+  "EECE-592": "Architecture for Learning Systems",
+  "EECE-595": "Mixed-Signal and RF Integrated Circuits and Systems Test",
+  "LLED-443": "Teaching Folklore in the Elementary Classroom",
+  "LLED-450": "Teaching and Learning Language and Literacy: Kindergarten and Primary Grades",
+  "LLED-511": "Child Language in Education",
+  "LLED-557": [
+    [
+      "2017W",
+      "Family and Community Literacy: Issues and Perspectives"
+    ],
+    [
+      "2015W",
+      "Family Literacy: Issues and Perspectives"
+    ]
+  ],
+  "GEOG-281": "Geography of the Pacific Rim",
+  "GEOG-456": "Film and the City",
+  "GEOG-572": "Spatial and Cartographic Techniques",
+  "FRST-270": "Community Forests and Community Forestry",
+  "FRST-421": "Quantitative Forest Management",
+  "FRST-546": "Research Methods and Philosophies in Science",
+  "FREN-124": "Keeping Up Your French",
+  "FREN-215": "Oral French Practice",
+  "FREN-351": "Corrective French Phonetics",
+  "FREN-423": "Studies in Theatre",
+  "FREN-513": "Studies in French-Canadian Literature",
+  "FREN-566": "Studies in French Semantics",
+  "EDST-502": [
+    [
+      "2015W",
+      "Growing Up in History: Critical Approaches to Children and Youth"
+    ],
+    [
+      "2014S",
+      "Growing Up in History: the Meanings of Childhood"
+    ]
+  ],
+  "EDST-506": "Educating the Body: Physicality and Identity in Historical Perspective",
+  "ENGL-505": "Studies in Fiction",
+  "ENGL-510": "Studies in Old English",
+  "FRE-541": "Project Monitoring and Evaluation in International Development",
+  "HIST-355": "Nineteenth Century Germany",
+  "HIST-387": "Voices from Medieval India",
+  "HIST-444": "Slave Societies in the Americas",
+  "HIST-455": "Gender and Sexuality in Latin America",
+  "HIST-468": "Topics in Comparative Indigenous History",
+  "HIST-469": "Aboriginal Title in British Columbia: History and Legacy",
+  "HIST-563": "Methodology and Sources in Chinese History",
+  "ECON-308": "Intermediate Microeconomic Analysis",
+  "ELEC-434": "Introduction to Optical Networks",
+  "LAIS-605": "Seminar in Advanced Research Methods",
+  "GRSJ-425": "Special Topics in Gender, Race, and Sexuality",
+  "FNEL-142": "Introduction to a Wakashan Language II",
+  "FNEL-483": "Indigenous Languages of BC: Diversity and Vitality",
+  "EDUC-279": "Practicum II",
+  "EDST-513": "Current issues in Higher Education",
+  "EDST-550": "The Role of the School Principal",
+  "HIST-412": "The American Impact on Canada",
+  "LLED-523": "Teacher Action Research in Language and Literacy Education",
+  "EDCP-416": "Music Education: Orff Basics",
+  "EOSC-546": "Advanced Field Methods in Earth Science",
+  "FNIS-260": "Applied Learning: Collaborative Place-Based Research",
+  "LAW-341": "European Union Law",
+  "LAW-413": "Tax Administration and Dispute Resolution",
+  "LAW-552": "Topics in Common Law Theory and Practice: Public Law I",
+  "KIN-469": "Chronic Health Issues, Physical Activity, and Community Practice",
+  "KIN-565": "Physiological Aspects of Physical Activity",
+  "FISH-504": "Quantitative Analysis of Fisheries I",
+  "EECE-511": "Topics in Software Engineering",
+  "EECE-542": "Computer-Integrated Surgery",
+  "EECE-563": "Wireless Communication Systems",
+  "LLED-210": "Introduction to Analyzing Meanings of Images in Texts",
+  "LLED-211": "Field Research in Social Processes of Inclusion and Exclusion: Discourse Perspectives",
+  "LLED-221": "Language Maintenance and the Integration of Immigrants in Canada: An Introduction",
+  "LLED-534": "Theory and Research in Teaching Written Composition",
+  "LIBR-522": "Literature and Other Materials for Children",
+  "GPP-567": "Human Rights and Justice",
+  "EOSC-513": "Imaging and estimation with wavelets",
+  "EOSC-525": "Magmatic Ore Deposits",
+  "EOSC-556": "Studies in Applied Geophysics",
+  "EPSE-271": "Teaching Adolescents with Special Learning Needs",
+  "GREK-402": "Greek Verse",
+  "GERM-318": "Introduction to German Linguistics",
+  "EDUC-170": "Reviewing the Principles of Teaching",
+  "EDUC-273": "Teaching History and Government II",
+  "EDUC-280": "English and Reading: Secondary",
+  "FNEL-389": "Collaborative Heritage Research in First Nations Languages: Practicum & Workshop",
+  "FRE-504": "Agricultural and Resource Policy Analysis",
+  "EDST-505": "First Nations and Educational Change",
+  "EDST-548": "Critical Perspectives on Teacher Unions in Educational Leadership",
+  "FRST-528": "Social Science Research Methods for Forestry and Conservation",
+  "FRST-562": "Directed Study in International Forestry",
+  "FRST-580": "Topics in Forest Business and Management",
+  "FREN-336": "The Francophone World in Images",
+  "FREN-342": "French Practice for Non-Specialists I",
+  "FREN-343": "French Practice for Non-Specialists II",
+  "FREN-349": "French Literatures in Translation II",
+  "ENGL-496": "Directed Readings in English Literature",
+  "ENGL-503": "Studies in Prose",
+  "ENGL-515": "Shakespeare",
+  "LATN-401": "Latin Prose",
+  "EMBA-598": "Topics in Strategy and Economics",
+  "HIST-252": "Modern Caribbean History",
+  "HIST-327": "Colonial America: Encounter and Settlement, 1607 - 1763",
+  "HIST-476": "Law and Society in the Middle Ages",
+  "HIST-494": "Machines, Media, and Modernity: Frankenstein to Cinema",
+  "ELEC-464": "Nanotechnology and Nature",
+  "ELEC-492": "Electrical Energy Systems Capstone Design Project",
+  "ELEC-493": "Nanotechnology and Microsystems Capstone Design Project",
+  "FMST-440": "Family Economic Issues",
+  "FMST-442": "Families and Work",
+  "EDUC-173": "Teaching History and Government I",
+  "EDUC-175": "Teaching Secondary English",
+  "FISH-509": "Bayesian Methods for Fisheries Stock Assessment",
+  "GBPR-502": "Sustainable BioMaterial from Forest Biomass",
+  "LIBR-572": "Information Services Consulting",
+  "LATN-501": "Latin Prose",
+  "FRE-503": "Policy Analysis for Food, Environment and Resources",
+  "FRE-525": "Environmental Economics and Policy",
+  "ITAL-402": "Advanced Studies in Italian Language and Style II",
+  "ITAL-409": "Topics in Modern and Contemporary Italian Literature and Culture",
+  "FREN-473": "Syntactic Description of the French Language",
+  "EDST-507": "Topics in the History of Education",
+  "EDST-527": "Higher Education Policy: International and Comparative Perspectives",
+  "HIST-560": "Readings in Chinese History (to 1911)",
+  "HIST-581": "Topics in Science, Technology, and Society",
+  "HIST-596": "Oral History",
+  "ENDS-281": "Architecture in Context and Across Cultures: A History",
+  "ECON-480": "Transportation",
+  "ECON-557": "Empirical Topics in International Economics",
+  "ECON-592": "Directed Reading",
+  "FNH-471": "Human Nutrition Over the Life Span",
+  "EDUC-172": "Language and the Curriculum",
+  "EDUC-272": "Teaching Chemistry",
+  "EDUC-275": "Global Education",
+  "EDUC-276": "Teaching Mathematics II",
+  "EDUC-278": "Teaching Biology",
+  "FNEL-489": "Topics in First Nations and Endangered Languages",
+  "EOSC-535": "Transport Processes in Porous Media",
+  "EOSC-571": "Seminar in Physical Oceanography and Atmospheric Science",
+  "EPSE-171": "Education in the Adolescent Years",
+  "EPSE-415": "Technology for the Visually Impaired",
+  "FHIS-333": "Short Fiction in Romance Literatures",
+  "EDCP-473": "Digital Media in ICT Education: Ethical Uses",
+  "GREK-502": "Greek Verse",
+  "LAW-350": "Issues of Equality and Social Justice",
+  "LAW-396": "Fisheries Law",
+  "LAW-397": "Oil and Gas Law",
+  "LAW-482": "Topics in Procedure and Evidence",
+  "LAW-507": "Evidence",
+  "GERM-500": "Research Methods",
+  "GERM-521": "German Cultural Studies",
+  "GERM-531": "Special Topics",
+  "JAPN-102": "Beginning Japanese II A",
+  "JAPN-103": "Beginning Japanese II B",
+  "JAPN-150": "Intensive Beginning Japanese I",
+  "JAPN-151": "Intensive Beginning Japanese II",
+  "JAPN-210": "Intermediate Japanese I A",
+  "JAPN-211": "Intermediate Japanese I B",
+  "JAPN-212": "Intermediate Japanese II A",
+  "JAPN-213": "Intermediate Japanese II B",
+  "JAPN-250": "Intensive Intermediate Japanese I",
+  "JAPN-251": "Intensive Intermediate Japanese II",
+  "JAPN-300": "Advanced Modern Japanese: Reading and Writing I",
+  "JAPN-301": "Advanced Modern Japanese: Reading and Writing II",
+  "JAPN-302": "Advanced Modern Japanese: Conversation and Composition I",
+  "JAPN-303": "Advanced Modern Japanese: Conversation and Composition II",
+  "JAPN-311": "Classical Japanese I",
+  "JAPN-312": "Classical Japanese I",
+  "JAPN-314": "Japanese for Professional Life I",
+  "JAPN-315": "Japanese for Professional Life II",
+  "JAPN-406": "Readings in Modern Japanese Essays",
+  "JAPN-408": "Readings in Modern Japanese Literature",
+  "JAPN-410": "Advanced Oral Communication",
+  "JAPN-416": "Newspaper Japanese",
+  "GBPR-500": "Building Blocks of Forest Biomass",
+  "EECE-576": "Semiconductor Theory for Device Applications",
+  "LIBR-505": "Research Methods in Information Organizations",
+  "LIBR-521": "Contemporary Literature and Other Materials for Children",
+  "LIBR-538": "Specialized Literatures",
+  "LIBR-542": "Services for Youth",
+  "LIBR-551": "Library Automation and Systems",
+  "LING-448": "Directed Studies",
+  "IAR-515": "Topics in Asia Pacific Policy Studies",
+  "IAR-520": "Master's Thesis",
+  "GEOG-379": "Field Course in Human Geography",
+  "GEOG-426": "Historical Geography of British Columbia, I",
+  "GEOG-429": "Research in Historical Geography",
+  "GEOG-485": "Geography of China",
+  "EECE-259": "Introduction to Microcomputers",
+  "EECE-281": "Electrical and Computer Engineering Design Studio",
+  "EECE-353": "Digital Systems Design",
+  "EECE-358": "Computer Communications",
+  "EECE-360": "Systems and Control",
+  "EECE-380": "Electrical Engineering Design Studio",
+  "EECE-450": "Economic Analysis of Engineering Projects",
+  "LIBR-577": "Special Libraries",
+  "EPSE-410": "Assistive Technologies in Special Education",
+  "EDCP-470": "ICT Practices in Education",
+  "EDCP-495": "Special Topics in Home Economics Education",
+  "EDCP-497": "Career Education and Curriculum",
+  "ECED-380": "Selected Topics in Infant Development and Supported Child Development",
+  "ECED-425": "Advanced Studies in Early Childhood Education",
+  "FNH-460": "International Nutrition Field Studies",
+  "EDUC-270": "Communication Skills in Teaching",
+  "FIST-549": "Thesis",
+  "IHHS-400": "Health Care Team Development",
+  "IHHS-402": "HIV Prevention and Care",
+  "IHHS-408": "Topics in Aboriginal Health: Community-based Learning Experience",
+  "FNLG-480": "Endangered Language Documentation and Revitalization",
+  "FRE-540": "International Resource Economics and Development",
+  "FNSP-100": "Indigenous Foundations",
+  "FNSP-210": "Indigenous Politics and Self-Determination",
+  "FNSP-220": "Representation and Indigenous Cultural Politics",
+  "FNSP-310": "Theory Seminar",
+  "FNSP-320": "Methods Seminar",
+  "FNSP-400": "Practicum/Advanced Research Seminar",
+  "FNSP-401": "Special Topics",
+  "FNSP-451": "Indigenous Feminisms",
+  "FNSP-452": "Indigenous Social Movements",
+  "ENVR-490": "Student Directed Seminars in Environmental Sciences",
+  "GRSJ-201": "Connecting with Computer Science",
+  "GRSJ-205": "Women, Gender, and Colonialism in Canada 1600-1920",
+  "GRSJ-210": "Women, Gender, and Colonialism in Canada from 1920 to the Present",
+  "EDUC-176": "Teaching Mathematics I",
+  "EDUC-177": "Teaching General Sciences",
+  "EDUC-503": "Ethnography and Education",
+  "EDUC-504": "Seminar in Qualitative Data Analysis",
+  "JRNL-530": "Advanced Video Reporting",
+  "ENGL-228": "Topics in Literary and/or Cultural Studies",
+  "ENGL-320": "History of the English Language",
+  "ENGL-504": "Studies in Drama",
+  "FNLG-101": "Introduction to a Salish Language I",
+  "FNLG-102": "Introduction to a Salish Language II",
+  "FNLG-201": "Intermediate Salish Language I",
+  "FNLG-202": "Intermediate Salish Language II",
+  "FNLG-448": "Directed Studies in First Nations Languages",
+  "FRST-504": "Landscape Ecology",
+  "FRST-521": "Topics in Forests and Society",
+  "IHHS-200": "Understanding the Sociocultural Determinants of the Health of Populations",
+  "IHHS-300": "Working in International Health",
+  "IHHS-406": "Aging from an Interdisciplinary Perspective",
+  "IHHS-407": "Disability and Justice",
+  "FREN-380": "Foundations of French Cultural Identity (in English)",
+  "FREN-430": "Studies in Quebecois Literature",
+  "FREN-457": "Translation II",
+  "FREN-503": "Studies in Seventeenth-Century Literature",
+  "ECON-523": "Behavioural Economics",
+  "HIST-314": "Early Modern Britain",
+  "HIST-359": "A History of Brazil: From Colony to Nation",
+  "HIST-401": "Seafaring in the Age of Sail",
+  "JAPN-411": "Advanced Oral Communication",
+  "FISH-508": "Fisheries Economics and Management",
+  "EECE-210": "Principles of Software Construction",
+  "EECE-230": "Selected Topics in Biomedical Engineering",
+  "EECE-251": "Circuit Analysis I",
+  "EECE-252": "Linear Circuits",
+  "EECE-253": "Circuit Analysis II",
+  "EECE-261": "Engineering Electromagnetics",
+  "EECE-263": "Basic Circuit Analysis",
+  "EECE-269": "Signals and Systems",
+  "EECE-282": "Biomedical Engineering Design Studio",
+  "EECE-284": "Electronics Laboratory",
+  "EECE-300": "Molecules to Mechanisms",
+  "EECE-310": "Software Engineering",
+  "EECE-314": "System Software Engineering",
+  "EECE-315": "Operating Systems",
+  "EECE-331": "Biomedical Engineering Instrumentation",
+  "EECE-352": "Electronic Materials and Devices",
+  "EECE-355": "Digital Systems and Microcomputers",
+  "EECE-356": "Electronic Circuits",
+  "EECE-357": "Stochastic Signals and Systems",
+  "EECE-363": "Electronic Circuits for Electromechanical Design",
+  "EECE-364": "Electromagnetic Fields and Waves",
+  "EECE-365": "Applied Electronics and Electromechanics",
+  "EECE-373": "Electro-Mechanical Energy Conversion and Transmission",
+  "EECE-376": "Electromechanics",
+  "EECE-381": "Computer Systems Design Studio",
+  "EECE-392": "Electric Energy Systems",
+  "EECE-400": "Nanotechnology and Microsystems Capstone Design Project",
+  "EECE-401": "Nanotechnology in Electronics",
+  "EECE-402": "Sensors and Actuators in Microsystems",
+  "EECE-403": "Micro/Nanofabrication and Instrumentation Laboratory",
+  "EECE-409": "Computer Engineering Capstone Design Project",
+  "EECE-411": "Design of Distributed Software Applications",
+  "EECE-412": "Introduction to Computer Security",
+  "EECE-416": "Software Testing and Analysis",
+  "EECE-418": "Human Computer Interfaces in Engineering Design",
+  "EECE-419": "Software Engineering Capstone Design Project",
+  "EECE-429": "Electrical Engineering Capstone Design Project",
+  "EECE-432": "Biological Micro-Electro-Mechanical Systems",
+  "EECE-433": "Medical Imaging",
+  "EECE-434": "Biosignals and Systems",
+  "EECE-439": "Biomedical Engineering Capstone Design Project",
+  "EECE-443": "Software Project Management",
+  "EECE-452": "Introduction to Optical Networks",
+  "EECE-453": "Communication Systems",
+  "EECE-455": "Error Control Coding for Communications and Computers",
+  "EECE-457": "RF Integrated Circuits",
+  "EECE-458": "Power System Analysis",
+  "EECE-459": "Power System Analysis II",
+  "EECE-460": "Control Systems",
+  "EECE-465": "Microcomputer Systems Design",
+  "EECE-466": "Digital Signal and Image Processing",
+  "EECE-469": "Electrical Energy Systems Capstone Design Project",
+  "EECE-476": "Computer Architecture",
+  "EECE-479": "Introduction to VLSI Systems",
+  "EECE-480": "Semiconductor Devices: Physics, Design and Analysis",
+  "EECE-482": "Optical Waveguides and Photonics",
+  "EECE-483": "Antennas and Propagation",
+  "EECE-488": "Analog CMOS Integrated Circuit Design",
+  "EECE-489": "Microsystems Design",
+  "EECE-490": "Topics in Electrical and Computer Engineering I",
+  "EECE-493": "Power Electronics",
+  "EECE-496": "Undergraduate Thesis",
+  "EECE-497": "Power Systems Protection",
+  "EECE-498": "Optimization of Power System Operation",
+  "EECE-499": "Decision Support Methods in Power Systems Operation",
+  "GEOB-409": "Self-Directed Field Studies in Physical Geography",
+  "GEOB-448": "Directed Studies in Geographical Biogeoscience",
+  "FIPR-269": "Special Topics in Film Production",
+  "LIBR-500": "Foundations of Information Technology",
+  "LIBR-501": "Foundations of the Information Society and Information Organizations",
+  "LIBR-502": "Foundations of Resource Description and Access",
+  "LIBR-503": "Foundations of Information Sources and Services",
+  "LIBR-578": "Planning and Design of Libraries",
+  "KIN-581": "Sport, Leisure and Consumer Culture",
+  "GEOG-461": "Political-Economic Geographies",
+  "LLED-391": "Theory and Practice in Reading Instruction",
+  "LLED-456": "Identifying and Supporting Learners with Literacy Difficulties",
+  "LAW-318": "Marine Resources Law",
+  "LAW-327": "International Trade Law",
+  "LAW-330": "Cultural Property and Art Law",
+  "LAW-355": "First Nations and the Administration of Justice",
+  "LAW-365": "Women, Law and Family",
+  "LAW-388": "Environmental Law in Practice",
+  "LAW-557": "Topics in Common Law Theory and Practice: Human and Group Rights Law",
+  "FOPR-261": "Basic Geomatics for Natural Resources",
+  "FOPR-262": "Forest Access and Transportation",
+  "EOSC-421": "Advanced Sedimentology",
+  "EOSC-431": "Groundwater Remediation",
+  "EOSC-514": "Introduction to Geological Fluid Mechanics",
+  "EOSC-521": "Microbeam and Diffraction Methods for the Characterization of Minerals and Materials",
+  "EOSC-544": "Geodynamics",
+  "EPSE-632": "Systems Change in Schools",
+  "GSAT-501": "Intensive Laboratory Course",
+  "GREK-501": "Greek Prose",
+  "LARC-520": "Theories in Experience and Place",
+  "LARC-543": "Environment and Urban Form",
+  "IAR-500": "Perspectives and Methods in Asia Pacific Policy Studies",
+  "IAR-506": "Culture & Globalization in Asia-Pacific",
+  "EDCP-309": "Instrumental Pedagogy: Elementary",
+  "EDCP-390": "Home Economics - Elementary and Middle Years: Curriculum and Pedagogy",
+  "EDCP-392": "Assessment and Evaluation in Textile Studies: Home Economics",
+  "EPSE-455": "Introduction to Orientation and Mobility for the Blind",
+  "FOOD-531": "Master of Food Science Practicum Project",
+  "ECED-415": "Supporting Learning in The Primary Years.",
+  "LATN-100": "First-Year Latin",
+  "EDST-554": "Administration and Educational Policy",
+  "IHHS-411": "Violence Across the Lifespan",
+  "FRE-402": "Market Research and Analysis in Agri-Food Industries",
+  "FREN-699": "Doctoral Dissertation",
+  "FIST-534": "SEM FILM STUDIES",
+  "FRST-347": "Co-operative Work Placement",
+  "FRST-524": "Environmental Perception",
+  "FRST-549": "Master's Thesis",
+  "FRST-550": "M.A.Sc. Thesis",
+  "FRST-649": "Doctoral Dissertation",
+  "EDST-401": "Education, School, and Social Institutions",
+  "EDST-403": "Education, Knowledge, and Curriculum",
+  "EDST-590": "Graduating Paper",
+  "EDST-601": "Doctoral Seminar",
+  "EDST-602": "Doctoral Seminar",
+  "EDST-690": "ED.D. THESIS",
+  "EDST-699": "Doctoral Dissertation",
+  "ENGL-500": "Research in English Studies",
+  "ENGL-549": "Master's Thesis",
+  "ENGL-649": "Doctoral Dissertation",
+  "ENDS-101": "Introductory Workshop",
+  "ECON-699": "Doctoral Dissertation",
+  "INDS-501": "Instructional Skills Workshop",
+  "INDS-649": "Doctoral Dissertation",
+  "INDE-451": "CLIN SKILLS IV",
+  "ELEC-499": "Undergraduate Thesis",
+  "EDUC-244": "Indigenous Education Seminar and Classroom Observation II",
+  "EDUC-315": "School-based Orientation Practicum",
+  "EDUC-321": "School-based Orientation Practicum: Elementary",
+  "EDUC-344": "Indigenous Education Seminar and Classroom Observation III",
+  "EDUC-399": "Field Experience and Seminar",
+  "EDUC-418": "School-based Extended Practicum: Elementary",
+  "EDUC-421": "School-based Extended Practicum: Secondary",
+  "EDUC-430": "Community-based Field Experience",
+  "EDUC-440": "Aboriginal Education in Canada",
+  "EDUC-450": "Inquiry Seminar I",
+  "EDUC-451": "Inquiry Seminar II",
+  "EDUC-452": "Inquiry Seminar III",
+  "LAIS-620": "Adv Std Maj Area",
+  "LAIS-621": "Adv Std Min Area",
+  "LAIS-699": "Doctoral Dissertation",
+  "GRSJ-480": "Decolonizing Praxis: A Practicum in Social Justice",
+  "GRSJ-520": "M.A. Thesis",
+  "GRS-290": "Global Issues in Cultural Context",
+  "GRS-390": "Global Issues in Cultural Context",
+  "GRS-490": "Global Issues in Cultural Context",
+  "FNH-380": "Professional Dietetic Practice I",
+  "FNH-480": "Professional Dietetic Practice II",
+  "FNH-481": "Dietetics Practice Education Placement II",
+  "FNH-482": "Dietetics Practice Education Placement III",
+  "JRNL-548": "Final Research Project",
+  "FNEL-241": "Intermediate Wakashan Language I",
+  "EPSE-308": "Development, Learning and Culture in the Classroom",
+  "EPSE-310": "Assessment and Learning in the Classroom",
+  "EPSE-311": "CULTVNG SUPP ENV",
+  "EPSE-317": "Development and Exceptionality in the Regular Classroom",
+  "EPSE-590": "Graduating Paper/Seminar",
+  "EPSE-598": "Field Experiences",
+  "EPSE-599": "Master's Thesis",
+  "EPSE-699": "Doctoral Dissertation",
+  "LAW-379": "Externship",
+  "LAW-472": "Advanced Trial Advocacy",
+  "LAW-474": "Trial Advocacy",
+  "LAW-475": "Competitive Trial Advocacy Credit",
+  "LAW-477": "Negotiation and Dispute Resolution",
+  "LAW-483": "Moots and Advocacy",
+  "LAW-488": "Clinical Term",
+  "LAW-490": "Clinical Criminal Law",
+  "LAW-491": "Law Students Legal Advice Program Credit",
+  "LAW-501": "Directed Research",
+  "LAW-649": "Doctoral Dissertation",
+  "EDCP-301": "Art - Elementary: Curriculum and Pedagogy",
+  "EDCP-302": "Art - Secondary: Curriculum and Pedagogy",
+  "EDCP-308": "Music - Elementary: Curriculum and Pedagogy",
+  "EDCP-311": "Music - Secondary: Curriculum and Pedagogy",
+  "EDCP-320": "Physical Education - Elementary: Curriculum and Pedagogy",
+  "EDCP-322": "Physical Education - Secondary: Curriculum and Pedagogy",
+  "EDCP-323": "Outdoor Environmental Education: Curriculum and Pedagogy",
+  "EDCP-331": "Social Studies - Elementary: Curriculum and Pedagogy",
+  "EDCP-332": "Social Studies - Secondary: Curriculum and Pedagogy",
+  "EDCP-333": "Contemporary Issues in Social Studies: Secondary",
+  "EDCP-340": "Mathematics - Elementary and Middle Years: Curriculum and Pedagogy",
+  "EDCP-342": "Mathematics - Secondary: Curriculum and Pedagogy",
+  "EDCP-349": "Science - Elementary: Curriculum and Pedagogy",
+  "EDCP-352": "General Science - Secondary: Curriculum and Pedagogy",
+  "EDCP-354": "Biological Sciences - Secondary: Curriculum and Pedagogy",
+  "EDCP-355": "Chemistry - Secondary: Curriculum and Pedagogy",
+  "EDCP-357": "Physics - Secondary: Curriculum and Pedagogy",
+  "EDCP-374": "Design and Technology I - Secondary: Curriculum and Pedagogy",
+  "EDCP-375": "Business Education I - Secondary: Curriculum and Pedagogy",
+  "EDCP-378": "Business Education II - Secondary: Curriculum and Pedagogy",
+  "EDCP-391": "Home Economics I - Secondary: Curriculum and Pedagogy",
+  "EDCP-408": "Art, Education and Cultural Diversity",
+  "EDCP-409": "Art Education Theory and Research",
+  "EDCP-432": "Special Study in Social Studies: Geography",
+  "EDCP-472": "Business Practices in Education",
+  "EDCP-501": "Master's Seminar",
+  "EDCP-590": "Graduating Paper",
+  "EDCP-699": "Doctoral Dissertation",
+  "ISCI-300": "Interdisciplinary Seminar",
+  "ISCI-399": "Co-operative Work Placement II",
+  "ISCI-498": "Co-operative Work Placement III",
+  "ISCI-499": "Co-Operative Work Placement IV",
+  "KIN-101": "COOP WORK PLCMNT",
+  "KIN-201": "COOP WORK PLCMNT",
+  "KIN-301": "COOP WORK PLCMNT",
+  "KIN-599": "Master's Thesis",
+  "KIN-699": "Doctoral Dissertation",
+  "EOSC-498": "Co-operative Work Placement III",
+  "EOSC-499": "Co-operative Work Placement IV",
+  "EOSC-515": "Graduate Seminar Course",
+  "EOSC-516": "Teaching and Learning in Earth, Ocean and Atmospheric Sciences",
+  "EOSC-549": "Master's Thesis",
+  "EOSC-649": "Doctoral Dissertation",
+  "FOOD-511": "Master of Food Science Workshops",
+  "FOOD-549": "Master's Thesis",
+  "FOOD-649": "Doctoral Dissertation",
+  "GERM-510": "LITERARY HISTORY",
+  "LARC-511": "Introductory Workshop",
+  "LARC-598": [
+    [
+      "2015W",
+      "GRAD PROJECT II"
+    ],
+    [
+      "2013W",
+      "GRD DESIGN PRJCT"
+    ]
+  ],
+  "GPP-542": "SCI TECH PUB POL",
+  "ECED-590": "Graduating Project",
+  "ECED-599": "Master's Thesis",
+  "GSAT-599": "Master's Thesis",
+  "GSAT-699": "Doctoral Dissertation",
+  "FIPR-533": "Advanced Problems in Directing",
+  "FIPR-549": "Thesis",
+  "GEOB-508": "ADV SEM GEOMRPHY",
+  "EECE-699": "Doctoral Dissertation",
+  "LFS-398": "Co-operative Work Placement I",
+  "LFS-399": "Co-operative Work Placement II",
+  "LFS-498": "Co-operative Work Placement III",
+  "LFS-549": "Master's Thesis",
+  "LFS-649": "Doctoral Dissertation",
+  "HUNU-549": "M.Sc. Thesis",
+  "HUNU-649": "Doctoral Dissertation",
+  "ENPH-481": "Entrepreneurial Projects I",
+  "LING-546": "Directed Reading in Topics related to Linguistics",
+  "LING-649": "Doctoral Dissertation",
+  "LLED-315": "English as a Second Language - Secondary: Curriculum and Pedagogy",
+  "LLED-325": "Teaching and Learning French in Elementary Schools",
+  "LLED-336": [
+    [
+      "2016W",
+      "COMMUNICATION"
+    ],
+    [
+      "2001W",
+      "SPCH COMM FR TCH"
+    ]
+  ],
+  "LLED-350": "Classroom Discourses: Elementary",
+  "LLED-351": "Literacy Practices and Assessment: Elementary",
+  "LLED-352": "Introduction to Learning, Teaching, and Reclaiming Languages: Elementary",
+  "LLED-353": "Teaching and Learning English as an Additional Language: Elementary",
+  "LLED-360": "Classroom Discourses and Teaching English Language Learners: Secondary",
+  "LLED-361": "Literacy Practices and Assessment: Secondary",
+  "LLED-366": [
+    [
+      "2016W",
+      "TEACH LITERATURE"
+    ],
+    [
+      "2012W",
+      "TEACH READNG&LIT"
+    ]
+  ],
+  "LLED-367": "Teaching Writing",
+  "LLED-371": "Foundations of Teaching French: Secondary",
+  "LLED-372": "Teaching French Language and Literacy: Secondary",
+  "LLED-381": "Foundations of Teaching Modern Languages: Secondary",
+  "LLED-386": "Secondary Theatre: Introduction to Curriculum & Pedagogy",
+  "LLED-388": "Secondary Theatre: Principles and Design",
+  "LLED-399": "Practicum in Teaching English as a Second Language",
+  "LLED-435": [
+    [
+      "2015S",
+      "DRAMA COMMUNITY"
+    ],
+    [
+      "2002S",
+      "ADV ST DRM IN ED"
+    ]
+  ],
+  "LLED-439": "Shakespeare in the Classroom",
+  "LLED-590": [
+    [
+      "2018W",
+      "GRADUATING PROJ"
+    ],
+    [
+      "2001S",
+      "GRADUATING PAPER"
+    ]
+  ],
+  "LLED-699": "Doctoral Dissertation",
+  "GEOG-575": "Research Strategies in Human Geography",
+  "GEOG-699": "Doctoral Dissertation",
+  "LIBR-595": "Practicum",
+  "LIBR-596": "Professional Experience",
+  "LFS-499": "Co-operative Work Placement IV",
+  "LLED-387": "Secondary Theatre: Applications to Curriculum",
+  "LLED-433": [
+    [
+      "2015S",
+      "DRAMA CREATVAPPR"
+    ],
+    [
+      "2006W",
+      "DRAMA ELEMENTARY"
+    ]
+  ],
+  "LLED-434": [
+    [
+      "2015S",
+      "DRAMA CROSS-CURR"
+    ],
+    [
+      "2006W",
+      "DRAMA SECONDARY"
+    ]
+  ],
+  "ISCI-398": "Co-operative Work Placement I",
+  "EOSC-399": "Co-operative Work Placement II",
+  "EOSC-699": "Doctoral Dissertation",
+  "EPSE-589": "Master's Internship in School and Applied Child Psychology",
+  "EDCP-423": [
+    [
+      "2018S",
+      "OTDR ETAL EDU"
+    ],
+    [
+      "2010S",
+      "ADV MTHD OUTDOOR"
+    ]
+  ],
+  "EDCP-453": "Biology for Teaching: Topics and Pedagogical Approaches - Secondary",
+  "EDCP-455": "Earth and Space Science for Teaching: Topics and Pedagogical Approaches - Secondary",
+  "EDCP-456": "Botany for Teaching: Topics and Pedagogical Approaches - Secondary",
+  "EDCP-598": "Field Experiences",
+  "GERM-649": "DOC DISSERTATION",
+  "EDUC-319": "Field Experience and Seminar",
+  "EDUC-442": "Critical Issues in Indigenous Education",
+  "GRSJ-606": "Doctoral Dissertation",
+  "JRNL-527": "Internship",
+  "FNH-381": "Dietetics Practice Education Placement I",
+  "FNH-483": "Dietetics Practice Education Placement IV",
+  "FRST-248": "Co-operative Work Placement",
+  "FRST-346": "Co-operative Work Placement",
+  "FRST-348": "Co-operative Work Placement",
+  "EDST-404": "Ethics and Teaching",
+  "EDST-428": "The Social Foundations of Education",
+  "HIST-649": "Doctoral Dissertation",
+  "INDS-549": "Master's Thesis",
+  "ECON-595": "Major Essay",
+  "EOSC-526": "Mechanics of Natural Deformation",
+  "EOSC-554": "Theoretical Glaciology",
+  "LFS-500": "Graduate Seminar",
+  "EPSE-524": "Practicum in Speech and English Language Development with Deaf and Hard of Hearing Students",
+  "EPSE-687": "Doctoral Practicum In School and Applied Child or Counselling Psychology",
+  "EDCP-356": "Earth and Space Science - Secondary: Curriculum and Pedagogy",
+  "EDCP-454": "Chemistry for Teaching: Topics and Pedagogical Approaches - Secondary",
+  "EDCP-468": "Directed Study in Curriculum and Pedagogy",
+  "GREK-649": "Doctoral Dissertation",
+  "FOOD-500": "M.Sc. Seminar",
+  "FOOD-600": "Ph.D. Seminar",
+  "LAW-486": "Law Review Credit",
+  "LAW-553": "Topics in Common Law Theory and Practice: Public Law II",
+  "HUNU-531": "M.Sc. Seminar",
+  "HUNU-631": "Ph.D. Seminar",
+  "FISH-699": "Doctoral Dissertation",
+  "FIST-547": "DIRECTED ST FILM",
+  "FRST-446": "Co-operative Work Placement",
+  "FRST-576": "ADV WOOD MECH",
+  "INDE-440": "SENIOR CLERKSHIP",
+  "INDE-441": "SENIOR CLERKSHIP",
+  "INDE-442": "SENIOR CLERKSHIP",
+  "INDE-443": "SENIOR CLERKSHIP",
+  "INDE-450": "SENIOR CLERKSHIP",
+  "INDE-453": "PREP MD PRACTICE",
+  "INDE-455": "SENIOR CLERKSHIP",
+  "ECON-690": "WRKSHOPS IN ECON",
+  "GRSJ-505": "Directed Reading in Advanced Feminist Studies",
+  "EDUC-143": "Indigenous Education Seminar and Classroom Observation I",
+  "EDUC-323": "School-based Orientation Practicum: Middle Years",
+  "EDUC-419": "School-based Extended Practicum: Middle Years",
+  "EDUC-495": "Practicum (Elementary) for Previously Certified Teachers",
+  "EDUC-496": "Practicum (Secondary) for Previously Certified Teachers",
+  "FNEL-482": "Applied Research in Endangered Language Reclamation",
+  "KORN-440": "Supervised Study in the Korean Language",
+  "FISH-599": "Master's Thesis",
+  "EECE-508": "MULTVR FEED CONT",
+  "EECE-584": "NANOPHOTON FAB",
+  "LLED-599": "Master's Thesis",
+  "EOSC-398": "Co-operative Work Placement I",
+  "GERM-549": "MASTERS THESIS",
+  "FMED-421": "BLOOD&LYMPHATICS",
+  "FMED-422": "INTEGUMENT",
+  "FMED-423": "MUSCLSK&LOCOMOTR",
+  "FMED-424": "GI/NUTRITION",
+  "FMED-425": "ENDOCRINE&METABL",
+  "FMED-426": "BRAIN&BEHAVIOUR",
+  "FMED-427": "Reproduction",
+  "FMED-428": "NUTR, GROWTH&DEV",
+  "FMPR-420": "FAMILY PRCT CNTM",
+  "FMPR-428": "RUUSCOMPRAC",
+  "LING-449": "Honours Essay",
+  "LING-549": "Master's Thesis",
+  "LAW-331": "Topics in Cultural Heritage and Art Law",
+  "KIN-401": "COOP WORK PLCMNT",
+  "EPSE-688": "Seminar in Supervision of School and Applied Child Psychology Practice",
+  "EMER-430": "EMERGENCY MEDI",
+  "GRSJ-510": "Extended Essay",
+  "FREN-514": "Studies in the French Novel",
+  "FRST-202": "Forest Ecology",
+  "FRST-448": "Co-operative Work Placement",
+  "FRST-592": "Hydrological Modelling Applications in Forestry",
+  "INDE-420": "CLIN SKLS SYS II",
+  "INDE-452": "CLINICAL 3RD YR",
+  "INDE-430": "PROF DIMN'S MEDI",
+  "EDUC-179": "Practicum I",
+  "EOSC-599": "Thesis",
+  "FRST-516": "Tree Physiology",
+  "HIST-699": "Ph.D. Research Seminar",
+  "FIPR-399": "Directed Studies: Off-Campus Research",
+  "FISH-510": "Bayesian Decision Analysis for Fisheries Management",
+  "LLED-368": "Multiliteracies in English Language Arts Classrooms",
+  "LIBR-599": "Thesis",
+  "LLED-422": "Language Assessment in the French as a Second/Additional Language Classroom",
+  "EDCP-371": "Integrating Design and Technology Across the Curriculum: Elementary and Middle Years",
+  "EDCP-405": "Visual Arts for Classroom Practice: New Media and Digital Processes",
+  "EOSC-548": "Graduating Paper for Masters Candidates without Thesis",
+  "FREN-599": "Master's Thesis",
+  "LATN-649": "Doctoral Dissertation",
+  "FNSP-533": "DIRECTED STUDY",
+  "EDUC-211": "Global Citizenship, Part 2: Community Service Learning and Capstone Conference",
+  "JRNL-549": "Thesis",
+  "KORN-101": "Basic Korean II",
+  "EXCH-381": "STDY ABROAD PROG",
+  "LATN-502": "Latin Verse",
+  "EMBA-587": "Executive Project",
+  "INDE-410": "INT CLN SK&SY I",
+  "FMED-401": "HOST DEFNS&INFCT",
+  "FMED-402": "CARDIOVASCULAR",
+  "FMED-403": "PULMONARY",
+  "FMED-404": "FLDS,ELCT RNL&GU",
+  "FMPR-401": "FAMILY PRCT CNTM",
+  "LARC-599": "Research Thesis",
+  "GREK-525": "Seminar in Greek Literature",
+  "LAW-385": "Social Welfare Law",
+  "LAW-554": "Topics in Common Law Theory and Practice: Comparative and International Law",
+  "GERM-514": "LIT OF 18TH CENT",
+  "GERM-547": "GUIDED RESEARCH",
+  "EDCP-334": "Canadian Studies: Curriculum and Pedagogy",
+  "EDCP-431": "Special Study in Social Studies: History",
+  "EPSE-689": "Pre-Doctoral Internship in School and Applied Child Psychology",
+  "LLED-382": "Teaching Language and Literacy - Modern Languages: Secondary",
+  "EMBA-526": "International Health Care Systems"
+}

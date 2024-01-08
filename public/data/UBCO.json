@@ -1,5 +1,4 @@
 {
-  "Subject-Course": "Title",
   "POLI-240": "Currents of Political Thought",
   "POLI-364": "International Organizations",
   "DATA-101": "Making Predictions with Data",
@@ -2785,7 +2784,7 @@
   "IGS-505": "Introduction to Qualitative Enquiry",
   "IGS-523": "Special Topics in Indigenous Studies",
   "IGS-540": "Special Topics in Optimization",
-  "STAT-449": [],
+  "STAT-449": "Statistics Honours Project",
   "PSYO-442": "Interpersonal Behaviour and Psychopathology",
   "PSYO-443": "Psychometrics and Test Evaluation",
   "PSYO-451": "Social Psychology of Intergroup Relations",

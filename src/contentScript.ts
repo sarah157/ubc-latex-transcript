@@ -41,22 +41,22 @@ const parseDataFromDOM = async (options: Options) => {
   // course codes with a 4th char. (2) then read individual session tabs and update course code if needed
   const allSessionsCoursesColl = iframe.contentWindow.document.querySelector('#tabs-all tbody').children;
 
-  // map to hold courses with 4-char codes
-  const courseCode4thChar: {[key: string]: string} = {};
+  // map course to 4th char in code e.g., { 'CPSC 436' : 'A' }
+  const courseToCode4thChar: { [key: string]: string } = {};
 
   // we must also save the program code (e.g., BSC) which will be used instead of the 
   // full program name if options.groupBySession is false
   // map session to program code
-  const sessionToProgramCode: {[key: string]: string} = {};
+  const sessionToProgramCode: { [key: string]: string } = {};
 
   // (1) iterate through courses in All Sessions; start at crs = 1 to skip header
   for (let crs = 1; crs < allSessionsCoursesColl.length; crs++) {
     const courseColl: HTMLCollection = allSessionsCoursesColl[crs].children;
-    // if course code has length of 4, save course to map as e.g., { 'CPSC 436' : 'A' }
+    // if course code has length of 4, save course to map 
     const courseName = courseColl[0].textContent.trim().replace(NBSP, ' ');
     const code = courseName.split(' ')[1];
     if (code.length === 4) {
-      courseCode4thChar[courseName.slice(0, -1)] = courseName.slice(-1);
+      courseToCode4thChar[courseName.slice(0, -1)] = courseName.slice(-1);
     }
     // update sessionToProgramCode map
     const sessionName = courseColl[4].textContent.trim();
@@ -75,7 +75,7 @@ const parseDataFromDOM = async (options: Options) => {
     const session = parseSession(sessionTabsColl[i]);
     // update program full name to program code if courses should not be grouped by session
     if (!options.groupBySession) {
-      session.program = sessionToProgramCode[session.name]
+      session.program = sessionToProgramCode[session.name] || '';
     }
     sessions.push(session);
 
@@ -86,8 +86,8 @@ const parseDataFromDOM = async (options: Options) => {
       if (sessionCoursesColl[crs].classList.contains('listRow')) {
         const course = await parseCourse(sessionCoursesColl[crs], session);
         // update course name if code has 4 characters
-        if (course[CourseColumn.NAME] in courseCode4thChar) {
-          course[CourseColumn.NAME] += courseCode4thChar[course[CourseColumn.NAME]];
+        if (course[CourseColumn.NAME] in courseToCode4thChar) {
+          course[CourseColumn.NAME] += courseToCode4thChar[course[CourseColumn.NAME]];
         }
         // if specified in options, drop CDF or W courses
         const courseStanding = course[CourseColumn.STANDING];
@@ -112,9 +112,9 @@ const parseSession = (sessionEl: Element) => {
 
   const programInfoRows = sessionEl.querySelector('tbody > tr:nth-child(2) tbody').children;
   for (let row = 0; row < programInfoRows.length; row++) {
-    const key = programInfoRows[row].children[0].textContent.trim();
+    const key = programInfoRows[row]?.children[0]?.textContent?.trim();
     const camelCaseKey = toCamelCase(key);
-    const value = programInfoRows[row].children[1].textContent.trim();
+    const value = programInfoRows[row]?.children[1]?.textContent?.trim();
     session[camelCaseKey as SessionValues] = value;
   }
 

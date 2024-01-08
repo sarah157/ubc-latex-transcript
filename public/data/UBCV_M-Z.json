@@ -1,12 +1,11 @@
 {
-  "Subject-Course": "Title",
   "OSOT-545": [
     [
       "2020S",
       "Occupation in Practice III: Occupational Therapy Assessment and Intervention"
     ],
     [
-      "2018S",
+      "2017W",
       "Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications"
     ]
   ],
@@ -16,7 +15,7 @@
       "Developing Evidence for Occupational Therapy Practice"
     ],
     [
-      "2018S",
+      "2017W",
       "Evidence for Practice: Project"
     ]
   ],
@@ -26,27 +25,18 @@
       "Professional Development of the Occupational Therapist II"
     ],
     [
-      "2018S",
+      "2017W",
       "Professional Practice II"
     ]
   ],
-  "OSOT-551": [
-    [
-      "2020S",
-      "Societal and Environmental Influences on Occupation and Occupational Therapy Practice"
-    ],
-    [
-      "2018S",
-      "Societal and Environmental Influences"
-    ]
-  ],
+  "OSOT-551": "Societal and Environmental Influences on Occupation and Occupational Therapy Practice",
   "OSOT-553": [
     [
       "2020S",
       "Innovations in Occupation: Developing and Evaluating Occupational Therapy Programs"
     ],
     [
-      "2018S",
+      "2017W",
       "Developing Effective Programs"
     ]
   ],
@@ -68,7 +58,7 @@
       "Elementary Spanish I"
     ],
     [
-      "2014S",
+      "2004W",
       "Intermediate Spanish I"
     ]
   ],
@@ -78,7 +68,7 @@
       "Elementary Spanish II"
     ],
     [
-      "2014S",
+      "2004W",
       "Intermediate Spanish II"
     ]
   ],
@@ -88,7 +78,7 @@
       "Introduction to Hispanic Literature"
     ],
     [
-      "2014W",
+      "2012W",
       "Introduction to Literary Analysis in Spanish"
     ]
   ],
@@ -98,7 +88,7 @@
       "Intermediate Spanish I"
     ],
     [
-      "2014W",
+      "2004W",
       "Advanced Spanish I"
     ]
   ],
@@ -108,45 +98,13 @@
       "Intermediate Spanish II"
     ],
     [
-      "2014W",
+      "2004W",
       "Advanced Spanish II"
     ]
   ],
   "PPGA-527": "Corporate Social Responsibility",
   "PPGA-591": "Special Topics in Public Policy",
-  "LWS-548": "Major Project",
-  "ITAL-101": [
-    [
-      "2020S",
-      "Beginners' Italian I"
-    ],
-    [
-      "2014S",
-      "First-Year Italian I"
-    ]
-  ],
-  "ITAL-102": [
-    [
-      "2020S",
-      "Beginners' Italian II"
-    ],
-    [
-      "2014S",
-      "First-Year Italian II"
-    ]
-  ],
-  "ITAL-322": "Italian for Reading Knowledge",
   "PUNJ-102": "Introductory Punjabi",
-  "LATN-101": [
-    [
-      "2019W",
-      "Beginning Latin I"
-    ],
-    [
-      "2014W",
-      "First-Year Latin I"
-    ]
-  ],
   "NURS-180": "Stress and Strategies to Promote Well Being",
   "NURS-280": "Human Sexual Health",
   "NURS-290": "Health Impacts of Climate Change",
@@ -157,7 +115,7 @@
       "Theoretical Perspectives in Nursing: People Living with Mental Health Challenges and Their Families"
     ],
     [
-      "2014W",
+      "2009W",
       "Introduction to Professional Nursing Practice with Adults, Older Adults, and their Families"
     ]
   ],
@@ -165,16 +123,7 @@
   "NURS-346": "Theoretical Perspectives in Nursing: Infants, Children, Youth and their Families",
   "NURS-351": "Leadership, Policy, and Informatics",
   "NURS-504": "Research and Evidence-Based Practice",
-  "NURS-512": [
-    [
-      "2020W",
-      "Leadership in Nursing and Health"
-    ],
-    [
-      "2014W",
-      "Leadership in Nursing"
-    ]
-  ],
+  "NURS-512": "Leadership in Nursing and Health",
   "NURS-540": "Educational Processes in Nursing",
   "NURS-541": "Clinical Nursing Education",
   "NURS-570": "Primary Care I",
@@ -186,34 +135,17 @@
       "Culminating Project"
     ],
     [
-      "2014W",
+      "2007S",
       "Primary Care Project"
     ]
   ],
   "PHYS-100": "Introductory Physics",
   "PHYS-118": "Electricity, Light and Radiation",
-  "PHYS-119": [
-    [
-      "2021S",
-      "Experimental Physics Lab I"
-    ],
-    [
-      "2015W",
-      "Experimental Physics Lab"
-    ]
-  ],
+  "PHYS-119": "Experimental Physics Lab I",
   "PHYS-131": "Energy and Waves (Lecture)",
   "PHYS-250": "Introduction to Modern Physics",
   "URSY-530": "Urban Systems Engineering",
   "RMST-390": "Barcelona",
-  "HIST-220": "History of Europe",
-  "HIST-270": "China in World History",
-  "HIST-324": "Inventing Canada, 1840-1896",
-  "HIST-383": "Foundations of Sikh Traditions",
-  "HIST-402": "Problems in International Relations",
-  "HIST-425": "War and Society",
-  "HIST-441": "History of the Holocaust",
-  "HIST-484": "East Asian Military systems and warfare China",
   "PSYC-101": "Introduction to Biological and Cognitive Psychology",
   "PSYC-102": "Introduction to Developmental, Social, Personality, and Clinical Psychology",
   "PSYC-217": "Research Methods",
@@ -224,7 +156,7 @@
       "Abnormal Psychology"
     ],
     [
-      "2014S",
+      "1996S",
       "Behaviour Disorders"
     ]
   ],
@@ -273,27 +205,6 @@
     ]
   ],
   "RHSC-420": "Elements of Neuroanatomy and Neurophysiology",
-  "GRSJ-101": [
-    [
-      "2017S",
-      "Introduction to Social Justice"
-    ],
-    [
-      "2014W",
-      "Gender, Race, Sex and Power"
-    ]
-  ],
-  "GRSJ-224": "Gender, Race, Sexuality, and Social Justice in Literature",
-  "GRSJ-300": [
-    [
-      "2015W",
-      "Intersectional Approaches to Thinking Gender"
-    ],
-    [
-      "2014S",
-      "Intersectional Approaches to Gender Relations"
-    ]
-  ],
   "RUSS-303": "Topics in Russian Culture (in English)",
   "PATH-521": "Introduction to the Pathogenesis of Human Disease",
   "MECH-224": "Integration of Engineering Concepts I",
@@ -304,7 +215,6 @@
   "MECH-498": "Research Communication",
   "MECH-527": "Mechatronic System Design Project II",
   "MECH-597": "Project for M.Eng. Studies",
-  "IGEN-201": "Integrated Technical Communication",
   "WOOD-225": "Communications Strategies",
   "WOOD-353": "Mill Site Visits",
   "WOOD-365": "Wood Industry Business Management",
@@ -314,9 +224,6 @@
   "SPHA-544": "Health Information Systems",
   "SPHA-561": "Strategic Management",
   "SPHA-564": "Leadership and Management Skills",
-  "KORN-102": "Basic Korean",
-  "HPB-504": "Building Energy Systems Design",
-  "HPB-505": "Capstone: Greening Existing Buildings",
   "NRSC-549": "Master's Thesis",
   "MRNE-401": "Special Topics in Marine Biology",
   "MRNE-402": "Special Topics in Marine Biology",
@@ -329,7 +236,7 @@
       "Symbolic Logic"
     ],
     [
-      "2014S",
+      "1996S",
       "Symbolic Logic I"
     ]
   ],
@@ -339,7 +246,7 @@
       "Introduction to Ethics"
     ],
     [
-      "2014S",
+      "1996W",
       "Introduction to Moral Theory"
     ]
   ],
@@ -349,7 +256,7 @@
       "Introduction to Epistemology"
     ],
     [
-      "2014W",
+      "1996S",
       "Knowledge and Reality I"
     ]
   ],
@@ -368,20 +275,6 @@
   "MICB-323": "Molecular Immunology and Virology Laboratory",
   "MINE-597": "Engineering Project",
   "MINE-598": "Seminar",
-  "LFS-302": "International Field Studies",
-  "LFS-303": "International Field Studies in Policy Analysis for Agriculture and Natural Resources",
-  "LFS-496": [
-    [
-      "2019W",
-      "Career Development Practicum"
-    ],
-    [
-      "2016W",
-      "Career Development Internship"
-    ]
-  ],
-  "INLB-201": "Special Topics in Indigenous Land-based Studies",
-  "IWME-505": "Water Resources Systems Planning and Management",
   "NEPL-390": "Nepali Language in a Community Context",
   "POLI-100": "Introduction to Politics",
   "POLI-101": "The Government of Canada",
@@ -396,13 +289,7 @@
   "POLI-379": "China in World Politics",
   "POLI-464": "Problems in International Relations",
   "POLI-549": "Master's Thesis",
-  "ISCI-361": "Field Course: Systems Approaches to Regional Sustainability",
   "PHRM-302": "Directed Studies in Clinical Pharmacy",
-  "GERM-100": "Beginners' German I",
-  "GERM-110": "Beginners' German II",
-  "GERM-200": "Intermediate German I",
-  "GERM-210": "Intermediate German II",
-  "GERM-433": "German for Reading Knowledge I",
   "UDES-501": [
     [
       "2018W",
@@ -420,7 +307,7 @@
       "Differential Calculus with Applications"
     ],
     [
-      "2014W",
+      "1999W",
       "Differential Calculus with Applications to Physical Sciences and Engineering"
     ]
   ],
@@ -430,7 +317,7 @@
       "Integral Calculus with Applications"
     ],
     [
-      "2014S",
+      "1999W",
       "Integral Calculus with Applications to Physical Sciences and Engineering"
     ]
   ],
@@ -447,32 +334,11 @@
   "MATH-312": "Introduction to Number Theory",
   "MATH-316": "Elementary Differential Equations II",
   "MATH-317": "Calculus IV",
-  "LARC-582": [
-    [
-      "2015W",
-      "Seminar: Special Topics"
-    ],
-    [
-      "2014S",
-      "Special Topics Seminar"
-    ]
-  ],
   "SPPH-522": "Topics in Environmental Health",
   "SPPH-527": "Social Determinants of Health",
   "SPPH-536": "Aboriginal People and Public Health: Ethics, Policy, and Practice",
   "SPPH-538": "Application of Ethical Theories in the Practice of Public Health",
   "SPPH-581": "Selected Topics",
-  "KIN-110": "Human Anatomy",
-  "KIN-131": "Systems Physiology I",
-  "KIN-132": "Systems Physiology II",
-  "KIN-235": "Exercise Physiology I",
-  "KIN-335": "Advanced Applications of Exercise Physiology",
-  "KIN-368": "Indigenous Sport and Physical Culture in Settler Canada",
-  "KIN-483": "Advanced Seminar in Systems Biology, Exercise and Health",
-  "KIN-500": "Special Topics in Kinesiology",
-  "KIN-530": "Directed Studies",
-  "KIN-596": "High Performance Sport Inquiry",
-  "KIN-597": "Practical Applications in High Performance Sport",
   "PHTH-301": "Physical Therapy Foundations",
   "PHTH-538": "Case-based Integration II",
   "PHTH-548": "Case-based Integration III",
@@ -489,53 +355,9 @@
   "STAT-549": "Thesis for Master's Degree",
   "SCAN-333": "Major Works of Scandinavian Literature (in English)",
   "PERS-400": "Persian Short Story for Native and Heritage Speakers",
-  "JAPN-100": [
-    [
-      "2016S",
-      "Beginning Japanese IA"
-    ],
-    [
-      "2014S",
-      "Beginning Japanese I"
-    ]
-  ],
-  "JAPN-101": [
-    [
-      "2016S",
-      "Beginning Japanese IB"
-    ],
-    [
-      "2014S",
-      "Beginning Japanese I"
-    ]
-  ],
-  "JAPN-200": "Beginning Japanese II A",
-  "JAPN-201": "Beginning Japanese II B",
-  "JAPN-360": "Intensive Intermediate Japanese I",
-  "JAPN-361": "Intensive Intermediate Japanese II",
-  "LAW-372": "Administrative Law",
-  "LAW-430": "Advanced Legal Research",
-  "LAW-459": "Business Organizations",
-  "LAW-468": "Ethics and Professionalism",
-  "LAW-505": "Canadian Public Law",
-  "LAW-509": "Administrative Law",
-  "LAW-515": "Canadian Private Law: Contractual Obligations and Remedies",
-  "LAW-525": "Canadian Criminal Law and Procedure",
-  "LAW-530": "Advanced Legal Research and Writing",
-  "LAW-561": "Fundamental Concepts in Tax Law",
-  "LAW-588": "Ethics and Professionalism",
   "PLAN-528": "Capstone Professional Report",
   "PLAN-548": "Current Issues in Planning",
-  "PLAN-583": [
-    [
-      "2018S",
-      "Housing and Community Planning Policy"
-    ],
-    [
-      "2014S",
-      "Housing and Community Planning"
-    ]
-  ],
+  "PLAN-583": "Housing and Community Planning Policy",
   "SOCI-101": "Social Interaction and Culture",
   "SOCI-102": "Inequality and Social Change",
   "SOCI-200": [
@@ -544,7 +366,7 @@
       "Sociology of Family"
     ],
     [
-      "2014S",
+      "2008S",
       "Sociology of the Family"
     ]
   ],
@@ -567,104 +389,12 @@
   "URST-200": "Cities",
   "TIBT-390": "Tibetan Language in a Community Context",
   "NAME-592": "Shipbuilding Internship",
-  "GEOS-103": "Our Changing Environment: Water and Landscapes",
-  "GEOS-270": "Geographic Information Science",
-  "GEOS-309": "Geographical Sciences Field Course",
-  "HGSE-320": [
-    [
-      "2021W",
-      "Special Topics on Ecology and Society"
-    ],
-    [
-      "2018S",
-      "Special Topics on Ecology in Indigenous Contexts"
-    ]
-  ],
-  "HGSE-330": "Social Ecological Change: An Introduction to Systems Thinking and Resilience",
-  "HGSE-331": "Environmental Assessment in Cross-Cultural and Indigenous Contexts",
-  "HGSE-332": "Plant Ecology and Diversity",
-  "HGSE-333": "Indigenous Plant Knowledge: Ethnoecology and Ethnobotany",
-  "HGSE-372": "Language and Cultural Continuity",
-  "HGSE-381": "Ecological Economics",
-  "LIBR-514": "Topics in the Bibliographic Control of Information",
-  "LIBR-525": "Illustrated Literature and Other Materials for Children",
-  "LIBR-529": "Services for Families and Early Literacy in the Preschool Years",
-  "LIBR-531": "Client-Centred Services for Adults",
-  "LIBR-545": "Adult Popular Reading & Media Iinterests",
-  "LIBR-554": "Database Design",
-  "LIBR-559": "Topics in Computer-Based Information Systems",
-  "LIBR-574": "Project Management in Information Organizations",
-  "LIBR-575": "Academic Libraries",
-  "LIBR-587": "Preservation",
-  "LIBE-461": "Administration of the School Library Resource Centre",
-  "LIBE-465": "Organization of Learning Resources",
-  "LIBE-477": "Special Topics in Teacher Librarianship",
   "SOWK-440": "Integrative Seminars in Social Work",
   "SOWK-453": "Disability and Justice",
   "SOWK-559": "Advanced Integrative Seminar",
-  "GEOG-250": "Cities",
-  "GEOG-310": "Environment and Sustainability",
-  "GEOG-318": "Sustainability in a Changing Environment",
-  "GEOG-350": [
-    [
-      "2017W",
-      "Urban Worlds"
-    ],
-    [
-      "2014S",
-      "Introduction to Urban Geography"
-    ]
-  ],
-  "GEOG-357": [
-    [
-      "2020W",
-      "Society, Culture & Space"
-    ],
-    [
-      "2014W",
-      "Introduction to Social Geography"
-    ]
-  ],
-  "GEOG-410": "Environment and Society",
-  "GEOG-599": "Master's Thesis",
-  "LLED-421": "Gramligne: Learning and Teaching Grammar in Text for the Second Language Classroom",
-  "LLED-446": "Teaching with Illustrated Materials, K-12: From Picture Books to Information Texts",
-  "LLED-449": [
-    [
-      "2017S",
-      "Teaching Adolescents Literature"
-    ],
-    [
-      "2014S",
-      "Teaching Adolescents' Literature"
-    ]
-  ],
-  "LLED-459": "Trends and Issues in Literacy Instruction",
-  "LLED-469": [
-    [
-      "2017S",
-      "Inquiry-Based Pedagogy in School Library Programs"
-    ],
-    [
-      "2014S",
-      "Resource-Based Teaching"
-    ]
-  ],
-  "LLED-478": "Introduction to Teaching English as a Second Language",
-  "LLED-489": "Applied Linguistics for Teachers",
-  "LLED-513": "Indigenous Storytelling in Education",
-  "LLED-521": "Interculturality in Language Education: Theories, Research, and Practice",
-  "LLED-535": "Theory and Research in Drama in Education",
-  "LLED-536": "Drama, Literacies and Literature in Education",
-  "LLED-565": "Special Course in Subject Matter Field",
-  "LLED-573": "Theories of Second Language Acquisition",
   "UFOR-500": "Developing Green and Resilient Cities - The Urban Forestry Approach",
   "UFOR-511": "Geomatics Principles and Applications",
   "UFOR-531": "Master of Urban Forestry Leadership Capstone Course",
-  "LING-101": "Languages of the World",
-  "LING-200": "Linguistic Theory and Analysis I",
-  "LING-201": "Linguistic Theory and Analysis II",
-  "LING-222": "Language Acquisition",
   "MANU-201": "Technical Communication",
   "MANU-230": "Manufacturing Engineering Laboratory",
   "MANU-261": "Thermodynamics",
@@ -681,105 +411,7 @@
   "MANU-480": "Manufacturing Processes II",
   "MANU-481": "Manufacturing Processes III",
   "MANU-485": "Metal Cutting and Machine Tool Vibrations",
-  "KIN-120": "Health and Exercise Management",
-  "KIN-140": "Lifespan Motor Development",
-  "KIN-150": "Sport and Exercise Psychology",
-  "KIN-160": "Leisure and Sport in Society",
-  "KIN-205": "Research Methods in Kinesiology",
-  "KIN-206": "Introduction to Statistics in Kinesiology",
-  "KIN-211": "Human Motor Behaviour I",
-  "KIN-216": "Biomechanics I",
-  "KIN-232": "Nutrition, Physical Activity, and Health",
-  "KIN-262": "Health Policy and Society",
-  "KIN-300": "Human Athletic Performance",
-  "KIN-311": "Sensorimotor Control of Human Movement",
-  "KIN-313": "Neuromuscular Integration of Human Movement",
-  "KIN-316": "Biomechanical Properties of Tissues",
-  "KIN-320": "Exercise Testing and Prescription",
-  "KIN-341": "Instructional Strategies for Including Persons with Disabilities in Physical Activity",
-  "KIN-342": "Creating Effective, Developmentally Appropriate, Physical Activity Learning Environments",
-  "KIN-344": "Leisure Services for Persons with a Disability",
-  "KIN-345": "Foundations of Coaching",
-  "KIN-355": "Movement Experiences for Young Children",
-  "KIN-360": "Sport, Peace, and Conflict",
-  "KIN-364": "The Modern Olympics: Power, Politics, and Performance",
-  "KIN-411": "Neuroanatomy of Human Movement",
-  "KIN-419": "Laboratory Investigations in Neuromechanical Kinesiology",
-  "KIN-420": "Prevention of Sports Injuries",
-  "KIN-424": "Medical Aspects of Sport and Exercise",
-  "KIN-432": "Sport Nutrition",
-  "KIN-435": "Pulmonary Physiology of Exercise",
-  "KIN-438": [
-    [
-      "2022W",
-      "Skeletal Muscle Physiology: Molecular Adaptions to Training, Disuse and Aging"
-    ],
-    [
-      "2020W",
-      "Skeletal Muscle Physiology: From Generation to Regeneration"
-    ]
-  ],
-  "KIN-442": "Planning Physical Education, Sport and Exercise Programs",
-  "KIN-444": "Exploring Alternative Methods for Teaching Games and Sports",
-  "KIN-453": "Understanding and Changing Physical Activity Behaviour",
-  "KIN-459": "Psychobiology of Physical Activity",
-  "KIN-464": "Health Promotion and Physical Activity",
-  "KIN-465": "Interculturalism, Health and Physical Activity",
-  "KIN-468": "Indigenous Health and Wellness",
-  "KIN-482": "Advanced Seminar in Neuromechanics",
-  "KIN-487": "Advanced Seminar in Sociocultural Studies",
-  "KIN-488": "Advanced Seminar in Interdisciplinary Research in Kinesiology",
-  "KIN-490": "Directed Studies in Kinesiology",
-  "KIN-492": "Undergraduate Research Experience in Kinesiology",
-  "KIN-517": "Business of High Performance Sport in Canada",
-  "KIN-562": "Bioenergetics of Physical Activity",
-  "KIN-564": "Psycho-Social Aspects of Physical Activity",
-  "KIN-568": "Seminar in Human Sensorimotor Control",
-  "KIN-570": "Research Methods in Kinesiology",
-  "KIN-571": "Qualitative Methods in Sport, Leisure, and Health Studies",
-  "KIN-572": [
-    [
-      "2020W",
-      "Research Methods for Sport & Health Sciences"
-    ],
-    [
-      "2016W",
-      "Research Methods in Sports Coaching"
-    ]
-  ],
-  "KIN-575": "Principles of Applied Sports Analytics",
-  "KIN-580": "Seminar in Body, Exercise, and Society",
-  "KIN-585": [
-    [
-      "2015W",
-      "Performance Planning"
-    ],
-    [
-      "2014W",
-      "Coaching Science I"
-    ]
-  ],
-  "KIN-586": [
-    [
-      "2015W",
-      "Coaching Effectiveness"
-    ],
-    [
-      "2014W",
-      "Coaching Science II"
-    ]
-  ],
   "SLAV-307": "Literature and Film in Eastern Europe",
-  "ISCI-311": "The Size of Things",
-  "ISCI-312": "Symmetry",
-  "ISCI-320": "Research Development Project",
-  "ISCI-350": "Darwinian Medicine",
-  "ISCI-351": "Why the Big Brain? The Evolution of Human Cognition",
-  "ISCI-360": "Systems Approaches to Regional Sustainability",
-  "ISCI-433": "Ethical Issues in Science",
-  "ISCI-434": "Non-Animal Methods in Biomedical Science",
-  "ISCI-448": "Directed Studies",
-  "ISCI-490": "Student Directed Seminars",
   "POLI-220": "Introduction to Comparative Politics",
   "POLI-302": "Public Administration",
   "POLI-303": "Federalism in Canada",
@@ -845,201 +477,6 @@
   "SCIE-1": "Science One",
   "SCIE-113": "First-Year Seminar in Science",
   "SCIE-300": "Communicating Science",
-  "INLB-210": "Land and Indigenous Self-Determination: Introduction to Theoretical Perspectives",
-  "LAST-100": "Introduction to Latin American Studies",
-  "LAST-201": "Popular Culture in Latin America",
-  "LAST-303": "Indigenous Peoples of Latin America",
-  "LAW-200": "Indigenous Settler Legal Relations",
-  "LAW-211": "Contracts",
-  "LAW-221": "Criminal Law and Procedure",
-  "LAW-231": "Property Law",
-  "LAW-241": "Torts",
-  "LAW-261": "Transnational Law",
-  "LAW-271": "Introduction to Public Law and the Charter",
-  "LAW-281": "Legal Research and Writing",
-  "LAW-291": "Aboriginal and Treaty Rights",
-  "LAW-300": "Jurisprudence and Critical Perspectives",
-  "LAW-303": [
-    [
-      "2017W",
-      "Legal Traditions and Ideas of Law"
-    ],
-    [
-      "2014W",
-      "The Western Idea of Law"
-    ]
-  ],
-  "LAW-305": "Law, Society and State",
-  "LAW-306": "Corporate Social Responsibility and the Law",
-  "LAW-307": "Women, Law and Social Change",
-  "LAW-308": "Feminist Legal Theory",
-  "LAW-312": "Topics in Philosophy of Law and Theoretical Perspectives",
-  "LAW-316": "International Law",
-  "LAW-319": "International Human Rights",
-  "LAW-321": "Law of Armed Conflict",
-  "LAW-323": "International Environmental Law",
-  "LAW-324": "Topics in International Law and Transactions",
-  "LAW-325": "Conflict of Laws",
-  "LAW-332": "Maritime Law",
-  "LAW-334": "Introduction to Asian Legal Systems",
-  "LAW-336": "Chinese Law: Implications for Canada-China Relations",
-  "LAW-338": "Japanese Law",
-  "LAW-342": "Topics in Comparative Law",
-  "LAW-343": "Topics in Public Law",
-  "LAW-344": "Innovations in Governance and Regulatory Design",
-  "LAW-347": "Federalism",
-  "LAW-348": "Comparative Constitutional Law",
-  "LAW-349": "Topics in Constitutional Law",
-  "LAW-352": "Aboriginal Peoples and Canadian Law",
-  "LAW-353": "Aboriginal and Treaty Rights",
-  "LAW-356": "First Nations and Economic Development",
-  "LAW-358": "Topics in First Nations Law",
-  "LAW-359": "Family Law",
-  "LAW-363": "Racism and Law",
-  "LAW-374": "Municipal Law",
-  "LAW-377": "Immigration Law",
-  "LAW-378": "Refugee Law",
-  "LAW-380": "Externship Reflection",
-  "LAW-382": [
-    [
-      "2016W",
-      "Health Law"
-    ],
-    [
-      "2014W",
-      "Law and Medicine"
-    ]
-  ],
-  "LAW-383": "Mental Health Law",
-  "LAW-387": "Environmental Law",
-  "LAW-391": "Topics in Environmental Law",
-  "LAW-392": "Natural Resources Law",
-  "LAW-393": "Green Rights and Warrior Lawyers",
-  "LAW-394": "Mining Law",
-  "LAW-395": "Forest Law",
-  "LAW-400": "Advanced Criminal Procedure",
-  "LAW-401": "Penal Policy",
-  "LAW-406": "Topics in Criminal Justice",
-  "LAW-407": "Taxation",
-  "LAW-408": "Taxation of Corporations and Shareholders",
-  "LAW-411": [
-    [
-      "2018W",
-      "Tax Policy"
-    ],
-    [
-      "2014W",
-      "Tax Law and Policy Workshop"
-    ]
-  ],
-  "LAW-414": "Taxation of Corporate Reorganizations",
-  "LAW-416": "Labour Law",
-  "LAW-419": "Individual Employment Law",
-  "LAW-422": "Intellectual Property",
-  "LAW-423": "Topics in Intellectual Property",
-  "LAW-425": "Cyberspace Law",
-  "LAW-428": "International Justice and Human Rights Clinical Seminar",
-  "LAW-432": "Topics in Private Law",
-  "LAW-434": "Medical Negligence Law",
-  "LAW-435": "Topics in Tort Law",
-  "LAW-436": "Restitution",
-  "LAW-437": "Commercial Transactions",
-  "LAW-438": "Secured Transactions",
-  "LAW-439": "Construction Law",
-  "LAW-440": "Insurance Law",
-  "LAW-442": "Condominium Law",
-  "LAW-444": "Insolvency Law",
-  "LAW-447": "Topics in Commercial Law",
-  "LAW-448": "Sports Law",
-  "LAW-449": "Media and Entertainment Law",
-  "LAW-451": "Trusts",
-  "LAW-452": "Succession",
-  "LAW-455": "Real Estate Transactions",
-  "LAW-460": "Advanced Corporate Law",
-  "LAW-461": "Corporate Transactions",
-  "LAW-462": "Close Corporations",
-  "LAW-463": "Securities Regulation",
-  "LAW-464": "Competition Policy",
-  "LAW-466": "Business Law Capstone",
-  "LAW-467": "Topics in Corporate Law",
-  "LAW-469": "Civil Procedure",
-  "LAW-470": "Innocence Project",
-  "LAW-471": "Preventing Wrongful Convictions",
-  "LAW-473": "Appellate Advocacy",
-  "LAW-476": "Evidence",
-  "LAW-478": "Foundations of Dispute Resolution",
-  "LAW-481": "Topics in Litigation, Dispute Resolution and the Administration of Justice",
-  "LAW-489": "Clinical Term: Paper",
-  "LAW-493": "Directed Research",
-  "LAW-494": "Directed Research",
-  "LAW-500": "Current Legal Problems",
-  "LAW-503": "Tort Law",
-  "LAW-504": "Property Law",
-  "LAW-511": "International Criminal Law",
-  "LAW-524": "Methodologies in Law and Policy",
-  "LAW-550": "Taxation of Corporate Reorganizations",
-  "LAW-562": "Taxation of Corporations and Shareholders",
-  "LAW-564": "Taxation of Trusts and Estates",
-  "LAW-565": "International Taxation",
-  "LAW-566": [
-    [
-      "2015W",
-      "Tax Policy"
-    ],
-    [
-      "2014W",
-      "Tax Law and Policy Workshop"
-    ]
-  ],
-  "LAW-567": "Tax Administration and Dispute Resolution",
-  "LAW-568": "Topics in Taxation",
-  "LAW-569": "Topics in International Taxation",
-  "IWME-501": "Environmental Fluid Mechanics",
-  "IWME-503": "Chemical and Biological Industrial Water Treatment Design",
-  "IWME-504": "Water and Wastewater Management Strategies",
-  "IWME-506": "Water Infrastructure Capstone",
-  "GREK-101": [
-    [
-      "2019W",
-      "Beginning Ancient Greek I"
-    ],
-    [
-      "2014W",
-      "First-Year Ancient Greek I"
-    ]
-  ],
-  "GREK-102": [
-    [
-      "2019W",
-      "Beginning Ancient Greek II"
-    ],
-    [
-      "2014W",
-      "First-Year Ancient Greek II"
-    ]
-  ],
-  "GREK-201": [
-    [
-      "2019W",
-      "Intermediate Ancient Greek I"
-    ],
-    [
-      "2014W",
-      "Second-Year Ancient Greek I"
-    ]
-  ],
-  "GREK-351": [
-    [
-      "2022W",
-      "Reading Ancient Greek: Prose"
-    ],
-    [
-      "2014W",
-      "Intermediate Ancient Greek: Prose"
-    ]
-  ],
-  "GSAT-502": "Advanced Concepts in Genome Science and Technology",
-  "GSAT-540": "Statistical Methods for High Dimensional Biology",
   "SPPH-300": "Working in International Health",
   "SPPH-301": "Understanding the Sociocultural Determinants of the Health of Populations",
   "SPPH-302": "Topics in Health Informatics for Health/Life Sciences Students",
@@ -1098,139 +535,18 @@
       "Technical Aspects of Occupational Hygiene Hazard Controls"
     ],
     [
-      "2014W",
+      "2011W",
       "Technical Aspects of Chemical and Biological Hazard Control"
     ]
   ],
   "SPPH-567": "Quantitative Methods for the Assessment and Analysis of Exposure Data",
-  "SPPH-568": [
-    [
-      "2022W",
-      "Occupational Safety Programs and Systems"
-    ],
-    [
-      "2014W",
-      "Safety"
-    ]
-  ],
+  "SPPH-568": "Occupational Safety Programs and Systems",
   "SPPH-569": "Industrial and Environmental Acoustics and Vibration",
   "SPPH-579": "Collecting, Analyzing and Using Public Health Data in Indigenous Communities",
   "SPPH-586": "Indigenous Health Policy in Canada",
   "SPPH-604": "Application of Advanced Epidemiological Methods",
   "SPPH-621": "Approaches to Enquiry in Population and Public Health",
   "SPPH-681": "Selected Topics",
-  "LARC-316": "Trees and Shrubs in Landscape",
-  "LARC-415": [
-    [
-      "2022W",
-      "Plant Design"
-    ],
-    [
-      "2017W",
-      "A Behavioural Approach to Planting Design"
-    ]
-  ],
-  "LARC-444": "Green Network Planning",
-  "LARC-501": [
-    [
-      "2015W",
-      "Landscape Architecture Design Studio I"
-    ],
-    [
-      "2014W",
-      "Design Studio I: Introduction"
-    ]
-  ],
-  "LARC-502": [
-    [
-      "2015W",
-      "Landscape Architecture Design Studio II"
-    ],
-    [
-      "2014W",
-      "Design Studio II: Design Methods"
-    ]
-  ],
-  "LARC-503": [
-    [
-      "2015W",
-      "Landscape Architecture Design Studio III"
-    ],
-    [
-      "2014W",
-      "Design Studio III: Design Development"
-    ]
-  ],
-  "LARC-504": [
-    [
-      "2015W",
-      "Landscape Architecture Design Studio IV"
-    ],
-    [
-      "2014W",
-      "Design Studio IV: Urban and Regional Public Realms"
-    ]
-  ],
-  "LARC-505": "Landscape Architecture Design Studio V",
-  "LARC-522": "Landscape Architectural History",
-  "LARC-523": "Landscape Architecture Theory",
-  "LARC-525": [
-    [
-      "2020W",
-      "Design Research Methods"
-    ],
-    [
-      "2015W",
-      "Research Methods"
-    ],
-    [
-      "2014W",
-      "Design-Research Methods in Landscape in Landscape Architecture"
-    ]
-  ],
-  "LARC-531": [
-    [
-      "2015W",
-      "Landscape Technologies I"
-    ],
-    [
-      "2014W",
-      "Landscape Technologies I: Site Engineering"
-    ]
-  ],
-  "LARC-532": [
-    [
-      "2015W",
-      "Landscape Technologies II"
-    ],
-    [
-      "2014W",
-      "Landscape Technologies II: Structures and Materials"
-    ]
-  ],
-  "LARC-540": [
-    [
-      "2015W",
-      "Site Analysis and Planning"
-    ],
-    [
-      "2014W",
-      "Site Analysis and Planning II"
-    ]
-  ],
-  "LARC-541": "Landscape Planning and Management",
-  "LARC-551": [
-    [
-      "2015W",
-      "Professional Practice"
-    ],
-    [
-      "2014W",
-      "Professional Practice in Landscape Architecture"
-    ]
-  ],
-  "LARC-553": "Green Network Planning",
-  "LARC-595": "Graduate Project Part I",
   "SOIL-503": "Advanced Soil Sampling, Analyses and Data Interpretation",
   "SOIL-517": "Land and Water Resource Evaluation",
   "PHRM-100": "Foundations of Pharmacy",
@@ -1263,8 +579,6 @@
   "PHRM-346": "Diabesity",
   "PHRM-351": "Practice Management and Leadership",
   "PHRM-361": "Clinical Skills: Administration of Injections",
-  "HINU-102": "Introductory Hindi-Urdu",
-  "HINU-200": "Intermediate Hindi-Urdu",
   "MATH-110": "Differential Calculus",
   "MATH-120": "Honours Differential Calculus",
   "MATH-121": "Honours Integral Calculus",
@@ -1275,7 +589,7 @@
       "Differential Calculus with Applications"
     ],
     [
-      "2014S",
+      "2001W",
       "Differential Calculus with Physical Applications"
     ]
   ],
@@ -1321,7 +635,7 @@
       "Commutative Algebra"
     ],
     [
-      "2017W",
+      "2000W",
       "Topics in Algebra"
     ]
   ],
@@ -1329,23 +643,14 @@
   "MATH-425": "Introduction to Modern Differential Geometry",
   "MATH-426": "Introduction to Topology",
   "MATH-437": "Number Theory",
-  "MATH-441": [
-    [
-      "2017W",
-      "Mathematical Modelling: Discrete Optimization Problems"
-    ],
-    [
-      "2014W",
-      "Mathematical Modeling: Discrete Optimization Problems"
-    ]
-  ],
+  "MATH-441": "Mathematical Modelling: Discrete Optimization Problems",
   "MATH-442": [
     [
       "2019W",
       "Graphs and Networks"
     ],
     [
-      "2014W",
+      "1996W",
       "Optimization in Graphs and Networks"
     ]
   ],
@@ -1365,16 +670,7 @@
   "MATH-555": "Compressed Sensing",
   "MATH-556": "Industrial Mathematical Modelling",
   "MATH-561": "Mathematics of Infectious Diseases and Immunology",
-  "MATH-563": [
-    [
-      "2019W",
-      "Modelling of Cell-Scale Biology"
-    ],
-    [
-      "2016W",
-      "Modeling of Cell-Scale Biology"
-    ]
-  ],
+  "MATH-563": "Modelling of Cell-Scale Biology",
   "MATH-602": "Topics in Geometry",
   "MATH-605": "Topics in Applied Mathematics",
   "MATH-607": "Topics in Numerical Analysis",
@@ -1465,7 +761,7 @@
       "Electroacoustic Music"
     ],
     [
-      "2014W",
+      "1996W",
       "Introduction to Electroacoustic Music"
     ]
   ],
@@ -1510,26 +806,23 @@
   "MUSC-561": "Piano Chamber Ensembles",
   "MUSC-562": "Wind and Percussion Chamber Ensembles",
   "MUSC-563": "Contemporary Players",
-  "MUSC-565": "World Music Ensembles",
+  "MUSC-565": [
+    [
+      "2016W",
+      "World Music Ensembles"
+    ],
+    [
+      "2016W",
+      "WORLD MUSIC ENS"
+    ],
+    [
+      "1996W",
+      "ASIAN MUSIC ENS"
+    ]
+  ],
   "MUSC-569": "Intensive Specialized Chamber Ensemble",
   "MUSC-593": "Music Performance (Major)",
   "MUSC-606": "Readings in Orchestral Repertoire",
-  "GERM-121": "German Fairy Tales and Popular Culture (in English)",
-  "GERM-206": "Exile, Flight and Migration (in English)",
-  "GERM-300": "Intermediate German III",
-  "GERM-301": "German Literature 1900 - 1945 (in English)",
-  "GERM-302": "German Literature after 1945 (in English)",
-  "GERM-304": "German Cinema (in English)",
-  "GERM-305": "The Culture of Nazism (in English)",
-  "GERM-310": "Intermediate German IV",
-  "GERM-313": "Conversational German II",
-  "GERM-325": "German Translation",
-  "GERM-390": "Progress and Disaster: Studies in the 20th and 21st Centuries",
-  "GERM-400": "Advanced German I",
-  "GERM-402": "Words and Music in German Literature (in English)",
-  "GERM-406": "Selected Topics in German Literature",
-  "GERM-408": "Selected Issues in German Culture",
-  "GERM-412": "German Media Studies (in English)",
   "URST-352": "Urbanization in the Global South",
   "URST-400": "Seminar in Urban Studies",
   "SOCI-100": "Introduction to Sociology",
@@ -1539,7 +832,7 @@
       "Ethnicity"
     ],
     [
-      "2014W",
+      "1996S",
       "Ethnic Relations"
     ]
   ],
@@ -1551,7 +844,7 @@
       "Work and Society"
     ],
     [
-      "2014W",
+      "1996W",
       "Technology, Work and Society"
     ]
   ],
@@ -1569,7 +862,7 @@
       "Work and Inequality"
     ],
     [
-      "2014W",
+      "1998W",
       "Organization of Work"
     ]
   ],
@@ -1615,7 +908,7 @@
       "Sustainability and Resilience in Planning"
     ],
     [
-      "2014W",
+      "1996W",
       "Planning Theory"
     ]
   ],
@@ -1664,62 +957,6 @@
   "PLAN-587": "Urban Design",
   "PLAN-602": "Planning Theory Advanced Seminar",
   "PLAN-603": "Ph.D. Colloquium",
-  "HUNU-500": "Research Methods in Human Nutrition",
-  "HUNU-510": "Nutrition Assessment Across the Lifespan",
-  "HUNU-540": "Advances in Food Theory and Applications",
-  "HUNU-545": "Counselling Skills in Dietetics",
-  "HUNU-550": "Advances in Human Nutrition",
-  "HUNU-573": "Population and Public Health Dietetics",
-  "HUNU-575": "Nutrition Care I",
-  "JAPN-160": "Intensive Beginning Japanese I",
-  "JAPN-260": "Intensive Beginning Japanese II",
-  "JAPN-320": "Intermediate Japanese I A",
-  "JAPN-321": "Intermediate Japanese I B",
-  "JAPN-322": "Intermediate Japanese II A",
-  "JAPN-323": "Intermediate Japanese II B",
-  "JAPN-400": "Advanced Modern Japanese: Reading and Writing I",
-  "JAPN-401": "Advanced Modern Japanese: Reading and Writing II",
-  "JAPN-422": "Classical Japanese I",
-  "JAPN-424": "Japanese for Professional Life I",
-  "JAPN-452": "Readings in Modern Japanese Essays",
-  "JAPN-465": "Japanese Media and Translation",
-  "LFS-100": "Introduction to Land, Food and Community",
-  "LFS-101": "Principles of Microeconomics with Applications to Land and Food Systems",
-  "LFS-110": "Land One: First-year Integrative Seminar",
-  "LFS-150": "Scholarly Writing and Argumentation in Land and Food Systems",
-  "LFS-250": [
-    [
-      "2018W",
-      "Land, Food and Community I: Introduction to Food Systems and Sustainability"
-    ],
-    [
-      "2014W",
-      "Land, Food and Community I"
-    ]
-  ],
-  "LFS-252": "Land, Food, and Community: Quantitative Data Analysis",
-  "LFS-340": "First Nations Health and the Traditional Role of Plants",
-  "LFS-350": [
-    [
-      "2018W",
-      "Land, Food, and Community II: Principles and Practice of Community Food Security"
-    ],
-    [
-      "2014W",
-      "Land, Food, and Community II"
-    ]
-  ],
-  "LFS-400": "Audio Storytelling",
-  "LFS-450": [
-    [
-      "2018W",
-      "Land, Food, and Community III: Leadership in Campus Food System Sustainability"
-    ],
-    [
-      "2014W",
-      "Land, Food, and Community III: Food System Sustainability"
-    ]
-  ],
   "TIBT-100": "Introduction to Tibetan I",
   "TIBT-101": "Introduction to Tibetan II",
   "MEDG-419": "Developmental Origin of Human Disorders",
@@ -1805,78 +1042,6 @@
   "RGST-400": "Advanced Seminar in the Study of Religion",
   "THFL-100": "The Art of Storytelling for Stage and Screen",
   "THFL-402": "Professional Portfolio Preparation for Live and Digital Performance",
-  "LIBE-463": "Selection of Learning Resources I",
-  "LIBE-467": "Information Services I",
-  "LIBR-504": "Management of Information Organizations",
-  "LIBR-506": "Human-Information Interaction",
-  "LIBR-507": "Methods of Research and Evaluation in Information Organizations",
-  "LIBR-508": "Information Practices in Contemporary Society",
-  "LIBR-509": "Foundations of Resource Description and Knowledge Organization",
-  "LIBR-516": "Information Asset Management",
-  "LIBR-520": "Survey of Literature and Other Materials for Children",
-  "LIBR-526": "Literature and Other Materials for Young Adults",
-  "LIBR-527": "Services for Children",
-  "LIBR-533": "Legal Information Sources and Services",
-  "LIBR-534": "Health Information Sources and Services",
-  "LIBR-535": "Instructional Role of the Librarian",
-  "LIBR-541": "New Media for Children and Young Adults",
-  "LIBR-553": "Understanding Information Users in Diverse Environments",
-  "LIBR-555": "Information Design I - Systems",
-  "LIBR-556": "Information Design II - Documents",
-  "LIBR-561": "Information Policy",
-  "LIBR-564": "Information Practice and Protocol in Support of Indigenous Initiatives",
-  "LIBR-565": "Progressive and Radical Information Work",
-  "LIBR-570": "Marketing in Information Organizations",
-  "LIBR-571": "Human Resources Management",
-  "LIBR-576": "Public Libraries",
-  "LIBR-579": "Topics in the Management of Libraries and Archives",
-  "LIBR-580": "Collection Management",
-  "LIBR-582": "Digital Image and Text Collections",
-  "LIBR-597": "Research Collaboration",
-  "LING-100": "Introduction to Language and Linguistics",
-  "LING-140": "Challenging Language Myths",
-  "LING-170": "Introduction to How to Learn a Language",
-  "LING-209": "Clinical Topics in Speech, Language, and Hearing Sciences",
-  "LING-242": "Computational Tools for Linguistic Analysis",
-  "LING-300": "Studies in Grammar",
-  "LING-308": "The Languages of Africa",
-  "LING-311": "Studies in Phonology",
-  "LING-313": "Introduction to Linguistic Phonetics and Speech Science",
-  "LING-314": "Instrumental Phonetics",
-  "LING-319": [
-    [
-      "2018W",
-      "Historical Linguistics"
-    ],
-    [
-      "2014W",
-      "Comparative and Historical Linguistics"
-    ]
-  ],
-  "LING-327": "Introduction to Semantics",
-  "LING-333": "Research Methods for Linguistics",
-  "LING-342": "Computational Models of Language",
-  "LING-345": "Pragmatics",
-  "LING-405": "Morphology",
-  "LING-410": "Advanced Phonology",
-  "LING-415": "Language Across Time, Geography, and Society",
-  "LING-421": "Advanced Syntax",
-  "LING-425": "Advanced Semantics",
-  "LING-431": "Field Methods I",
-  "LING-440": "Language as a Social Instrument",
-  "LING-445": "Sociolinguistics",
-  "LING-447": "Topics in Linguistics",
-  "LING-451": "Acquisition of Phonology",
-  "LING-452": "Acquisition of Syntax",
-  "LING-508": "Phonetic Theory & Analysis",
-  "LING-510": "Phonological Theory and Analysis",
-  "LING-511": "Topics in Phonology",
-  "LING-518": "Advanced Research Seminar",
-  "LING-525": "Semantic Theory and Analysis",
-  "LING-527": "Topics in Semantics",
-  "LING-530": "Linguistic Problems in a Special Area",
-  "LING-531": "Field Methods in Linguistics I",
-  "LING-532": "Field Methods in Linguistics II",
   "UFOR-100": "Greening the City",
   "UFOR-110": "Introduction to Urban Forest Design",
   "UFOR-200": "Urban Forests and Well-Being",
@@ -1902,144 +1067,13 @@
   "SURG-517": "Clinical Research Methods for Surgical Procedures with Global Surgical Comparisons",
   "SURG-518": "Surgical Care in Canada's Rural and Remote Indigenous Communities with Global Comparisons",
   "SURG-560": "Global Surgical Care Field Practicum",
-  "LLED-200": "Introduction to Writing in Academic and Professional Registers",
-  "LLED-201": "Critical Reading and Writing in Academic and Professional Registers",
-  "LLED-212": "Introduction to Language Communities and Variation in Language Practices",
-  "LLED-220": "Introduction to Translating in a Globalized Society",
-  "LLED-222": "Introduction to Public and Private Language Practices in a Globalized Society",
-  "LLED-223": "Introduction to the Nature of World Englishes",
-  "LLED-423": "Teaching French Adolescent Literature: Secondary",
-  "LLED-441": "Introduction to Teaching Children's Literature",
-  "LLED-452": [
-    [
-      "2016W",
-      "Disciplinary Literacies: Intermediate Through Secondary"
-    ],
-    [
-      "2014W",
-      "Literacy in the Content Areas: Intermediate Through Secondary"
-    ]
-  ],
-  "LLED-462": "School Library Resource Centre Programs",
-  "LLED-481": "Digital Media in English Language Arts Education",
-  "LLED-510": "Language, Discourse and Identity",
-  "LLED-520": "Theory and Research in Teaching of Modern Languages",
-  "LLED-553": "Theoretical Foundations of ESL/EL Reading Pedagogy",
-  "LLED-556": "Theory and Research in Early Literacy",
-  "LLED-558": "Literacy and Multimodality",
-  "LLED-572": "Theory and Research in Teaching English as a Second Language",
-  "LLED-574": "Theory and Research in Teaching Second Language Writing",
-  "LLED-577": "Culture and Politics in Second Language Education",
-  "LLED-601": "Theories for Language and Literacy Research",
-  "LLED-602": "Critical Analysis of Issues and Methodology in Language and Literacy Education",
-  "GEOG-121": [
-    [
-      "2015W",
-      "Geography, Environment and Globalization"
-    ],
-    [
-      "2014W",
-      "Geography, Modernity and Globalization I"
-    ]
-  ],
-  "GEOG-122": [
-    [
-      "2015W",
-      "Geography, Modernity and Globalization"
-    ],
-    [
-      "2014S",
-      "Geography, Modernity and Globalization II"
-    ]
-  ],
-  "GEOG-202": "Climate Emergency",
-  "GEOG-211": "The State of the Earth",
-  "GEOG-290": "Introduction to the Geography of Canada",
-  "GEOG-302": "Climate Justice",
-  "GEOG-311": "Urban Environments",
-  "GEOG-313": "Environmental Justice and Social Change",
-  "GEOG-314": "Analysing Environmental Problems",
-  "GEOG-316": "Geography of Natural Hazards",
-  "GEOG-319": "Environmental Impact Assessment",
-  "GEOG-327": "Creating Canada",
-  "GEOG-328": "Constructing Canada",
-  "GEOG-345": "Theory and Practice in Human Geography",
-  "GEOG-346": "Topics in Geography",
-  "GEOG-351": "Urban Environmental Politics",
-  "GEOG-352": "Urbanization in the Global South",
-  "GEOG-353": "Geographies of Migration and Settlement",
-  "GEOG-361": [
-    [
-      "2021W",
-      "Critical Geographies of the Economy"
-    ],
-    [
-      "2014W",
-      "Introduction to Economic Geography"
-    ]
-  ],
-  "GEOG-362": "Geography of Economic Development",
-  "GEOG-364": "Globalization, Cities, and Regions",
-  "GEOG-371": [
-    [
-      "2021W",
-      "Research Strategies in Geography"
-    ],
-    [
-      "2014W",
-      "Research Strategies in Human Geography"
-    ]
-  ],
-  "GEOG-374": "Statistics in Geography",
-  "GEOG-391": "Modern Europe: Places and Borders",
-  "GEOG-395": [
-    [
-      "2017W",
-      "Culture, Nature, and Coloniality in Latin America"
-    ],
-    [
-      "2014W",
-      "Introduction to the Changing Landscapes of Latin America"
-    ]
-  ],
-  "GEOG-412": "Water Management: Theory, Policy, and Practice.",
-  "GEOG-419": "Research in Environmental Geography",
-  "GEOG-424": "Feminist Geographies",
-  "GEOG-432": "Radical Traditions of Decolonization and Liberation",
-  "GEOG-446": "Topics in Geography",
-  "GEOG-450": "Urban Research",
-  "GEOG-453": "Political Geographic Analysis",
-  "GEOG-484": "Geography of Southeast Asia",
-  "GEOG-495": "Geographies of Social Movements in the Americas",
-  "GEOG-514": "Topics in Environmental Geography",
-  "GEOG-520": "Themes and Interpretive Issues in Modern Human Geography",
-  "GEOG-525": "Cultures of Nature in Contemporary Political Ecologies",
-  "GEOG-545": "Topics in Human Geography",
   "SOWK-200": "Introduction to Social Welfare",
   "SOWK-201": "Introduction to Social Work Practice",
-  "SOWK-305": [
-    [
-      "2019W",
-      "Topics in Social Work Practice I"
-    ],
-    [
-      "2014W",
-      "Social Work Practice I"
-    ]
-  ],
+  "SOWK-305": "Topics in Social Work Practice I",
   "SOWK-310": "Interviewing Skills",
   "SOWK-316": "Integrative Seminar in Social Work Theory, Policy and Practice",
   "SOWK-325": "Indigenous Peoples and Critical Social Work Analysis",
-  "SOWK-335": [
-    [
-      "2019W",
-      "Topics in Social Analysis for Social Work Practice"
-    ],
-    [
-      "2014W",
-      "Social Analysis for Social Work Practice"
-    ]
-  ],
+  "SOWK-335": "Topics in Social Analysis for Social Work Practice",
   "SOWK-337": "Culture and Race in Social Work Practice",
   "SOWK-400": "Canadian Social Policy",
   "SOWK-405": "Social Work Practice II",
@@ -2069,43 +1103,6 @@
   "NAME-578": "Marine Engineering",
   "NAME-581": "Ship Design",
   "NAME-591": "Computer-Aided Ship Design Project",
-  "HGSE-355": "Applied Ecology of Coastal Terrestrial Ecosystems",
-  "HGSE-356": "Biophysical Dynamics of the Marine-Terrestrial Interface",
-  "HGSE-357": "Ecology and Management of Island Wildlife",
-  "HGSE-358": [
-    [
-      "2016W",
-      "Systems Thinking for Resource Management"
-    ],
-    [
-      "2014W",
-      "Conservation Ecology: Applications of Multiple Sources of Ecological Knowledge"
-    ]
-  ],
-  "HGSE-359": "Ecosystem-Based Management Seminar",
-  "HGSE-360": "Ocean People, Culture and Tradition",
-  "HGSE-361": "Fisheries Co-Management of the North Pacific Coast",
-  "HGSE-371": "Re-Storying History: Indigenous Perspective",
-  "HGSE-394": "Marine Conservation in British Columbia",
-  "GEOS-102": "Our Changing Environment: Climate and Ecosystems",
-  "GEOS-200": "Atmospheric Environments",
-  "GEOS-206": "Geomorphic Processes and Hazards",
-  "GEOS-207": "Introduction to Biogeography",
-  "GEOS-300": "Microscale Weather and Climate",
-  "GEOS-303": "Tropical Ecosystems in a Changing World",
-  "GEOS-305": "Introduction to Hydrology",
-  "GEOS-306": "Paleoecology: Lessons for the Anthropocene",
-  "GEOS-308": "Quaternary and Applied Geomorphology",
-  "GEOS-370": "Advanced Geographic Information Science",
-  "GEOS-372": "Cartography",
-  "GEOS-373": "Introductory Remote Sensing",
-  "GEOS-401": "Urban Meteorology",
-  "GEOS-405": "Fluvial Geomorphology",
-  "GEOS-407": "Vegetation Dynamics: Disturbance, Climate and Human Impacts",
-  "GEOS-472": "Research in Cartography",
-  "GEOS-479": "Research in Geographic Information Science",
-  "GEOS-500": "Theory and Practice of Research in Geographical Sciences",
-  "GEOS-503": "Topics in Geomorphology and Hydrology",
   "NURS-300": "Theoretical and Professional Foundations for Nursing Practice",
   "NURS-310": "Basic Principles of Pharmacology for Nursing Practice",
   "NURS-330": "Theoretical Perspectives in Nursing: Adults/Older Adults and their Families",
@@ -2138,113 +1135,8 @@
   "NURS-599": "Master's Thesis",
   "SPE-503": "Sustainable Bioenergy and Biorefinery",
   "SPE-505": "Technology Commercialization for the Manufacturing Industries",
-  "LATN-102": [
-    [
-      "2019W",
-      "Beginning Latin II"
-    ],
-    [
-      "2014W",
-      "First-Year Latin II"
-    ]
-  ],
-  "LATN-201": [
-    [
-      "2019W",
-      "Intermediate Latin I"
-    ],
-    [
-      "2014W",
-      "Second-Year Latin I"
-    ]
-  ],
-  "LATN-202": [
-    [
-      "2019W",
-      "Intermediate Latin II"
-    ],
-    [
-      "2014W",
-      "Second-Year Latin II"
-    ]
-  ],
-  "LATN-350": "Latin Literature of the Classical Period (Prose)",
-  "LATN-351": "Latin Literature of the Classical Period (Verse)",
   "PUNJ-200": "Intermediate Punjabi",
   "PUNJ-300": "Advanced Punjabi",
-  "ITAL-110": "Made in Italy (in English)",
-  "ITAL-201": [
-    [
-      "2020W",
-      "Elementary Italian I"
-    ],
-    [
-      "2014W",
-      "Second-Year Italian I"
-    ]
-  ],
-  "ITAL-202": [
-    [
-      "2020W",
-      "Elementary Italian II"
-    ],
-    [
-      "2014W",
-      "Second-Year Italian II"
-    ]
-  ],
-  "ITAL-301": [
-    [
-      "2020W",
-      "Intermediate Italian I"
-    ],
-    [
-      "2014W",
-      "Third-Year Italian I"
-    ]
-  ],
-  "ITAL-302": [
-    [
-      "2020W",
-      "Intermediate Italian II"
-    ],
-    [
-      "2014W",
-      "Third-Year Italian II"
-    ]
-  ],
-  "ITAL-303": [
-    [
-      "2022W",
-      "Italian Literature and Culture of the Medieval and Early Modern Period (in English)"
-    ],
-    [
-      "2017W",
-      "Italian Literature and Culture of the Medieval and Early Modern Period"
-    ]
-  ],
-  "ITAL-304": [
-    [
-      "2022W",
-      "Italian Literature and Culture of the Modern and Contemporary Age (in English)"
-    ],
-    [
-      "2020W",
-      "Italian Literature and Culture of the Modern and Contemporary Age"
-    ]
-  ],
-  "ITAL-345": "Italian Fascism in Interdisciplinary Perspective (in English)",
-  "ITAL-385": "Italian Cinema: Neorealism (in English)",
-  "ITAL-403": [
-    [
-      "2022W",
-      "Dante Alighieri's Divine Comedy (in English)"
-    ],
-    [
-      "2014W",
-      "Dante Alighieri's Divine Comedy"
-    ]
-  ],
   "PPGA-500": "Economics for Policy",
   "PPGA-503": "Measurement and Data Analysis for Policy",
   "PPGA-504": "Policy Analysis and Evaluation",
@@ -2294,16 +1186,7 @@
   "PHYS-301": "Electricity and Magnetism",
   "PHYS-304": "Introduction to Quantum Mechanics",
   "PHYS-305": "Introduction to Biophysics",
-  "PHYS-306": [
-    [
-      "2017W",
-      "Advanced Mechanics"
-    ],
-    [
-      "2014W",
-      "Mechanics"
-    ]
-  ],
+  "PHYS-306": "Advanced Mechanics",
   "PHYS-309": "Electrical Laboratory",
   "PHYS-312": "Introduction to Mathematical Physics",
   "PHYS-319": "Electronics Laboratory",
@@ -2338,7 +1221,7 @@
       "Quantum Field Theory I"
     ],
     [
-      "2014W",
+      "1999W",
       "Quantum Electrodynamics"
     ]
   ],
@@ -2382,7 +1265,7 @@
       "Professional Development of the Occupational Therapist I"
     ],
     [
-      "2018S",
+      "2017W",
       "Professional Practice I"
     ]
   ],
@@ -2417,7 +1300,7 @@
       "Hopscotch: Topics in Hispanic Literature (in English)"
     ],
     [
-      "2015W",
+      "2000W",
       "Topics in Latin American Literature in Translation"
     ]
   ],
@@ -2427,7 +1310,7 @@
       "The Golden Age of Peninsular Literature and Culture"
     ],
     [
-      "2014W",
+      "2004W",
       "Survey of Peninsular Literature and Culture from the Origins to 1700"
     ]
   ],
@@ -2437,7 +1320,7 @@
       "Divergent Visions: Peninsular Literature and Culture since 1700"
     ],
     [
-      "2014W",
+      "2004W",
       "Survey of Peninsular Literature and Culture from 1700 to the Present"
     ]
   ],
@@ -2447,7 +1330,7 @@
       "Colonial Encounters in Spanish-American Literature and Culture"
     ],
     [
-      "2014W",
+      "2004W",
       "Survey of Spanish-American Literature and Culture to the 1820s"
     ]
   ],
@@ -2457,7 +1340,7 @@
       "Modern Magics: Spanish-American Literature and Culture since the 1820s"
     ],
     [
-      "2014W",
+      "2004W",
       "Survey of Spanish-American Literature and Culture since the 1820s"
     ]
   ],
@@ -2475,26 +1358,8 @@
       "Advanced Translation: Spanish-English"
     ]
   ],
-  "SPAN-404": [
-    [
-      "2019W",
-      "From World to Screen: Topics in Hispanic Cinema"
-    ],
-    [
-      "2014W",
-      "Topics in Hispanic Cinema"
-    ]
-  ],
-  "SPAN-406": [
-    [
-      "2018W",
-      "Breaking the Mold: Gender Representation(s) in Hispanic Literature and Culture"
-    ],
-    [
-      "2014W",
-      "Gender Representation(s) in Hispanic Literature and Culture"
-    ]
-  ],
+  "SPAN-404": "From World to Screen: Topics in Hispanic Cinema",
+  "SPAN-406": "Breaking the Mold: Gender Representation(s) in Hispanic Literature and Culture",
   "SPAN-490": [
     [
       "2019W",
@@ -2511,20 +1376,11 @@
       "Hispanic Cinema"
     ],
     [
-      "2014W",
+      "2001W",
       "Studies in Hispanic Cinema"
     ]
   ],
-  "SPAN-520": [
-    [
-      "2019W",
-      "Golden-Age Literatures and Cultures"
-    ],
-    [
-      "2014W",
-      "Golden-Age Literature"
-    ]
-  ],
+  "SPAN-520": "Golden-Age Literatures and Cultures",
   "SPAN-550": [
     [
       "2020W",
@@ -2541,21 +1397,12 @@
       "Contemporary Latin-American Literatures and Cultures"
     ],
     [
-      "2014W",
+      "1999W",
       "Twentieth-Century Spanish-American Literature"
     ]
   ],
   "MIDW-101": "Counselling for Maternity Care Providers",
-  "MIDW-102": [
-    [
-      "2022W",
-      "Birth and its Meanings"
-    ],
-    [
-      "2014W",
-      "Birth and its Meaning"
-    ]
-  ],
+  "MIDW-102": "Birth and its Meanings",
   "MIDW-103": "Applied Health Services for Maternity Providers",
   "MIDW-104": [
     [
@@ -2563,22 +1410,13 @@
       "Lactation and Infant Feeding for Maternity Care Providers"
     ],
     [
-      "2014W",
+      "2011W",
       "Lactation Consultation for Maternity Care Providers"
     ]
   ],
   "MIDW-106": "Reproductive Anatomy and Physiology",
   "MIDW-107": "Physical Assessment",
-  "MIDW-108": [
-    [
-      "2022W",
-      "Theoretical Foundations for Midwifery Practice"
-    ],
-    [
-      "2017W",
-      "Foundations for Midwifery Practice"
-    ]
-  ],
+  "MIDW-108": "Theoretical Foundations for Midwifery Practice",
   "MIDW-115": "Research Methods for Midwives",
   "MIDW-120": "Midwifery and Social Justice",
   "MIDW-125": "Pharmacology for Maternity Care Providers",
@@ -2603,7 +1441,7 @@
       "Theory for Advanced Midwifery Care"
     ],
     [
-      "2014W",
+      "2011W",
       "Advanced Topics in Midwifery Theory and Practice"
     ]
   ],
@@ -2630,7 +1468,7 @@
       "Nanomedicine"
     ],
     [
-      "2014W",
+      "2004W",
       "Pharmacy Skills II"
     ]
   ],
@@ -2664,23 +1502,14 @@
   "PSYC-350": "Psychological Aspects of Human Sexuality",
   "PSYC-358": "Evolutionary Psychology",
   "PSYC-359": "Advanced Research Methods in Behavioural Sciences",
-  "PSYC-361": [
-    [
-      "2018W",
-      "Neuroscience of Motivation"
-    ],
-    [
-      "2014W",
-      "Motivation"
-    ]
-  ],
+  "PSYC-361": "Neuroscience of Motivation",
   "PSYC-363": [
     [
       "2018W",
       "Neuroscience of Simple Learning"
     ],
     [
-      "2014W",
+      "1997W",
       "Principles of Animal Learning"
     ]
   ],
@@ -2748,29 +1577,7 @@
   "VANT-150": "Sustainability and Engineering Design",
   "PORT-101": "First-Year Portuguese I",
   "PORT-102": "First-Year Portuguese II",
-  "PORT-392": [
-    [
-      "2019W",
-      "Studies in Portuguese and Brazilian Literature (in English)"
-    ],
-    [
-      "2014W",
-      "Studies in Portuguese and Brazilian Literature"
-    ]
-  ],
-  "HPB-501": "Green Building Contemporary Practice",
-  "HPB-502": "Regenerative Development",
-  "HPB-503": "Whole Building Energy Modelling and Simulation",
-  "HPB-506": "Capstone: New Building Energy Systems Design",
-  "INFO-100": "(De)coding Information and Why it Matters",
-  "INFO-200": "Foundations of Informatics",
-  "INFO-250": "Networks, Crowds, and Communities",
-  "INFO-300": "Information and Data Design",
-  "INFO-301": "Digital Cultural Collections",
-  "INFO-303": "Search Engines and Society",
-  "INFO-419": "Information Visualization",
-  "INFO-441": "Media Design for Contemporary Childhood",
-  "INFO-456": "Information Policy and Society",
+  "PORT-392": "Studies in Portuguese and Brazilian Literature (in English)",
   "MTRL-201": "Technical Communication",
   "MTRL-250": [
     [
@@ -2782,21 +1589,12 @@
       "Principles and Calculations in Materials Engineering"
     ],
     [
-      "2014W",
+      "2004W",
       "Metallurgical Thermodynamics I"
     ]
   ],
   "MTRL-251": "Thermodynamics of Materials II",
-  "MTRL-263": [
-    [
-      "2015W",
-      "Transport Phenomena I - Fluid Mechanics"
-    ],
-    [
-      "2014W",
-      "Transport Phenomena I"
-    ]
-  ],
+  "MTRL-263": "Transport Phenomena I - Fluid Mechanics",
   "MTRL-264": "Transport Phenomena II - Heat Transport",
   "MTRL-280": "Materials in Design",
   "MTRL-320": "Management of Engineering Design",
@@ -2804,16 +1602,7 @@
   "MTRL-358": "Hydrometallurgy I",
   "MTRL-359": "Hydrometallurgy I Laboratory",
   "MTRL-361": "Modelling of Materials Processes",
-  "MTRL-363": [
-    [
-      "2015W",
-      "Transport Phenomena III - Mass Transport"
-    ],
-    [
-      "2014W",
-      "Transport Phenomena II"
-    ]
-  ],
+  "MTRL-363": "Transport Phenomena III - Mass Transport",
   "MTRL-365": "Mechanical Behaviour of Materials",
   "MTRL-378": "Phase Transformations",
   "MTRL-381": "Structure and Properties Laboratory",
@@ -2824,7 +1613,7 @@
       "Polymers and Polymer Matrix Composites"
     ],
     [
-      "2014W",
+      "2004W",
       "Polymer and Polymer Matrix Composites"
     ]
   ],
@@ -2857,137 +1646,6 @@
   "RMST-355": "Italian Cinema: Neorealism",
   "RMST-361": "Studies in Portuguese and Brazilian Literature",
   "RMST-419": "Studies in Romance Languages and Literature",
-  "HIST-100": "What is History?",
-  "HIST-101": "World History to Oceanic Contact",
-  "HIST-102": "World History from 1500 to the Twentieth Century",
-  "HIST-103": "World History Since 1900",
-  "HIST-104": "Topics in World History",
-  "HIST-105": "Contemporary Global Issues in Historical Perspective",
-  "HIST-106": "Global Environmental History",
-  "HIST-107": "Global Indigenous Histories",
-  "HIST-108": "Global History of Capitalism",
-  "HIST-201": "History Through Photographs",
-  "HIST-202": "Gateway to the Middle Ages",
-  "HIST-235": "History of Canada: Moments that Matter",
-  "HIST-236": "Public History in Canada: Memory, Representation, and Interpretation",
-  "HIST-237": "History of the United States",
-  "HIST-240": "Health, Illness and Medicine I: From the Ancient World to the Early Modern Period",
-  "HIST-250": "Latin American History",
-  "HIST-260": "Science and Society in the Contemporary World",
-  "HIST-271": "Japan and Global History, 1550 - 1900",
-  "HIST-279": "Steppe Empires in World History",
-  "HIST-280": "Islamic World History",
-  "HIST-302": "History of the Indigenous Peoples of North America",
-  "HIST-304": "Researching Local History from the Ground Up",
-  "HIST-305": [
-    [
-      "2018W",
-      "History of British Columbia"
-    ],
-    [
-      "2014W",
-      "British Columbia"
-    ]
-  ],
-  "HIST-311": "The British Empire after 1850",
-  "HIST-319": "Britain, 1945 to the Present",
-  "HIST-325": "Canada 1896-1945: Boom, Bust and War",
-  "HIST-326": "Canada Since 1945: Affluence and Anxiety in the Atomic Age.",
-  "HIST-330": "History of the Global Financial Order",
-  "HIST-333": "Third-Year Honours Seminar",
-  "HIST-339": "The United States Since 1945: The Limits of Power",
-  "HIST-342": "Modern Jewish History",
-  "HIST-347": "Medieval and Imperial Russian History, 998 to 1800",
-  "HIST-351": "East Central Europe in the 19th and 20th Centuries",
-  "HIST-352": [
-    [
-      "2021W",
-      "Modern Middle Eastern History"
-    ],
-    [
-      "2020W",
-      "Modern Middle Eastern Histrory"
-    ]
-  ],
-  "HIST-353": "Special Topics in Middle Eastern History",
-  "HIST-354": "The Ottoman Empire",
-  "HIST-356": "Twentieth-Century Germany",
-  "HIST-363": "Europe in the Early Middle Ages",
-  "HIST-365": "Europe During the Renaissance",
-  "HIST-366": "Europe During the Reformation",
-  "HIST-367": "Europe in the Age of the Enlightenment",
-  "HIST-368": "Europe in the 19th Century",
-  "HIST-369": "Europe, 1900-1950",
-  "HIST-370": "Europe Since 1950",
-  "HIST-373": "History of Hong Kong",
-  "HIST-379": [
-    [
-      "2015W",
-      "History of Later Imperial China"
-    ],
-    [
-      "2014W",
-      "Later Imperial China"
-    ]
-  ],
-  "HIST-380": "The Making of Modern China: Nationalism, War, Revolution",
-  "HIST-381": "Imperialism and Nationalism in Southeast Asia",
-  "HIST-382": "Post-Colonial Southeast Asia",
-  "HIST-385": "India from Raj to Republic",
-  "HIST-386": "Korea Since 1860",
-  "HIST-393": "Introduction to History and Philosophy of Science",
-  "HIST-394": "Darwin, Evolution, and Modern History",
-  "HIST-396": "Environmental History of North America",
-  "HIST-403": "Seminar in the History of International Relations",
-  "HIST-406": "The Second World War",
-  "HIST-408": [
-    [
-      "2015W",
-      "U.S. Foreign Relations from Independence to World War II"
-    ],
-    [
-      "2014W",
-      "American Foreign Policy, 1870 to 1945"
-    ]
-  ],
-  "HIST-409": [
-    [
-      "2015W",
-      "U.S. Foreign Relations since 1945"
-    ],
-    [
-      "2014W",
-      "American Foreign Policy, 1945 to Present"
-    ]
-  ],
-  "HIST-414": "Constitutions in Canadian History: From Pre-Contact to the Charter of Rights",
-  "HIST-418": "The 1960s in Global Perspective",
-  "HIST-420": "Topics in Canadian History",
-  "HIST-421": "Honours Tutorial",
-  "HIST-432": [
-    [
-      "2018W",
-      "International Relations in the Twentieth Century"
-    ],
-    [
-      "2014S",
-      "International Relations of the Great Powers in the Twentieth Century"
-    ]
-  ],
-  "HIST-433": "Fourth-Year Honours Seminar",
-  "HIST-443": "History of North American Children and Youth",
-  "HIST-449": "Honours Essay",
-  "HIST-453": "Class and Culture in Latin America",
-  "HIST-460": "Revolution and Resistance in the Third World",
-  "HIST-478": "Medieval Portraits and Personalities",
-  "HIST-485": "Asian Migrant Communities in Vancouver",
-  "HIST-490": "Seminar for Majors in History",
-  "HIST-547": "Readings: Special Topics in History",
-  "HIST-548": "Historiography",
-  "HIST-585": "Topics in Cultural History",
-  "HIST-586": "Topics in Intellectual History",
-  "HIST-594": "Readings in Aboriginal History",
-  "HIST-599": "M.A. Research Seminar",
   "URSY-510": "Urban Systems and Society",
   "URSY-520": [
     [
@@ -3001,20 +1659,10 @@
   ],
   "URSY-540": "Urban Systems Project Delivery and Economics",
   "URSY-550": "Infrastructure Asset Management",
-  "INDS-502": "Interdisciplinary Studies: Thematic Seminars",
   "MECH-220": "Technical Skills Practicum",
   "MECH-221": "Engineering Science I",
   "MECH-222": "Engineering Science II",
-  "MECH-223": [
-    [
-      "2016W",
-      "Introduction to the Mechanical Design Process"
-    ],
-    [
-      "2014W",
-      "Mechanical Design"
-    ]
-  ],
+  "MECH-223": "Introduction to the Mechanical Design Process",
   "MECH-225": "Integration of Engineering Concepts II",
   "MECH-226": "Technical Communication for Mechanical Engineers",
   "MECH-260": "Introduction to Mechanics of Materials",
@@ -3027,7 +1675,7 @@
       "Machine Design"
     ],
     [
-      "2014W",
+      "2005W",
       "Mechanical Design I"
     ]
   ],
@@ -3037,7 +1685,7 @@
       "Thermodynamics II"
     ],
     [
-      "2014W",
+      "2005W",
       "Thermal System Design"
     ]
   ],
@@ -3045,16 +1693,7 @@
   "MECH-329": "Materials for Mechanical Design",
   "MECH-358": "Engineering Analysis",
   "MECH-360": "Mechanics of Materials",
-  "MECH-366": [
-    [
-      "2017W",
-      "Modelling of Mechatronic Systems"
-    ],
-    [
-      "2014W",
-      "Modeling of Mechatronic Systems"
-    ]
-  ],
+  "MECH-366": "Modelling of Mechatronic Systems",
   "MECH-368": "Engineering Measurements and Instrumentation",
   "MECH-375": [
     [
@@ -3062,7 +1701,7 @@
       "Heat Transfer"
     ],
     [
-      "2014W",
+      "1996W",
       "Heat Transfer I"
     ]
   ],
@@ -3078,7 +1717,7 @@
       "Mechatronic Product Design"
     ],
     [
-      "2014W",
+      "2010W",
       "Biomechatronics"
     ]
   ],
@@ -3099,30 +1738,12 @@
   "MECH-466": "Automatic Control",
   "MECH-467": "Computer Control of Mechatronics Systems",
   "MECH-468": "Modern Control Engineering",
-  "MECH-469": [
-    [
-      "2017W",
-      "Dynamic System Modelling"
-    ],
-    [
-      "2015W",
-      "Dynamic System Modeling"
-    ]
-  ],
+  "MECH-469": "Dynamic System Modelling",
   "MECH-470": "Energy Conversion Systems",
   "MECH-473": "Heating, Ventilating and Air Conditioning",
   "MECH-477": "Aerospace Propulsion",
   "MECH-478": "Internal Combustion Engines",
-  "MECH-479": [
-    [
-      "2020W",
-      "Introduction to Computational Fluid Dynamics"
-    ],
-    [
-      "2014W",
-      "Computational Fluid Dynamics"
-    ]
-  ],
+  "MECH-479": "Introduction to Computational Fluid Dynamics",
   "MECH-481": "Aerodynamics of Aircraft I",
   "MECH-484": "Aircraft Design: Aerodynamics",
   "MECH-485": "Aircraft Design: Structures",
@@ -3157,12 +1778,6 @@
   "WACH-502": "Seminars in Women+ and Children's Health",
   "WACH-521": "Child Health Research",
   "WACH-522": "Pediatric Nutrition",
-  "IGEN-230": "Introduction to Engineering Design",
-  "IGEN-330": "Intermediate Engineering Design",
-  "IGEN-430": "Advanced Engineering Design Projects",
-  "IGEN-450": "Pipeline Engineering",
-  "IGEN-451": "Pipeline Systems and Infrastructure",
-  "IGEN-452": "Pipeline Design",
   "WOOD-120": "Introduction to Wood Products and Global Trade",
   "WOOD-244": "Quantitative Methods in the Wood Industry",
   "WOOD-245": "Programming for Wood Products Manufacturing Applications",
@@ -3184,16 +1799,7 @@
   "WOOD-487": "Wood Composites",
   "WOOD-488": "Wood Products Design and Development I",
   "WOOD-491": "Environmental Facilities Design",
-  "WOOD-492": [
-    [
-      "2017W",
-      "Modelling for Decision Support"
-    ],
-    [
-      "2014W",
-      "Modeling for Decision Support"
-    ]
-  ],
+  "WOOD-492": "Modelling for Decision Support",
   "WOOD-494": "Principles of Wood Cutting and Tooling",
   "WOOD-499": "Wood Products Capstone",
   "THTR-120": "Introduction to Theatre",
@@ -3222,7 +1828,7 @@
       "Studies in Asian Theatre"
     ],
     [
-      "2014W",
+      "2005S",
       "Studies in Non-Western Theatre"
     ]
   ],
@@ -3259,7 +1865,7 @@
       "Cytogenetics, Molecular Genetics, Tissue Culture & Cytology"
     ],
     [
-      "2014W",
+      "2003W",
       "Cytogenetics, Tissue Culture & Cytology"
     ]
   ],
@@ -3279,7 +1885,7 @@
       "Research and Career Skills"
     ],
     [
-      "2014W",
+      "2003W",
       "Laboratory Administration"
     ]
   ],
@@ -3315,96 +1921,6 @@
   "SPHA-562": "Health Care Law",
   "SPHA-563": "Ethics and Ethical Decision Making in Health Care",
   "SPHA-580": "Selected Topics",
-  "GRSJ-102": [
-    [
-      "2017W",
-      "Global Issues in Social Justice"
-    ],
-    [
-      "2014W",
-      "Decolonizing and Feminist Perspectives from Local to Global"
-    ]
-  ],
-  "GRSJ-200": "Gender and Environmental Justice",
-  "GRSJ-225": "Youth Activism and Social Justice",
-  "GRSJ-226": "Human Rights and Artistic Expression: Thinking Beyond the Legal",
-  "GRSJ-230": "Gender, Race, Sexuality, and Representation in Modern Asia",
-  "GRSJ-235": "Gender, Race, Sexuality, and Social Structures in Modern Asia",
-  "GRSJ-302": "Pedagogies of Social Justice",
-  "GRSJ-303": [
-    [
-      "2017W",
-      "Gender, Race, Social Justice and the Law"
-    ],
-    [
-      "2014W",
-      "Gender, Law, and Social Justice"
-    ]
-  ],
-  "GRSJ-305": [
-    [
-      "2017W",
-      "Social Justice Issues in Community and International Organizing"
-    ],
-    [
-      "2014W",
-      "Issues in Community and International Organizing"
-    ]
-  ],
-  "GRSJ-306": "Globalization and Social Justice: Gender, Race, and Sexuality in International Politics",
-  "GRSJ-307": "Gender, Race, Sexuality, and Popular Culture",
-  "GRSJ-310": [
-    [
-      "2017W",
-      "Gender, Race, Social Justice and Health"
-    ],
-    [
-      "2014W",
-      "Issues in Gender and Health"
-    ]
-  ],
-  "GRSJ-315": "Critical Racial Theories",
-  "GRSJ-316": "Queer and Trans of Colour Theorizing",
-  "GRSJ-325": [
-    [
-      "2017W",
-      "Anti-colonial and Feminist Qualitative Methodologies"
-    ],
-    [
-      "2014W",
-      "Decolonizing and Feminist Qualitative Methodologies"
-    ]
-  ],
-  "GRSJ-326": "The Politics of Gender, Families, and Nation-Building",
-  "GRSJ-327": [
-    [
-      "2017W",
-      "Theories of Representation and Difference"
-    ],
-    [
-      "2014W",
-      "Feminist Theories of Representation and Difference"
-    ]
-  ],
-  "GRSJ-328": [
-    [
-      "2017W",
-      "Theories of Subjectivity"
-    ],
-    [
-      "2014W",
-      "Feminist Theories of Subjectivity"
-    ]
-  ],
-  "GRSJ-401": "Body, Gender and Society",
-  "GRSJ-415": "Critical Racial and Anti-Colonial Feminist Approaches",
-  "GRSJ-422": "Advanced Research Seminar",
-  "GRSJ-450": "Directed Studies",
-  "GRSJ-500": "Intersectional Issues in Social Justice and Equality Studies",
-  "GRSJ-501": "Issues in Decolonizing and Feminist Methodologies",
-  "GRSJ-502": "Issues in Gender, Sexuality, and Critical Race Theories",
-  "GRSJ-511": "Difficult Knowledge: Ethics and Praxis of Research in Challenging Settings",
-  "GRSJ-515": "Critical and Creative Social Justice Studies Seminars",
   "RHSC-500": "Advanced Concepts for Rehabilitation Research",
   "RHSC-501": "Evidence for Practice",
   "RHSC-502": "Rehabilitation Theory",
@@ -3416,16 +1932,7 @@
   "RHSC-581": "Writing to Enhance Practice",
   "RHSC-583": "Applying Research to Practice",
   "RES-500": "Resource and Environmental Workshop",
-  "RES-502": [
-    [
-      "2018W",
-      "Master's Seminar on Resources and Environment"
-    ],
-    [
-      "2016W",
-      "Seminar on Resources and Environment"
-    ]
-  ],
+  "RES-502": "Master's Seminar on Resources and Environment",
   "RES-504": "Survey Design in Interdisciplinary Environmental Social Science",
   "RES-505": "Qualitative Methods in Interdisciplinary Contexts",
   "RES-507": "Human Technological Systems",
@@ -3433,12 +1940,6 @@
   "RES-510": "Social Ecological Systems",
   "RES-520": "Climate Change: Science, Technology and Sustainable Development",
   "RES-602": "Doctoral Seminar on Resources and Environment",
-  "LWS-501": "Advanced Soil Processes",
-  "LWS-510": "Land and Water Seminar",
-  "LWS-516": "Urban Watershed Management",
-  "LWS-517": "Land and Water Resource Evaluation",
-  "LWS-525": "Global Issues in Land and Water Systems",
-  "LWS-550": "Professional Communications Strategies",
   "PCTH-201": "Drugs and Society",
   "PCTH-300": "Introduction to Pharmacology",
   "PCTH-302": "Introductory Pharmacology Laboratory",
@@ -3459,8 +1960,6 @@
   "RUSS-306": "Russian Literature in Translation",
   "NRSC-500": "Neuroscience I",
   "NRSC-501": "Neuroscience II",
-  "LASO-204": "Introduction to Law and Society",
-  "LASO-309": "Against the Law",
   "MINE-200": "Mineral Resources Engineering I",
   "MINE-201": "Mineral Resources Engineering II",
   "MINE-293": "Seminar",
@@ -3469,16 +1968,7 @@
   "MINE-310": "Surface Mining and Design",
   "MINE-331": "Physical Mineral Processes",
   "MINE-333": "Flotation",
-  "MINE-350": [
-    [
-      "2017W",
-      "Modelling and Simulation"
-    ],
-    [
-      "2014W",
-      "Modeling and Simulation"
-    ]
-  ],
+  "MINE-350": "Modelling and Simulation",
   "MINE-380": "Mine Waste Management",
   "MINE-396": "Engineering Economics",
   "MINE-402": "Mine Ventilation and Occupational Health and Safety",
@@ -3489,7 +1979,7 @@
       "Strategic Issues in Mining"
     ],
     [
-      "2014W",
+      "2003W",
       "Mine Management"
     ]
   ],
@@ -3501,7 +1991,7 @@
       "Mineral Process Control"
     ],
     [
-      "2014W",
+      "2003W",
       "Industrial Automation and Robotics"
     ]
   ],
@@ -3516,7 +2006,7 @@
       "Mine and Plant Engineering Design Feasibility Study"
     ],
     [
-      "2014W",
+      "2003W",
       "Mine and Plant Feasibility Study"
     ]
   ],
@@ -3547,7 +2037,7 @@
       "Modeling of Industrial Systems"
     ],
     [
-      "2014S",
+      "2004W",
       "Management Science Methods in Engineering"
     ]
   ],
@@ -3602,16 +2092,7 @@
   "MICB-507": "Topics in Molecular Pathogenesis and Immunology",
   "PHIL-100": "Introduction to Philosophy",
   "PHIL-125": "Introduction to Scientific Reasoning",
-  "PHIL-211": [
-    [
-      "2018W",
-      "Greek Philosophy I: Socrates and Plato"
-    ],
-    [
-      "2014W",
-      "Greek Philosophy I"
-    ]
-  ],
+  "PHIL-211": "Greek Philosophy I: Socrates and Plato",
   "PHIL-235": "Contemporary Moral Issues",
   "PHIL-260": "Science and Society in the Contemporary World",
   "PHIL-310": "The Philosophy of Plato",
@@ -3625,7 +2106,7 @@
       "Logic: Metatheory and Computability"
     ],
     [
-      "2014W",
+      "1996W",
       "Symbolic Logic 2"
     ]
   ],
@@ -3635,7 +2116,7 @@
       "Induction, Decision and Game Theory"
     ],
     [
-      "2014W",
+      "1998W",
       "Induction and Decision"
     ]
   ],
@@ -3653,7 +2134,7 @@
       "Introduction to Metaphysics"
     ],
     [
-      "2014W",
+      "1996W",
       "Knowledge and Reality II"
     ]
   ],
@@ -3669,28 +2150,10 @@
   "PHIL-416": "Topics in 19th-Century Philosophy",
   "PHIL-418": "Topics in Twentieth-Century Philosophy",
   "PHIL-431": "Topics in Social and Political Philosophy",
-  "PHIL-432": [
-    [
-      "2017W",
-      "Topics in Ethical Theory"
-    ],
-    [
-      "2014W",
-      "Ethical Theory"
-    ]
-  ],
+  "PHIL-432": "Topics in Ethical Theory",
   "PHIL-441": "Philosophy of Perception",
   "PHIL-448": "Topics in Continental Philosophy",
-  "PHIL-450": [
-    [
-      "2018W",
-      "Topics in Metaphysics"
-    ],
-    [
-      "2014W",
-      "Metaphysics"
-    ]
-  ],
+  "PHIL-450": "Topics in Metaphysics",
   "PHIL-451": "Philosophy of Mind",
   "PHIL-455": "Topics in the Philosophy of Cognitive Science",
   "PHIL-461": "Philosophy of Social Science",
@@ -3707,17 +2170,6 @@
   "PHIL-551": "Philosophy of Mind",
   "MES-300": "The Middle East: Critical Questions and Debates",
   "MES-450": "Directed Studies Project",
-  "JRNL-100": "New Media and Society",
-  "JRNL-400": "Feminist Postcolonial Critique and Journalism in a Digital Age",
-  "JRNL-503": "Journalism Practice and Standards",
-  "JRNL-515": "Integrated Journalism",
-  "JRNL-520": "Special Topics in Contemporary Journalism",
-  "JRNL-533": "Media Ethics & Leadership",
-  "JRNL-534": "Media Law",
-  "JRNL-539": "Directed Studies",
-  "JRNL-540": "Imagine Journalism Studio",
-  "JRNL-550": "Feature Writing",
-  "JRNL-555": "International Reporting",
   "MRNE-400": "Directed Studies",
   "MRNE-415": "Structure and Function in Marine Animals",
   "MRNE-425": "Ecological Adaptations of Seaweeds",
@@ -3763,7 +2215,7 @@
       "Digital Photography"
     ],
     [
-      "2014W",
+      "2010W",
       "Introduction to Digital Photography"
     ]
   ],
@@ -3773,7 +2225,7 @@
       "Print Media"
     ],
     [
-      "2014W",
+      "2004W",
       "Introduction to Print Media"
     ]
   ],
@@ -3783,7 +2235,7 @@
       "Sculpture"
     ],
     [
-      "2014W",
+      "2004W",
       "Basic Sculpture"
     ]
   ],
@@ -3806,7 +2258,7 @@
       "Studio Theory"
     ],
     [
-      "2014W",
+      "2004W",
       "Studio Theory I"
     ]
   ],
@@ -3817,39 +2269,8 @@
   "VISA-480": "Advanced Seminar I",
   "VISA-481": "Advanced Seminar II",
   "POLS-426": "The German Nazi Holocaust in Polish Literature and Film (in English)",
-  "KORN-200": "Intermediate Korean",
-  "KORN-301": "Readings in Korean Topics I",
-  "KORN-302": "Readings in Korean Topics II",
-  "KORN-351": "Introduction to Sino-Korean Readings",
   "OBST-512": "Overview of Gynecologic Oncology",
   "OBST-581": "Knowledge Translation and Implementation Sciences",
-  "GEM-500": "Landscape Ecology and Management",
-  "GEM-510": "Geographic Information Systems for Forestry and Conservation",
-  "GEM-511": "Advanced Geographic Information Systems for Environmental Management",
-  "GEM-520": "Remote Sensing for Ecosystem Management",
-  "GEM-521": "Advanced Earth Observation and Image Processing",
-  "GEM-530": "Geospatial Data Analysis",
-  "GEM-540": "Linear Regression Models and Introduction to Spatial Statistics",
-  "HEBR-101": [
-    [
-      "2020W",
-      "Beginning Biblical Hebrew I"
-    ],
-    [
-      "2014W",
-      "Elementary Biblical Hebrew Part I"
-    ]
-  ],
-  "HEBR-102": [
-    [
-      "2020W",
-      "Beginning Biblical Hebrew II"
-    ],
-    [
-      "2014W",
-      "Elementary Biblical Hebrew Part II"
-    ]
-  ],
   "MECH-231": "Technical Skills Practicum II",
   "MRNE-410": "Marine Invertebrate Zoology",
   "MICB-201": "Introductory Environmental Microbiology",
@@ -3858,50 +2279,14 @@
   "NURS-354": "Theoretical Perspectives in Nursing: Complexities in Seniors Care",
   "NURS-520": "Administrative Leadership in Nursing",
   "PPGA-562": "Resource Governance, Environment and Human Security",
-  "HIST-109": "Cultural Histories of Media: From Writing to Tweeting",
-  "HIST-338": "American Modernity: The United States, 1890-1945",
-  "HIST-405": "Diplomacy and Conflict in the Middle East, 1914 to the Present",
   "PHAR-518": "Diagnostic Imaging and Radiopharmaceuticals",
   "PHAR-548": "M.Sc. Seminar",
   "PHTH-546": "Clinical Decision-Making III",
-  "LFS-490": "Topics in Land and Food Systems",
-  "LIBR-524": "Writing, Publishing and the Book Trade for Children",
-  "LIBR-581": "Digital Libraries",
-  "LLED-445": [
-    [
-      "2017S",
-      "Teaching Poetry"
-    ],
-    [
-      "2014S",
-      "Poetry in Education: Elementary and Middle Years"
-    ]
-  ],
-  "LLED-525": "Bilingual Education: Theory and Practice",
-  "LLED-552": "Theoretical Foundations of Reading Research and Practice",
-  "KIN-515": "Gap Analysis",
-  "IWME-502": "Engineering Hydrology",
   "NEST-312": "Religion in Ancient Egypt",
   "RELG-307": "Sex, Lies, and Violence in the Hebrew Bible",
   "SPPH-555": "Principles and Practices of Injury Prevention",
   "SPPH-576": "Introduction to Indigenous Health Research Ethics",
   "SPPH-578": "Social Determinants of Indigenous Health",
-  "LARC-510": "Advanced Field Studies in Landscape Architecture",
-  "LARC-570": [
-    [
-      "2021S",
-      "Co-operative Education"
-    ],
-    [
-      "2018S",
-      "Co-op Work Placement"
-    ],
-    [
-      "2014S",
-      "Internship"
-    ]
-  ],
-  "LARC-580": "Directed Studies in Design Analysis, Programming and Theory",
   "MECH-493": "Introduction to Academic Research",
   "MECH-515": "Emerging Topics in Applied Mechanics",
   "MECH-520": "Control Sensors and Actuators",
@@ -3935,29 +2320,6 @@
   "RHSC-514": "Neuroimaging: Basic Concepts and Applications to Research and Practice",
   "RHSC-517": "Society and Human Occupation",
   "RHSC-587": "Major Project, Part I",
-  "LAIS-608": "Academic and Research Practices in Library, Archival and Information Studies",
-  "GRSJ-301": [
-    [
-      "2018W",
-      "Gender, Race and Indigeneity in Canada"
-    ],
-    [
-      "2014W",
-      "Gender and Indigeneity in Canada"
-    ]
-  ],
-  "GRSJ-304": "Gaming the System: Digital Media, Social Justice, and Video Games",
-  "GRSJ-320": "Feminist Anti-Racist Pedagogies",
-  "GRSJ-410": [
-    [
-      "2019W",
-      "Religious Feminisms"
-    ],
-    [
-      "2017W",
-      "Religious Feminism"
-    ]
-  ],
   "MICB-401": "Environmental Microbiology Laboratory",
   "MICB-421": "Experimental Microbiology",
   "MICB-447": [
@@ -3985,17 +2347,7 @@
       "Mineral Resource Development and Canadian Aboriginal People"
     ]
   ],
-  "JRNL-420": "Decoding Social Media",
-  "PHIL-212": [
-    [
-      "2018W",
-      "Greek Philosophy II: Aristotle and After"
-    ],
-    [
-      "2014W",
-      "Greek Philosophy II"
-    ]
-  ],
+  "PHIL-212": "Greek Philosophy II: Aristotle and After",
   "PHIL-362": "History and Philosophy of Economics from Aristotle to Adam Smith",
   "PHIL-378": "Philosophical Wisdom of Early India",
   "PHIL-440": "Topics in Epistemology",
@@ -4006,7 +2358,6 @@
   "OBST-506": "Seminars in Reproductive Biology",
   "OBST-510": "Gynecologic Pathologies: Benign and Malignant",
   "OBST-511": "Women's Mental Health across their Lifecycle",
-  "HEBR-201": "Intermediate Biblical Hebrew I",
   "POLS-200": "Beginner's Polish",
   "VISA-240": [
     [
@@ -4014,23 +2365,12 @@
       "Photography"
     ],
     [
-      "2014W",
+      "2004W",
       "Introduction to Photography"
     ]
   ],
-  "KORN-410": "Modern Korean Short Fiction",
-  "KORN-420": "Readings in Middle and Early Modern Korean",
   "PHYS-503": "Condensed Matter Physics II",
-  "PHYS-508": [
-    [
-      "2017W",
-      "Quantum Field Theory II"
-    ],
-    [
-      "2014W",
-      "Quantum Field Theory"
-    ]
-  ],
+  "PHYS-508": "Quantum Field Theory II",
   "PHYS-521": "Group Theory Methods in Quantum Mechanics",
   "PHYS-534": "Radiotherapy Physics I",
   "PHYS-535": "Radiotherapy Physics II",
@@ -4039,18 +2379,21 @@
   "PHYS-542": "Nuclear Magnetic Resonance Imaging",
   "PHYS-560": "Physics and Engineering of Particle Accelerators",
   "PHYS-571": "Physical Cosmology",
-  "ITAL-401": [
+  "NURS-549": "Quantitative Research Methods and Analytic Strategies in Nursing and Health Sciences",
+  "NURS-554": [
     [
-      "2020W",
-      "Upper-Intermediate Italian I"
+      "2017W",
+      "Advanced Research Methods"
     ],
     [
-      "2015W",
-      "Advanced Studies in Italian Language and Style I"
+      "2016W",
+      "ADV RSRCH METHOD"
+    ],
+    [
+      "2004W",
+      "ADV QUANT DESIGN"
     ]
   ],
-  "NURS-549": "Quantitative Research Methods and Analytic Strategies in Nursing and Health Sciences",
-  "NURS-554": "Advanced Research Methods",
   "NURS-581": [
     [
       "2016W",
@@ -4061,7 +2404,6 @@
       "The Genealogy of Nursing Knowledge"
     ]
   ],
-  "LATN-503": "Studies in Latin Prose and Verse",
   "SPAN-206": "Conversational Spanish I",
   "SPAN-207": "Conversational Spanish II",
   "SPAN-280": [
@@ -4070,7 +2412,7 @@
       "Revolution! (in English)"
     ],
     [
-      "2015W",
+      "2012W",
       "Selected Topics on Revolution in Latin America (in English)"
     ]
   ],
@@ -4080,7 +2422,7 @@
       "Tradition and Diversity in Spanish History and Culture"
     ],
     [
-      "2014W",
+      "2011W",
       "Introduction to Spanish Civilization and Culture"
     ]
   ],
@@ -4102,21 +2444,12 @@
       "Transatlantic Hispanic Literatures and Cultures"
     ],
     [
-      "2016W",
+      "1999W",
       "Studies in Peninsular and Latin-American Culture"
     ]
   ],
   "PORT-201": "Second-Year Portuguese I",
-  "PORT-405": [
-    [
-      "2019W",
-      "Studies in Portuguese and Brazilian Culture (In English)"
-    ],
-    [
-      "2017W",
-      "Studies in Portuguese and Brazilian Culture"
-    ]
-  ],
+  "PORT-405": "Studies in Portuguese and Brazilian Culture (In English)",
   "MDVL-310": "Topics in Medieval Studies",
   "PSYC-270": "Introduction to Behavioural Neuroscience",
   "PSYC-303": "Tests and Measurements",
@@ -4133,77 +2466,11 @@
   "PSYC-583": "Special Topics in Cognition",
   "PSYC-587": "Cognitive Development",
   "PSYC-590": "Survey of Social Psychology I",
-  "HIST-241": "Health, Illness and Medicine II: The Modern World from 1700 to the Present",
-  "HIST-256": "History of Africa",
-  "HIST-259": "Science, Medicine, and Technology in the Ancient and Medieval Worlds",
-  "HIST-273": "History of India",
-  "HIST-312": "Southern Africa",
-  "HIST-318": "Early Twentieth-Century Britain",
-  "HIST-321": "Honours Tutorial",
-  "HIST-323": [
-    [
-      "2017W",
-      "Empires, Wars, and Revolutions in Europe and the Americas,1763-1838"
-    ],
-    [
-      "2014W",
-      "The Atlantic Revolutions,1763-1838"
-    ]
-  ],
-  "HIST-334": [
-    [
-      "2021W",
-      "African-American History, 1450 - 1850"
-    ],
-    [
-      "2014W",
-      "Senegambia to South Carolina, Ghana to Georgia: African-American History, 1450 - 1850"
-    ]
-  ],
-  "HIST-335": [
-    [
-      "2021W",
-      "African-American History, 1850 to the Present"
-    ],
-    [
-      "2014W",
-      "From Slavery to Citizenship and Beyond: African-American History, 1850 to the Present"
-    ]
-  ],
-  "HIST-340": "Histories of the American West",
-  "HIST-357": "History of Mexico",
-  "HIST-358": "State and Society in 20th century Cuba",
-  "HIST-378": [
-    [
-      "2015W",
-      "History of Early China"
-    ],
-    [
-      "2014W",
-      "Early China"
-    ]
-  ],
-  "HIST-388": "India in the Early Modern World: Mughals, Merchants, and Marauders",
-  "HIST-390": "Topics in History",
-  "HIST-391": "Human Rights in World History",
-  "HIST-399": "Theory and Practice of History",
-  "HIST-404": "The First World War",
-  "HIST-413": "Imagining the Nation: 19th- and 20th-Century Canada",
-  "HIST-419": "Crime and Punishment in Canadian History",
-  "HIST-440": "History of Global Health",
-  "HIST-464": "First Contacts in the Pacific",
-  "HIST-479": "Cultural History of Imperial China",
-  "HIST-483": "Asian Migrations to the Americas",
-  "HIST-500": "Readings in Canadian History",
-  "HIST-575": "Readings in International and Global History",
-  "HIST-595": "Public History",
-  "HIST-597": "Topics in Comparative History",
   "RMST-300": "History of the Romance Languages",
   "MTRL-442": "Coatings and Surface Modification",
   "MTRL-489": "Seminar III",
   "MTRL-517": "Case Studies in Advanced Materials Manufacturing",
   "MTRL-571": "Advanced Nanofibre Technology",
-  "GBPR-501": "Biomass Fractionation Chemistry",
   "MEDG-535": "Genetics and Ethics",
   "MEDG-545": "Current Topics in Medical Genetics Research",
   "PLAN-503": "Planning for Community Economic Development",
@@ -4224,13 +2491,10 @@
       "Facilitation, Negotiation and Conflict Resolution for Planners"
     ],
     [
-      "2015S",
+      "1996W",
       "Planning and Negotiation in Natural Resources Management"
     ]
   ],
-  "JAPN-402": "Advanced Modern Japanese: Conversation and Composition I",
-  "JAPN-450": "Advanced Oral Communication I",
-  "JAPN-453": "Readings in Modern Japanese Literature",
   "SOCI-383": "Sociological Methods: Historical Research",
   "SOCI-418": "Social Statistics II",
   "SOCI-420": "Sociology of the Environment",
@@ -4238,17 +2502,6 @@
   "SOCI-430": "Global Citizenship",
   "SOCI-441": "Society, Economy and Family",
   "SOCI-502": "Research Design and Techniques (Quantitative)",
-  "GEOB-500": [
-    [
-      "2021W",
-      "Theory and Practice of Research in Geographical Sciences"
-    ],
-    [
-      "2014W",
-      "Contemporary Research Trends in Physical Geography"
-    ]
-  ],
-  "GEOB-503": "Topics in Geomorphology and Hydrology",
   "SCAN-337": "Scandinavian Cinema (in English)",
   "PHTH-580": "Orthopaedic Clinical Reasoning and Skills",
   "PHTH-581": [
@@ -4257,45 +2510,11 @@
       "Evidence and Theory in Musculoskeletal Physical Therapy"
     ],
     [
-      "2018W",
+      "2017W",
       "Evidence and Theory in Manipulative Therapy"
     ]
   ],
-  "GEOG-220": "Geopolitics",
-  "GEOG-312": "Climate Change: Science and Society",
-  "GEOG-321": "Historical Geography of Urbanization: Cities, Space, and Power",
-  "GEOG-329": [
-    [
-      "2017W",
-      "Political Geography"
-    ],
-    [
-      "2014W",
-      "Introduction to Political Geography"
-    ]
-  ],
-  "GEOG-423": "Development of Environmental Thought",
-  "GEOG-457": "Social and Behavioural Geography",
-  "GEOG-498": "Geographies of the Middle East",
-  "GEOG-547": "Directed Reading in Human Geography",
-  "LING-270": "Introduction to Studies in Second Language Acquisition",
-  "LING-433": "Native Languages of the Americas",
-  "LING-513": "Topics in Phonetics",
-  "LLED-213": "Introduction to Intercultural Communication and Socialization in Multicultural Contexts",
-  "LLED-479": "The Education of Immigrant Students",
-  "LLED-480": "Advanced Studies in Language and Literacy Education",
-  "LLED-501": "Analyzing Discourse and Talk: An Overview of Methods",
-  "LLED-526": "Second Language Assessment: Conceptual and Empirical Approaches",
-  "LLED-540": "Introduction to Research in the Teaching of Literature",
   "SURG-542": "Directed Study in Global Surgical Care",
-  "LIBR-523": "Canadian Literature and other Materials for Children",
-  "LIBR-528": "Services for Young Adults",
-  "LIBR-539": "Specialized Materials",
-  "LIBR-548": "Issues in Information Services",
-  "LIBR-588": "Theory and Practice of Oral History",
-  "GEOS-307": "Biogeography and Global Change",
-  "GEOS-402": "Air Pollution Meteorology",
-  "GEOS-415": "River Restoration: Science and Society",
   "RELG-201": "Near Eastern and Biblical Mythology",
   "RELG-203": "Scriptures of the Near East",
   "RELG-206": "Introduction to Judaism and its Texts",
@@ -4311,22 +2530,6 @@
   "POLI-446": "Multiculturalism and Identity Politics",
   "POLI-462": "International Relations Theory",
   "POLI-563": "International Organization",
-  "ISCI-330": "Topics in Integrated Sciences",
-  "ITST-110": [
-    [
-      "2019W",
-      "\"Made in Italy\""
-    ],
-    [
-      "2014W",
-      "Introduction to Italian Literature and Culture"
-    ]
-  ],
-  "ITST-231": "Introduction to Italian Culture I: From the Middle Ages to the Early Modern Period",
-  "ITST-232": "Introduction to Italian Culture II: From the Modern to the Post-Colonial Age",
-  "ITST-234": "Introduction to Italian Cinema",
-  "ITST-333": "Masterpieces of the Novella in Italian Literature",
-  "ITST-419": "Topics in Modern and Contemporary Italian Literature and Culture in Translation",
   "NEST-301": [
     [
       "2017W",
@@ -4343,21 +2546,19 @@
       "Ancient Egypt: The Archaeology of the Land of the Pharaohs"
     ],
     [
-      "2014W",
+      "2004W",
       "Art and Archaeology of Ancient Egypt"
     ]
   ],
   "NEST-501": "Studies in Near Eastern Archaeology in the Iron Age",
   "NEST-505": "Literature of Ancient Egypt and the Ancient Near East",
-  "INLB-252": "Introduction to Gender Justice and Indigenous Communities",
-  "LARC-542": "Aesthetics and Sustainability",
   "SPPH-510": [
     [
       "2016W",
       "Survey Methods in Health Measurement"
     ],
     [
-      "2014W",
+      "2008W",
       "Measurement of Health Care"
     ]
   ],
@@ -4365,17 +2566,6 @@
   "SPPH-531": "Health Care Systems Analysis",
   "SPPH-532": "Environmental Health Risk Assessment and Communication",
   "SPPH-565": "Ergonomics",
-  "GREK-202": [
-    [
-      "2019W",
-      "Intermediate Ancient Greek II"
-    ],
-    [
-      "2014W",
-      "Second-Year Ancient Greek II"
-    ]
-  ],
-  "GREK-503": "Studies in Ancient Greek Prose and Verse",
   "MUSC-136": "Piano Repertoire I",
   "MUSC-235": "Opera Repertoire II",
   "MUSC-249": "Collaborative Piano II",
@@ -4398,9 +2588,6 @@
   "MUSC-530": "Topics in Ethnomusicology",
   "MUSC-538": "Staging and Directing Opera",
   "MUSC-591": "Music Performance (Major)",
-  "GERM-314": "Business German",
-  "GERM-360": "Heaven and Earth: Studies in German Culture and Literature before 1700.",
-  "GERM-426": "German Representations of the Holocaust (in English)",
   "MATH-102": "Differential Calculus with Applications to Life Sciences",
   "MATH-103": "Integral Calculus with Applications to Life Sciences",
   "MATH-104": "Differential Calculus with Applications to Commerce and Social Sciences",
@@ -4410,16 +2597,7 @@
   "MATH-310": "Abstract Linear Algebra",
   "MATH-313": "Topics in Number Theory",
   "MATH-345": "Applied Nonlinear Dynamics and Chaos",
-  "MATH-360": [
-    [
-      "2017W",
-      "Mathematical Modelling in Science"
-    ],
-    [
-      "2015W",
-      "Mathematical Modeling in Science"
-    ]
-  ],
+  "MATH-360": "Mathematical Modelling in Science",
   "MATH-402": "Calculus of Variations",
   "MATH-414": "Mathematical Demonstrations",
   "MATH-503": "Discrete Mathematics",
@@ -4444,7 +2622,7 @@
       "Watershed Science"
     ],
     [
-      "2014W",
+      "2012W",
       "Integrated Watershed Management"
     ]
   ],
@@ -4452,39 +2630,22 @@
   "SOIL-524": "Instrumentation for Biometeorology",
   "POLI-322": "Japanese Government and Politics",
   "POLI-463": "International Interdependence",
-  "GERM-303": "German Literature Before 1900 (in English)",
-  "GEOB-103": "Our Changing Environment: Water and Landscapes",
-  "GEOB-270": "Geographic Information Science",
   "PLAN-591": "Land Use and Environmental Policy",
   "PLAN-597": "Planning for Water Resources Management",
   "SOCI-210": "Canadian Social Structure",
-  "LLED-442": "Trends and Issues in Teaching Children's Literature",
   "MTRL-512": "Material Optimization for the Manufacture of Structural Metallic Components",
   "WOOD-449": "Directed Studies in Wood Products Processing",
   "MECH-599": "Thesis",
-  "HEBR-202": "Intermediate Biblical Hebrew II",
-  "GRS-300": "Global Water and Energy Nexus",
   "NURS-590": "Directed Studies in Nursing",
-  "LWS-515": [
-    [
-      "2018W",
-      "Watershed Science"
-    ],
-    [
-      "2017W",
-      "Integrated Watershed Management"
-    ]
-  ],
   "PSYC-534": "Clinical Psychology Practicum",
   "PSYC-547": "Reading and Conference",
-  "HIST-549": "Master's Thesis",
   "MTRL-252": [
     [
       "2017W",
       "Thermodynamics of Materials I"
     ],
     [
-      "2014W",
+      "2006W",
       "Pyrometallurgy"
     ]
   ],
@@ -4494,34 +2655,11 @@
       "Thermodynamics of Materials II"
     ],
     [
-      "2014W",
+      "2004W",
       "Metallurgical Thermodynamics II"
     ]
   ],
   "STAT-589": "M.Sc. Project",
-  "GEOG-448": "Directed Studies in Geography",
-  "LAW-340": "Comparative Law",
-  "LAW-351": "Topics in Human Rights",
-  "LAW-367": "Reproduction and Law",
-  "LAW-390": "Environmental Law Workshop",
-  "LAW-410": "International Taxation",
-  "LAW-418": "Resolution of Labour Disputes",
-  "LAW-424": "Communications Law",
-  "LAW-426": "Topics in Law and Technology",
-  "LAW-508": "Business Organizations",
-  "LAW-556": "Topics in Common Law Theory and Practice: Private and Commercial Law",
-  "LAW-559": "Family Law",
-  "LAW-610": "Doctoral Seminar I: Issues in Legal Theory",
-  "LAW-611": "Doctoral Seminar II: Comparative and Interdisciplinary Perspectives on Legal Theory",
-  "LIBR-592": "Directed Research Project",
-  "LIBR-594": "Directed Study",
-  "HGSE-370": "Introduction to Resilience Theory in Community",
-  "KIN-321": "Chronic Health Issues and Physical Activity",
-  "KIN-363": "Leisure, Sport and Popular Culture",
-  "KIN-460": "Aging, Health, and Society",
-  "KIN-484": "Advanced Seminar in Indigenous Sport, Physical Activity and Health",
-  "KIN-486": "Advanced Seminar in Psychology of Movement",
-  "KIN-516": "Psychology of Leadership and Group Processes",
   "RELG-101": [
     [
       "2021W",
@@ -4535,7 +2673,6 @@
   "RELG-306": "Archaeology and the Bible",
   "RELG-330": "The Origins of Judaism",
   "RELG-414": "The Gospels and the Historical Jesus",
-  "ITST-380": "Italian Food Cultures",
   "NEST-313": "Introduction to Middle Egyptian",
   "NEST-402": "The Archaeology of the City in the Ancient Near East",
   "NEST-506": "The Archaeology of the City in the Ancient Near East",
@@ -4555,8 +2692,16 @@
   "PHYS-523": "Quantum Electronics and Nonlinear Optics",
   "PHYS-530": "Topics in General Relativity Theory",
   "PHYS-531": "Particle Detection Techniques",
-  "PHYS-541": "Nuclear Medicine",
-  "LATN-403": "Studies in Latin Prose and Verse",
+  "PHYS-541": [
+    [
+      "2020W",
+      "Nuclear Medicine"
+    ],
+    [
+      "2001W",
+      "Nuc Medicine"
+    ]
+  ],
   "PPGA-543": "Sustainable Water Systems",
   "PPGA-581": "Behavioural Foundations for Public Policy",
   "SPAN-222": [
@@ -4565,7 +2710,7 @@
       "Introduction to Hispanic Culture"
     ],
     [
-      "2014W",
+      "2012W",
       "Introduction to the Analysis of Hispanic Cultural Texts"
     ]
   ],
@@ -4585,7 +2730,7 @@
       "Literary and Cultural Theory"
     ],
     [
-      "2014W",
+      "1999W",
       "Theoretical Approaches to Literature"
     ]
   ],
@@ -4605,34 +2750,15 @@
       "Peer Teaching in Pharmacy Skills"
     ],
     [
-      "2014W",
+      "2013W",
       "Peer Teaching in Pharmacy Skills II"
     ]
   ],
   "RMST-222": "Literatures and Cultures of the Romance World II: Modern to Post-Modern",
   "RMST-420": "Studies in Romance Languages and Literature",
-  "HIST-310": "The British Empire to 1850",
-  "HIST-313": "Africa from Imperialism to Independence",
-  "HIST-317": "Britain, 1850-1918",
-  "HIST-341": "Medieval Jewish History",
-  "HIST-346": [
-    [
-      "2018W",
-      "History of Modern France"
-    ],
-    [
-      "2014W",
-      "France Since the Revolution"
-    ]
-  ],
-  "HIST-350": "The Soviet Union",
-  "HIST-376": "Modern Japanese History Since 1800",
-  "HIST-415": "History of Vancouver",
-  "HIST-450": "Selected Topics in Latin American History",
   "MTRL-392": "Engineering Technical Communication",
   "MTRL-398": "Engineering Written Communication",
   "MTRL-595": "Advanced Biomaterials",
-  "GRS-497": "Regional Directed Field Studies",
   "MECH-230": "Technical Skills Practicum I",
   "MECH-232": "Introduction to the Mechanical Design Process I",
   "MECH-233": "Introduction to the Mechanical Design Process II",
@@ -4644,7 +2770,6 @@
   "RUSS-323": "Fantastic Worlds in Russian Fiction (in English)",
   "RUSS-400": "Fourth-Year Russian",
   "PCTH-448": "Directed Studies in Pharmacology",
-  "GRSJ-311": "African/Black Women in the Americas",
   "RHSC-515": "Physical Activity in Health and Chronic Conditions",
   "MICB-505": "Molecular Microbiology",
   "MINE-304": "Rock Fragmentation",
@@ -4673,7 +2798,6 @@
   "PHIL-420": "Topics in Symbolic Logic",
   "PHIL-489": "Directed Reading",
   "PHIL-525": "Philosophy of Language",
-  "LASO-350": "Topics in Law and Society",
   "VISA-352": "Intermediate Print Media III: Interdisciplinary Approaches to Image Production",
   "RELG-313": "Modern Jewish Ethics in Historical Perspective",
   "RELG-316": "The Origins of Christianity: Literary Contexts",
@@ -4697,17 +2821,13 @@
   "POLI-424": "Ethics in Democratic Politics",
   "POLI-514": "Comparative Western Governments",
   "POLI-540": "Core Seminar in Political Theory",
-  "ITST-345": "Italian Fascism in Interdisciplinary Perspective",
-  "ITST-377": "Cultural Exchange between Modern Italy and China",
-  "ITST-385": "Italian Cinema: Neorealism",
-  "ITST-414": "Topics in the Italian Literature and Culture of the Middle Ages in Translation",
   "NEST-303": [
     [
       "2016W",
       "History of Ancient Egypt"
     ],
     [
-      "2014W",
+      "2004W",
       "History of Ancient Eygpt"
     ]
   ],
@@ -4725,25 +2845,6 @@
   "NEST-500": "Studies in Near Eastern Archaeology in the Bronze Age",
   "STS-501": "Proseminar in Science and Technology Studies",
   "STS-502": "Core Seminar in Science and Technology Studies",
-  "LARC-440": "SITE ANALYSIS AND PLANNING II",
-  "LARC-515": [
-    [
-      "2016W",
-      "Planting Design"
-    ],
-    [
-      "2014W",
-      "A Behavioural Approach to Planting Design"
-    ]
-  ],
-  "LAW-310": "Economic Analysis of Law",
-  "LAW-368": "Sexuality and Law",
-  "LAW-386": "Sustainable Development Law",
-  "LAW-403": "Principles of Sentencing",
-  "LAW-412": "Taxation of Trusts and Estates",
-  "LAW-443": "Creditors' Remedies",
-  "LAW-465": "Introduction to Corporate Finance",
-  "LAW-549": "Master's Thesis",
   "MATH-427": "Topics in Topology",
   "MATH-502": "Algebra II",
   "MATH-508": "Complex Analysis",
@@ -4757,9 +2858,6 @@
   "MUSC-207": "Composition II",
   "MUSC-352": "History of Medieval Music",
   "MUSC-420": "Music Technology Capstone Project",
-  "GERM-404": "Religion and German Literature (in English)",
-  "KIN-467": "Sport Marketing and Communication",
-  "KIN-567": "Human Motor Performance",
   "SOIL-518": "Water in International Development",
   "PHRM-301": "Selected Topics",
   "PHRM-321": "Travel Health",
@@ -4770,82 +2868,27 @@
   "SOCI-560": "Culture and Knowledge",
   "SOCI-584": "Health, Illness and Society",
   "PLAN-550": "Directed Studies",
-  "JAPN-456": "Newspaper Japanese I",
   "PERS-300": [
     [
       "2019W",
       "Intermediate-High Persian I"
     ],
     [
-      "2017W",
+      "2012W",
       "Advanced Persian I"
     ]
   ],
-  "GEOB-102": "Our Changing Environment: Climate and Ecosystems",
-  "GEOB-200": "Atmospheric Environments",
-  "GEOB-206": "Geomorphic Processes and Hazards",
-  "GEOB-207": "Introduction to Biogeography",
-  "GEOB-300": "Microscale Weather and Climate",
-  "GEOB-305": "Introduction to Hydrology",
-  "GEOB-307": "Biogeography and Global Change",
-  "GEOB-308": "Quaternary and Applied Geomorphology",
-  "GEOB-370": "Advanced Geographic Information Science",
-  "GEOB-372": "Cartography",
-  "GEOB-373": "Introductory Remote Sensing",
-  "GEOB-402": "Air Pollution Meteorology",
-  "GEOB-405": "Fluvial Geomorphology",
-  "GEOB-407": "Vegetation Dynamics: Disturbance, Climate and Human Impacts",
-  "GEOB-472": "Research in Cartography",
-  "GEOB-479": "Research in Geographic Information Science",
-  "GEOB-504": "Topics in Climate Studies",
   "STAT-535": "Statistical Computing",
   "STAT-548": "Directed Studies in Statistics",
   "SCAN-415": "The World of the Sagas (in English)",
   "ONCO-548": "Oncology Rotation",
-  "LLED-454": "Adolescent Literacies: Processes and Practices",
-  "LLED-570": "Theory and Research in English Language Education: Discourse Perspectives",
-  "GEOG-380": [
-    [
-      "2017W",
-      "Geography of Asia"
-    ],
-    [
-      "2014W",
-      "Introduction to the Geography of Asia"
-    ]
-  ],
-  "GEOG-497": "The Arctic",
-  "GEOG-535": "International Migration and Settlement",
-  "GEOG-551": "Urban Social Geography",
-  "GEOG-560": "Economic Geography",
   "SOWK-522": "Family Mediation and Conflict Resolution",
   "SOWK-529": "Communities and Social Development: Debates, Approaches and Fields of Practice",
   "SOWK-654": "Advanced Qualitative Inquiry",
   "PRHC-501": "Foundations in Primary Health Care I",
-  "LIBR-511": "Cataloguing and Classification",
-  "LIBR-557": "Information Retrieval Systems: Concepts and Practice",
-  "LIBR-569": "Current Issues and Trends in Library Services and Information Science",
-  "HGSE-352": [
-    [
-      "2016W",
-      "First Nations Governance and Natural Resource Management"
-    ],
-    [
-      "2014W",
-      "First Nations and Natural Resources"
-    ]
-  ],
-  "LIBR-593": "Seminar",
-  "GPP-562": "Resource Governance, Environment and Human Security",
-  "GPP-591": "Special Topics in Public Policy",
   "POLI-427": "Issues in Chinese Politics and Development",
-  "LARC-581": "Directed Studies in Landscape Planning and Sustainability",
-  "GRS-397": "Regional Directed Field Studies",
   "MINE-497": "Directed Studies",
   "PHYS-101": "Energy and Waves",
-  "HIST-482": "Chinese Migration",
-  "GRSJ-503": "Special Topics in Feminist Studies",
-  "LAIS-607": "Doctoral Proseminar",
   "RUSS-411": "Tolstoy in Translation",
   "THTR-301": "Styles of Decor and Dress",
   "THTR-407": "Lighting Design II",
@@ -4855,7 +2898,7 @@
       "Mechanical Design"
     ],
     [
-      "2014W",
+      "2005W",
       "Mechanical Design II"
     ]
   ],
@@ -4875,13 +2918,12 @@
       "Financial Accounting"
     ],
     [
-      "2014W",
+      "2008W",
       "Financial Reporting"
     ]
   ],
   "OBST-502": "Physiology of the Mother, Fetus and Newborn",
   "OBST-504": "Reproductive Endocrinology II",
-  "KORN-415": "Korean Conversation and Composition",
   "POLS-300": "Intermediate Polish",
   "VISA-361": "Intermediate Sculpture II",
   "VISA-490": "Advanced Tutorial in Studio I",
@@ -4912,44 +2954,18 @@
       "Colonial Latin-American Literatures and Cultures"
     ],
     [
-      "2016W",
+      "2006W",
       "Spanish-American Colonial Literature"
     ]
   ],
   "PHYS-107": "Enriched Physics 1",
   "PHYS-109": "Enriched Experimental Physics",
-  "PHYS-315": [
-    [
-      "2018W",
-      "Quantum Physics of Materials"
-    ],
-    [
-      "2014W",
-      "Physics of Materials"
-    ]
-  ],
+  "PHYS-315": "Quantum Physics of Materials",
   "PHYS-533": "Laser Physics",
   "PHYS-539": "Radiation Dosimetry",
   "MTRL-458": "Hydrometallurgy II",
-  "INDS-530": "Directed Studies",
   "SOAL-440": "Supervised Study in South Asian Languages",
   "RMST-221": "Literatures and Cultures of the Romance World I: Medieval to Early Modern",
-  "HIST-331": "The United States, 1865-1900: Labour, Race, Gender, and Empire",
-  "HIST-349": "Imperial Russian History, 1800 to 1917",
-  "HIST-392": "Scientific Revolution: Circulation of Knowledge in the Early Modern World",
-  "HIST-395": "The Nuclear Century: Scientists, Atoms, and the World Order Since 1900",
-  "HIST-447": "Selected Topics in United States History",
-  "HIST-456": [
-    [
-      "2016W",
-      "Race in the Americas"
-    ],
-    [
-      "2014W",
-      "Africans in the Americas"
-    ]
-  ],
-  "HIST-487": "History of Alternative and Complementary Medicine: Acupuncture to Yoga",
   "PSYC-504": "Special Topics in Health Psychology",
   "PSYC-556": "Psychological Treatment of Childhood Disorders",
   "MEDI-560": "Pulmonary Pathophysiology",
@@ -4960,7 +2976,7 @@
       "Directed Studies in Clinical Pharmacy"
     ],
     [
-      "2014S",
+      "1996W",
       "Problems in Clinical Pharmacy"
     ]
   ],
@@ -4974,36 +2990,13 @@
       "Pharmaceutical Toxicology"
     ],
     [
-      "2014W",
+      "1996W",
       "Environmental and Cellular Toxicology"
     ]
   ],
   "PHAR-450": "Selected Topics",
   "PHAR-453": "Directed Studies in Pharmacy Practice",
   "PHAR-458": "Pharmacotherapy in Oncology",
-  "GEOB-309": [
-    [
-      "2016W",
-      "Geographical Sciences Field Course"
-    ],
-    [
-      "2014W",
-      "Geographical Biogeosciences Field Course"
-    ]
-  ],
-  "GEOB-401": "Urban Meteorology",
-  "GEOB-406": "Watershed Geomorphology",
-  "GEOB-408": [
-    [
-      "2019W",
-      "The Changing Cryosphere"
-    ],
-    [
-      "2014W",
-      "Snow and Ice Processes"
-    ]
-  ],
-  "GEOB-507": "Directed Studies in Physical Geography",
   "PERS-201": [
     [
       "2019W",
@@ -5014,8 +3007,6 @@
       "Intermediate Persian II"
     ]
   ],
-  "JAPN-423": "Classical Japanese II",
-  "LFS-501": "Approaches to the Integration of Knowledge",
   "PLAN-534": "Introduction to Geographic Information Systems",
   "SOCI-344": "Sociology of Aging",
   "SOCI-461": "Political Sociology",
@@ -5024,96 +3015,8 @@
   "SOCI-550": "Social Interaction",
   "SOCI-596": "Political Sociology and Social Movements",
   "SANS-400": "Intermediate Sanskrit",
-  "HGSE-350": "Case Studies in Haida Gwaii",
-  "HGSE-351": "History and Politics of Resource Management",
-  "HGSE-354": "Diversifying Resource-Dependent Communities",
-  "HGSE-362": "Marine Protected Areas and Marine Spatial Planning",
-  "HGSE-364": "Haida Gwaii Marine Conservation Seminar",
-  "LIBR-532": "Science and Technology Information Sources and Services",
-  "GEOG-390": "Geography of Selected Regions",
-  "GEOG-481": "Geography of Japan",
-  "GEOG-496": "Geography of Africa",
   "UFOR-101": "Urban Forest Inventory and Assessment",
   "UFOR-201": "Introduction to Urban Forest Design",
-  "LING-432": "Field Methods II",
-  "LING-520": "Syntactic Theory and Analysis",
-  "LAW-201": "Canadian Constitutional Law",
-  "LAW-251": "Public Law",
-  "LAW-313": "Legal History",
-  "LAW-333": "Cultural Law",
-  "LAW-362": "Topics in Family Law",
-  "LAW-402": "The Law of Sexual Offences",
-  "LAW-404": "The Law of Homicide",
-  "LAW-563": [
-    [
-      "2019W",
-      "Taxation of Partnerships"
-    ],
-    [
-      "2015W",
-      "Taxation of Partnerships and Trusts"
-    ],
-    [
-      "2014W",
-      "Taxation of Partnerships and Other Flow-Through Entities"
-    ]
-  ],
-  "LAW-577": "Immigration Law",
-  "ITST-413": "Dante Alighieri's Divine Comedy in Translation",
-  "ITST-432": "Italian Cinema and Its Cultural Background",
-  "KIN-115": "Performance Analysis of Selected Individual Sports and Activities",
-  "KIN-215": "Performance Analysis of Selected Team Sports and Activities",
-  "KIN-230": "Human Motor Behaviour I",
-  "KIN-231": "Sport and Exercise Psychology",
-  "KIN-261": "Health Policy and Society",
-  "KIN-265": "Nutrition, Physical Activity, and Health",
-  "KIN-275": "Exercise Physiology I",
-  "KIN-284": [
-    [
-      "2016W",
-      "Lifespan Motor Development"
-    ],
-    [
-      "2014W",
-      "Physical Growth and Motor Development"
-    ]
-  ],
-  "KIN-303": "High Performance Conditioning in Physical Activity and Sport",
-  "KIN-330": "Human Motor Behaviour II",
-  "KIN-343": [
-    [
-      "2018W",
-      "Human Athletic Performance"
-    ],
-    [
-      "2014W",
-      "Biology of Human Athletic Performance"
-    ]
-  ],
-  "KIN-351": "Biomechanics II Mechanical Properties of Tissues",
-  "KIN-357": "Laboratory Investigations in Neuromechanical Kinesiology",
-  "KIN-361": "Introduction to Athletic Training",
-  "KIN-362": "Inclusive Physical Activity for Individuals with Special Needs",
-  "KIN-365": "Foundations of Coaching",
-  "KIN-366": "Movement Experiences for Young Children",
-  "KIN-367": "Leisure Services for Persons with a Disability",
-  "KIN-369": "Instructional Analysis and Design in Sport and Physical Activity Programs",
-  "KIN-371": "Introduction to Statistics in Kinesiology",
-  "KIN-373": "Research Methods in Kinesiology",
-  "KIN-375": "Exercise Physiology II",
-  "KIN-381": "Leisure, Sport and Popular Culture",
-  "KIN-383": "The Modern Olympics: Power, Politics, and Performance",
-  "KIN-389": "Neuromuscular Integration of Human Movement",
-  "KIN-400": "Planning Physical Education, Sport and Exercise Programs",
-  "KIN-415": "Conceptual Approaches to Games Education",
-  "KIN-425": "Aging, Health, and the Body",
-  "KIN-461": "Prevention of Sports Injuries I",
-  "KIN-471": "Prevention of Sports Injuries II",
-  "KIN-473": "Neuroanatomy of Human Movement",
-  "KIN-475": "Pulmonary Physiology of Exercise",
-  "KIN-481": "Sport Marketing and Communication",
-  "KIN-489": "Seminar",
-  "KIN-595": "Master's Graduating Paper",
   "POLI-342": "Modern Political Theory: Analysis of a Selected Theorist",
   "POLI-345": "Gender and Politics: Political Thought and Practice",
   "POLI-373": "Ethics in World Politics",
@@ -5123,11 +3026,6 @@
   "RELG-209": "Eden to Exile: Introduction to the Hebrew Bible",
   "RELG-317": "The Origins of Christianity: Social, Religious, and Political Milieux",
   "RELG-503": "Topics in the Post-Biblical Christian Tradition",
-  "GERM-403": "Studies in Modern German Culture (in English)",
-  "GERM-410": "Advanced German II",
-  "GERM-414": "Business German",
-  "GERM-434": "German for Reading Knowledge II (Languages for special purposes)",
-  "GERM-506": "Intercultural Competence",
   "MUSC-104": "Introduction to Diatonic Harmony",
   "MUSC-372": "Music Performance (Secondary)",
   "MUSC-441": "Vocal Techniques",
@@ -5137,64 +3035,16 @@
   "MATH-592": "Topics in Automorphic Forms",
   "MATH-601": "Topics in Analysis",
   "MATH-603": "Topics in Topology",
-  "GPP-501": "Microeconomic Analysis for Public Policy",
-  "GPP-502": "International Macroeconomics",
-  "GPP-503": "Measurement and Data Analysis for Policy",
-  "GPP-504": "Policy Analysis and Evaluation",
-  "GPP-505": "Domestic and Global Policy Process",
-  "GPP-506": "Public Management",
-  "GPP-508": [
-    [
-      "2019W",
-      "Policy in Context"
-    ],
-    [
-      "2015W",
-      "Philosophical and Ethical Foundations for Public Policy"
-    ]
-  ],
-  "GPP-509": "Communicating Policy",
-  "GPP-520": "Economics of Poverty",
-  "GPP-522": "Development Discourses and Practices",
-  "GPP-527": "Corporate Social Responsibility",
-  "GPP-541": "Policy Dimensions of Energy Systems",
-  "GPP-543": "Sustainable Water Systems",
-  "GPP-544": "Economic Foundations of Environmental Policies",
-  "GPP-560": "Global Governance: Frameworks and Policy Debates",
-  "GPP-565": "Nationalism, Religion, and Ethnic Conflict in Asia",
-  "GPP-580": "Internet and Global Affairs",
-  "GPP-581": "Behavioural Foundations for Public Policy",
-  "GPP-582": "Public Engagement in Policy Decisions",
-  "GPP-584": "Policy Responses to Global Climate Change",
-  "GPP-590": [
-    [
-      "2017W",
-      "Global Policy Project"
-    ],
-    [
-      "2016W",
-      "Capstone Project"
-    ]
-  ],
   "SPPH-525": "Issues and Concepts in Public Health",
   "SPPH-534": "Occupational Health and Illness Processes",
   "SPPH-549": "Advanced Economic Evaluation in Health Care",
   "SPPH-587": "Mental Health Care and Delivery in Indigenous Communities",
   "SPPH-588": "Introduction to Quantitative and Qualitative Research Methods in Indigenous Health Research",
-  "INLB-220": "Land and Indigenous Self-Determination: Introduction to Methods and Application",
-  "KIN-151": "Biomechanics I",
-  "KIN-161": "Leisure and Sport in Society",
-  "KIN-190": "Anatomy & Physiology I",
-  "KIN-191": "Anatomy & Physiology II",
-  "KIN-598": "Directed Field Studies in Sport and Physical Activity Agencies",
   "SPPH-577": "Environmental Health and Indigenous Communities",
   "SPPH-589": "Interdisciplinary Approach to Understanding the Health of Indigenous Peoples",
-  "GERM-112": "German for Singers",
   "MATH-589": "M.Sc. Major Essay",
   "PLAN-545": "Planning Studies Abroad",
-  "LIBR-530": "Subject-Based Information Services",
   "SOWK-430": "Special Studies in Social Work",
-  "LLED-580": "Problems in Education",
   "WOOD-465": "Wood Industry Business Management",
   "MECH-552": "Electro-Mechanical System Design Project II",
   "RHSC-589": "Major Project, Part II",
@@ -5213,29 +3063,9 @@
   "SPAN-402": "Advanced Spanish III",
   "SPAN-527": "Selected Topics in Medieval Spanish Literature",
   "SPAN-530": "Peninsular Literature of the Eighteenth, Nineteenth and Twentieth Centuries",
-  "LATN-402": "Latin Verse",
-  "ITAL-206": "Conversational Italian for Intermediate Learners",
   "PUNJ-403": "Modern Punjabi Literature",
   "PHYS-525": "Advanced Condensed Matter Physics",
   "PHYS-565": "Applications of Radioisotopes in Science and in Medicine",
-  "HIST-308": "Quebec from the End of the 18th Century to the Present",
-  "HIST-315": "Britain 1750-1850",
-  "HIST-328": "Rebels in America: Revolution to Civil War, 1763 - 1865",
-  "HIST-364": "Europe in the Late Middle Ages",
-  "HIST-439": [
-    [
-      "2016W",
-      "Politics and Culture in Fin-de-Si\ufffd\ufffd\ufffdcle Europe (1890-1914)"
-    ],
-    [
-      "2014W",
-      "Politics and Culture in Fin-de-Si\u00ef\u00bf\u00bdcle Europe (1890-1914)"
-    ]
-  ],
-  "HIST-473": "Women in the Middle Ages",
-  "HIST-561": "Readings in Chinese History (post-1911)",
-  "GEM-580": "Geoinformatics Seminar",
-  "GEM-599": "Project Proposal Development and Proof of Concept",
   "PSYC-321": "Environmental Psychology",
   "PSYC-366": "Methods in Research",
   "PSYC-412": "Cognitive Development",
@@ -5250,115 +3080,47 @@
       "Applied Pharmacoeconomics"
     ],
     [
-      "2014W",
+      "2009W",
       "Introduction to Pharmacoeconomics and Health Technology Assessment"
     ]
   ],
   "PHAR-457": "Pharmaceutical Care in Aboriginal Health",
-  "LAIS-609": "Advanced Seminar in Library, Archival and Information Studies Topics",
   "RUSS-300": "Third-Year Russian",
   "THTR-323": "History and Theory of Directing",
   "THTR-530": "Seminar: Relationships Between Theatre and the Other Arts",
-  "IGEN-340": "Technology Entrepreneurship",
   "MECH-555": "Fundamentals of Microelectromechanical Systems",
   "MECH-560": "Experimental Methods in Mechanics",
   "VISA-581": "MFA Studio V",
   "OBST-507": "Perinatal Epidemiology",
   "PHIL-427": "Philosophy of Mathematics",
   "PHIL-514": "Early Modern Philosophy",
-  "INLB-310": "Land and Indigenous Self-Determination: Advanced Theoretical Perspectives",
-  "INLB-320": "Land and Indigenous Self-Determination: Advanced Methods and Application",
-  "INLB-401": "Advanced Special Topics in Indigenous Land-Based Studies",
-  "INLB-452": "Gender Justice and Indigenous Resurgence",
   "NEST-101": "Introduction to Near Eastern and Egyptian Archaeology",
   "NEST-401": "Literature of Ancient Egypt or the Ancient Near East",
-  "ISCI-344": "Theory and Practice of Games in Economics and Evolution",
   "POLI-316": "Global Indigenous Politics",
   "POLI-361": "International Violence and Its Control",
   "POLI-421": "Advanced Topics in Comparative Politics: Non-Western",
   "RELG-207": "Classical Islam",
   "RELG-208": "Modern Islam",
-  "RELG-308": [
-    [
-      "2018W",
-      "Talmud, Midrash and the Rabbinic Imagination"
-    ],
-    [
-      "2015W",
-      "Midrash and the Rabbinic Imagination"
-    ]
-  ],
+  "RELG-308": "Talmud, Midrash and the Rabbinic Imagination",
   "MATH-511": "Operator Theory and Applications",
   "MATH-529": "Differential Topology",
   "MATH-548": "Discrete Random Processes",
   "MATH-551": "Perturbation Methods for Differential Equations",
   "MATH-600": "Topics in Algebra",
-  "GERM-370": "Reason and Revolution: Studies in the 18th Century",
-  "GERM-520": "Studies in Literature after 1945",
   "MUSC-201": "Musical Forms",
   "MUSC-524": "Seminar in Renaissance Music",
   "MUSC-564": "Jazz Ensemble",
-  "GREK-352": "Intermediate Ancient Greek: Verse",
   "SPPH-505": "Scientific Basis for Epidemiological Thinking",
   "SPPH-545": "Community Health Promotion",
-  "LARC-431": "Landscape Technologies I: Site Engineering",
-  "LAW-311": "Property Law and Theory",
-  "LAW-315": "Topics in Legal History",
-  "LAW-409": [
-    [
-      "2016W",
-      "Taxation of Partnerships and Trusts"
-    ],
-    [
-      "2014W",
-      "Taxation of Partnerships and Other Flow-Through Entities"
-    ]
-  ],
-  "LAW-421": "Topics in Labour Law",
-  "LAW-453": "Equitable Remedies",
-  "LAW-457": "Real Estate Development",
-  "LAW-495": "Directed Research",
-  "LAW-506": "Taxation",
-  "LAW-555": "Topics in Common Law Theory and Practice: Legal Theory and Practice",
-  "LAW-560": "Seminar in Topics in Common Law Theory and Practice",
   "STS-597": "Master's Colloquium in Science and Technology Studies",
   "PLNT-542": "Grapevine and Berry Crop Biology",
   "SCAN-413": "The Literatures of the Baltic in English Translation",
-  "GEOB-204": "Introduction to Biometeorology",
   "SOCI-381": "Sociological Methods: Experimental and Mixed Methods",
   "SOCI-540": "Social Inequality",
-  "KIN-103": "Active Health",
-  "KIN-390": "Human Functional Musculoskeletal Anatomy",
-  "KIN-456": "Field Experiences in Physical Education Settings",
-  "KIN-499": "Projects in Kinesiology",
   "PLAN-559": "Design of Planning- and Policy-Oriented Research",
-  "GBPR-503": "Bioenergy and Biorefinery",
-  "HGSE-310": "First Nations and Canada: (Re)writing History",
-  "HGSE-311": "Law and Governance: Indigenous and European Traditions",
-  "HGSE-312": "Perspectives on Reconciliation",
-  "HGSE-313": "Reconciliation and Resource Management",
-  "HGSE-314": "Reconciliation and Communities",
-  "HGSE-353": "Rainforest Ecology and Management",
-  "GPP-507": "Environmental Law and Policy Frameworks",
-  "GPP-564": "Security Challenges for Asian States and People",
-  "LIBR-512": "Indexing",
-  "LLED-527": "MATERIALS DEVELOPMENT FOR INDIGENOUS LANGUAGE LEARNING & TEACHING",
   "SOWK-320": "Introduction to Social Work Research",
   "SOWK-425": "First Nations Social Issues",
-  "GEOG-442": "Student Directed Seminar in Human Geography",
-  "GEOG-533": "Political Geography",
   "STAT-241": "Introductory Probability and Statistics",
-  "LLED-444": [
-    [
-      "2018S",
-      "Transcultural Children's Literature"
-    ],
-    [
-      "2014W",
-      "Multicultural Children's Literature in the Elementary Classroom"
-    ]
-  ],
-  "LLED-559": "Early Literacies with Digital Technologies and Media",
   "SOWK-452": "HIV Prevention and Care",
   "POLI-305": "Canadian Political Ideas",
   "SPPH-554": "Addiction and Mental Health",
@@ -5372,18 +3134,11 @@
       "Personal and Corporate Social Responsibility"
     ]
   ],
-  "ITAL-104": "Italian for Singers",
-  "ISCI-422": "Models in Science",
   "POLI-304": "British Columbia Government and Politics",
   "POLI-310": "Parliament and Party: The Strategy of Politics",
   "POLI-441": "Interpretation and Criticism in Political Theory",
   "POLI-564": "Research Seminar in International Relations",
   "RELG-448": "Seminar in the History of the Religion of Islam",
-  "LAW-381": "Disabilities and Law",
-  "LAW-496": "Directed Research",
-  "KIN-382": "Meaning and Values in Sport",
-  "KIN-454": "Field Experience",
-  "KIN-462": "Skeletal Muscle Physiology: From Generation to Regeneration",
   "SPPH-200": "Understanding the Sociocultural Determinants of the Health of Populations",
   "SPPH-411": "Violence Across the Lifespan",
   "SPPH-524": "Core Biological Concepts of Public Health Practice",
@@ -5391,42 +3146,13 @@
   "MATH-517": "Partial Differential Equations II",
   "MATH-539": "Analytic Number Theory",
   "MATH-606": "Topics in Differential Equations",
-  "GERM-380": "Tradition and Change: Studies in the 19th Century.",
-  "GERM-411": "Major Controversies in German Culture (in English)",
-  "GERM-501": "Literary Theories",
   "MUSC-410": "Introduction to Schenkerian Analysis",
-  "GPP-566": "Asia Diplomacy and International Relations",
-  "GPP-583": "Food Security",
   "RGLA-371": "Seminar in Religion and Literature",
   "SOCI-324": "Sociology of the Life Course",
   "SOCI-416": "Selected Topics in Sociological Theory",
   "SOCI-444": "Sociology of Aging",
   "PHYL-548": "Advanced Topics in Human Physiology",
-  "HUNU-505": "Current Issues in Applied Nutrition",
-  "GEOB-400": [
-    [
-      "2017W",
-      "Global Change Science"
-    ],
-    [
-      "2016W",
-      "Global Biogeochemistry"
-    ]
-  ],
   "SURG-500": "Experimental Surgery",
-  "LLED-443": "Teaching Folklore in the Elementary Classroom",
-  "LLED-450": "Teaching and Learning Language and Literacy: Kindergarten and Primary Grades",
-  "LLED-511": "Child Language in Education",
-  "LLED-557": [
-    [
-      "2017W",
-      "Family and Community Literacy: Issues and Perspectives"
-    ],
-    [
-      "2015W",
-      "Family Literacy: Issues and Perspectives"
-    ]
-  ],
   "SOWK-501": "Advanced Canadian Social Policy",
   "SOWK-502": "Social Work Practice",
   "SOWK-503": "Communication Skills in Social Work Practice",
@@ -5434,9 +3160,6 @@
   "SOWK-510": "First Nations Social Issues",
   "SOWK-516": "Foundation MSW Integrative Seminar",
   "SOWK-523": "Advanced Analysis of Culture and Race in Social Work Practice",
-  "GEOG-281": "Geography of the Pacific Rim",
-  "GEOG-456": "Film and the City",
-  "GEOG-572": "Spatial and Cartographic Techniques",
   "PHYS-340": "From Atoms to the Universe",
   "PHYS-501": "Quantum Mechanics II",
   "PHYS-513": "Topics in Advanced Spectroscopy",
@@ -5448,7 +3171,7 @@
       "Professional Nursing Practice with Childbearing Individuals and Families"
     ],
     [
-      "2014S",
+      "2009W",
       "Professional Nursing Practice with Childbearing Women, Infants, and their Families"
     ]
   ],
@@ -5477,7 +3200,7 @@
       "Directed Studies in Behavioural Neuroscience"
     ],
     [
-      "2014W",
+      "1996W",
       "Directed Studies in Biopsychology"
     ]
   ],
@@ -5487,13 +3210,6 @@
   "PHAR-403": "Clinical Skills: Administration of Injections",
   "PHAR-406": "Drug Safety",
   "PHAR-499": "Cases in Pharmaceutical Sciences IV",
-  "HIST-355": "Nineteenth Century Germany",
-  "HIST-387": "Voices from Medieval India",
-  "HIST-444": "Slave Societies in the Americas",
-  "HIST-455": "Gender and Sexuality in Latin America",
-  "HIST-468": "Topics in Comparative Indigenous History",
-  "HIST-469": "Aboriginal Title in British Columbia: History and Legacy",
-  "HIST-563": "Methodology and Sources in Chinese History",
   "MTRL-557": "Separation Science in Aqueous Metal Processing",
   "MTRL-585": "Topics in Fracture Mechanics",
   "SPHA-581": "Directed Studies",
@@ -5503,8 +3219,6 @@
   "THTR-547": "Directed Studies in Theatre and Drama and Film/Television",
   "WOOD-474": "Wood Properties and Products Manufacturing",
   "RUSS-200": "Second-Year Russian",
-  "LAIS-605": "Seminar in Advanced Research Methods",
-  "GRSJ-425": "Special Topics in Gender, Race, and Sexuality",
   "PHIL-518": "Twentieth-Century Philosophy",
   "MINE-488": "Heavy Oil Sand Mining and Processing",
   "MINE-552": "Mining Geostatistics",
@@ -5515,7 +3229,7 @@
       "Studio Seminar"
     ],
     [
-      "2014W",
+      "2004W",
       "Studio Theory II"
     ]
   ],
@@ -5524,56 +3238,32 @@
   "NURS-340": "Leadership, Ethics, and Policy in Health Care Practice",
   "NURS-342": "Critical Inquiry and Research in Nursing Practice",
   "RMST-234": "Introduction to Romance Language Cinema",
-  "HIST-412": "The American Impact on Canada",
   "SOCI-435": "International Service Learning",
   "PLAN-547": "Professional Project Report",
-  "LLED-523": "Teacher Action Research in Language and Literacy Education",
   "RSOT-519": "Professional Practice I",
   "RSOT-545": "Theory, Practice Skills, and Therapeutic Procedures: Advanced Applications",
   "RSOT-547": "Evidence for Practice: Project",
   "RSOT-549": "Professional Practice II",
   "RSOT-551": "Societal and Environmental Influences",
   "RSOT-553": "Developing Effective Programs",
-  "LAW-341": "European Union Law",
-  "LAW-413": "Tax Administration and Dispute Resolution",
-  "LAW-552": "Topics in Common Law Theory and Practice: Public Law I",
   "PLAN-590": "Public Policy and Urban Planning",
   "STAT-461": "Statistical Inference II",
   "STAT-522": "Topics in Asymptotic Theory and Statistical Inference",
   "STAT-541": "Applied Multivariate Analysis",
-  "KIN-469": "Chronic Health Issues, Physical Activity, and Community Practice",
-  "KIN-565": "Physiological Aspects of Physical Activity",
   "SOWK-451": "Health Care Team Development",
   "SOWK-571": "International Social Development",
-  "LLED-210": "Introduction to Analyzing Meanings of Images in Texts",
-  "LLED-211": "Field Research in Social Processes of Inclusion and Exclusion: Discourse Perspectives",
-  "LLED-221": "Language Maintenance and the Integration of Immigrants in Canada: An Introduction",
-  "LLED-534": "Theory and Research in Teaching Written Composition",
   "RSOT-511": "Fundamentals of Theory and Practice",
   "RSOT-513": "Health, Illness & Occupation I",
   "RSOT-515": "Practice Skills and Therapeutic Procedures I",
-  "RSOT-525": [
-    [
-      "2015W",
-      "Theory, Practice Skills and Therapeutic Procedures II"
-    ],
-    [
-      "2014W",
-      "Practice Skills and Therapeutic Procedures II"
-    ]
-  ],
+  "RSOT-525": "Theory, Practice Skills and Therapeutic Procedures II",
   "RSOT-527": "Evidence for Practice I: Research Paradigms and Methods",
-  "LIBR-522": "Literature and Other Materials for Children",
-  "GPP-567": "Human Rights and Justice",
   "POLI-306": "Local Government and Politics in Canada",
   "POLI-580": "Directed Studies",
   "RELG-480": "Women and Religion",
   "SPPH-406": "Aging from an Interdisciplinary Perspective",
-  "GREK-402": "Greek Verse",
   "VRHC-501": "Issues in Vocational Rehabilitation  Counselling",
   "VRHC-502": "Medical Aspects of Disability",
   "VRHC-512": "Psychosocial and Vocational Aspects of Disability",
-  "GERM-318": "Introduction to German Linguistics",
   "MUSC-171": "Music Performance (Secondary)",
   "MUSC-307": "Composition III",
   "MUSC-355": "Classical Music",
@@ -5601,7 +3291,6 @@
   "PHYS-528": "Elementary Particle Physics",
   "RES-518": "Water in International Development",
   "PUNJ-457": "Punjabi Theatre",
-  "LATN-401": "Latin Prose",
   "NURS-302": "Foundations for Professional Nursing Practice",
   "NURS-304": "Introduction to Relational Practice",
   "NURS-305": "Introduction to Critical Inquiry and Research",
@@ -5633,23 +3322,14 @@
   "PHAR-506": "Critical Appraisal of Pharmacotherapy Literature",
   "PHAR-508": "Advanced Applications in Clinical Pharmacokinetics",
   "PHAR-554": "Advanced Hospital Pharmacy Management",
-  "HIST-252": "Modern Caribbean History",
-  "HIST-327": "Colonial America: Encounter and Settlement, 1607 - 1763",
-  "HIST-476": "Law and Society in the Middle Ages",
-  "HIST-494": "Machines, Media, and Modernity: Frankenstein to Cinema",
   "SPAN-430": "Topics in Peninsular Literature and Culture from the 18th Century to the Present",
   "SOIL-548": "Major Project",
   "SPPH-408": "Topics in Aboriginal Health: Community-based Learning Experience",
-  "GBPR-502": "Sustainable BioMaterial from Forest Biomass",
   "PLAN-519": "Internships",
   "SOCI-350": "Sociological Theories: Classical and Contemporary Approaches",
-  "LIBR-572": "Information Services Consulting",
-  "LATN-501": "Latin Prose",
   "NURS-410": "Exploring Avenues of Nursing Practice",
   "NURS-505": "Statistical Literacy in Nursing",
   "PUNJ-401": "Devotional Literature in Punjabi",
-  "ITAL-402": "Advanced Studies in Italian Language and Style II",
-  "ITAL-409": "Topics in Modern and Contemporary Italian Literature and Culture",
   "PHYS-318": "Experimental Acoustics",
   "SPAN-410": "Medieval Literature",
   "PHAR-315": "Pharmacokinetics",
@@ -5671,9 +3351,6 @@
   "MDVL-490": "Research Seminar in Medieval Studies",
   "MTRL-579": "Physics of Microfabrication: Front End Processing",
   "MTRL-593": "Directed Studies in Materials Engineering",
-  "HIST-560": "Readings in Chinese History (to 1911)",
-  "HIST-581": "Topics in Science, Technology, and Society",
-  "HIST-596": "Oral History",
   "PATH-549": "M.Sc. Thesis",
   "MECH-545": "Fuel Cell Systems",
   "MECH-584": "Advanced Engineering Acoustics",
@@ -5694,58 +3371,21 @@
   "RELG-312": "Jews and Judaism in Canada",
   "RELG-321": "Prophetic Figures in the Christian Tradition",
   "NEST-318": "Egyptomania",
-  "GREK-502": "Greek Verse",
   "SPPH-521": "Approaches to Enquiry in Population and Public Health",
   "SPPH-543": "Health Technology Assessment for Health Policy",
   "SOIL-510": "Land and Water Seminar",
   "SOIL-550": "Professional Communications Strategies",
   "RGLA-372": "Topics in Religion, Literature, and the Arts",
-  "LAW-350": "Issues of Equality and Social Justice",
-  "LAW-396": "Fisheries Law",
-  "LAW-397": "Oil and Gas Law",
-  "LAW-482": "Topics in Procedure and Evidence",
-  "LAW-507": "Evidence",
   "MATH-523": "Combinatorial Optimization",
   "MATH-562": "Mathematical Electrophysiology",
   "MATH-620": "Directed Studies in Mathematics",
-  "GERM-500": "Research Methods",
-  "GERM-521": "German Cultural Studies",
-  "GERM-531": "Special Topics",
   "MUSC-354": "Baroque Music",
   "MUSC-415": "Imagining Musical Performances",
   "MUSC-528": "Seminar in Music Since 1900",
   "SOCI-476": "Interpersonal Dynamics",
   "SOCI-484": "Sociology of Health and Illness",
-  "JAPN-102": "Beginning Japanese II A",
-  "JAPN-103": "Beginning Japanese II B",
-  "JAPN-150": "Intensive Beginning Japanese I",
-  "JAPN-151": "Intensive Beginning Japanese II",
-  "JAPN-210": "Intermediate Japanese I A",
-  "JAPN-211": "Intermediate Japanese I B",
-  "JAPN-212": "Intermediate Japanese II A",
-  "JAPN-213": "Intermediate Japanese II B",
-  "JAPN-250": "Intensive Intermediate Japanese I",
-  "JAPN-251": "Intensive Intermediate Japanese II",
-  "JAPN-300": "Advanced Modern Japanese: Reading and Writing I",
-  "JAPN-301": "Advanced Modern Japanese: Reading and Writing II",
-  "JAPN-302": "Advanced Modern Japanese: Conversation and Composition I",
-  "JAPN-303": "Advanced Modern Japanese: Conversation and Composition II",
-  "JAPN-311": "Classical Japanese I",
-  "JAPN-312": "Classical Japanese I",
-  "JAPN-314": "Japanese for Professional Life I",
-  "JAPN-315": "Japanese for Professional Life II",
-  "JAPN-406": "Readings in Modern Japanese Essays",
-  "JAPN-408": "Readings in Modern Japanese Literature",
-  "JAPN-410": "Advanced Oral Communication",
-  "JAPN-416": "Newspaper Japanese",
   "PLAN-592": "Urban Restructuring",
-  "GBPR-500": "Building Blocks of Forest Biomass",
   "STAT-357": "Stochastic Signals and Systems",
-  "LIBR-505": "Research Methods in Information Organizations",
-  "LIBR-521": "Contemporary Literature and Other Materials for Children",
-  "LIBR-538": "Specialized Literatures",
-  "LIBR-542": "Services for Youth",
-  "LIBR-551": "Library Automation and Systems",
   "RMES-500": "Resource and Environmental Workshop",
   "RMES-501": "Development of Environmental Thought",
   "RMES-502": "Seminar on Resources and Environment",
@@ -5758,27 +3398,12 @@
   "RMES-520": "Climate Change: Science, Technology and Sustainable Development",
   "RMES-530": "Knowledge, Policy and Values in Risk and Resource Management",
   "RMES-550": "Environmental Policy Analysis",
-  "LING-448": "Directed Studies",
-  "IAR-515": "Topics in Asia Pacific Policy Studies",
-  "IAR-520": "Master's Thesis",
-  "GEOG-379": "Field Course in Human Geography",
-  "GEOG-426": "Historical Geography of British Columbia, I",
-  "GEOG-429": "Research in Historical Geography",
-  "GEOG-485": "Geography of China",
   "SANS-102": "Introductory Sanskrit",
-  "LIBR-577": "Special Libraries",
   "SOWK-514": "Feminism and Social Work Praxis",
-  "IHHS-400": "Health Care Team Development",
-  "IHHS-402": "HIV Prevention and Care",
-  "IHHS-408": "Topics in Aboriginal Health: Community-based Learning Experience",
   "PHYS-102": "Electricity, Light and Radiation",
   "PSYC-567": "Personality Dimensions and Structure",
   "WOOD-273": "Wood Adhesives and Coatings",
   "SPHA-530": "Managerial Economics",
-  "GRSJ-201": "Connecting with Computer Science",
-  "GRSJ-205": "Women, Gender, and Colonialism in Canada 1600-1920",
-  "GRSJ-210": "Women, Gender, and Colonialism in Canada from 1920 to the Present",
-  "JRNL-530": "Advanced Video Reporting",
   "MINE-550": "Mining Methods",
   "MINE-565": "Rock Fragmentation",
   "MINE-577": "Processing of Precious Metal Ores",
@@ -5788,10 +3413,6 @@
   "PHYS-314": "Fluids",
   "PHYS-572": "Experimental Methods in Quantum Materials",
   "PHYS-573": "Modeling and Simulation of Quantum Materials",
-  "IHHS-200": "Understanding the Sociocultural Determinants of the Health of Populations",
-  "IHHS-300": "Working in International Health",
-  "IHHS-406": "Aging from an Interdisciplinary Perspective",
-  "IHHS-407": "Disability and Justice",
   "MDVL-302": "European Literature from the 14th to the 16th Century",
   "PHAR-201": "Pharmacist, Patient and Society",
   "PHAR-220": "Physicochemical Properties of Drugs",
@@ -5801,37 +3422,15 @@
   "PSYC-507": "Cultural Psychology",
   "PSYC-570": "Cognitive Neuroscience",
   "PSYC-574": "Biopsychology I",
-  "HIST-314": "Early Modern Britain",
-  "HIST-359": "A History of Brazil: From Colony to Nation",
-  "HIST-401": "Seafaring in the Age of Sail",
-  "JAPN-411": "Advanced Oral Communication",
   "PLAN-538": "Cross-Cultural Planning",
   "PLAN-540": "Planning Project",
   "PLAN-599": "Environmental Policy Analysis",
   "PHYL-526": "Advanced Topics in Neurophysiology",
   "PHTH-578": "Case-Based Integration V",
-  "GEOB-409": "Self-Directed Field Studies in Physical Geography",
-  "GEOB-448": "Directed Studies in Geographical Biogeoscience",
-  "LIBR-500": "Foundations of Information Technology",
-  "LIBR-501": "Foundations of the Information Society and Information Organizations",
-  "LIBR-502": "Foundations of Resource Description and Access",
-  "LIBR-503": "Foundations of Information Sources and Services",
-  "LIBR-578": "Planning and Design of Libraries",
-  "KIN-581": "Sport, Leisure and Consumer Culture",
-  "GEOG-461": "Political-Economic Geographies",
   "RMES-508": "Ecosystem Services",
-  "LLED-391": "Theory and Practice in Reading Instruction",
-  "LLED-456": "Identifying and Supporting Learners with Literacy Difficulties",
   "SURG-548": "Seminar in Surgery",
   "RSOT-521": "Occupational Analysis, Activity and Participation",
   "SANS-200": "Intermediate Sanskrit",
-  "LAW-318": "Marine Resources Law",
-  "LAW-327": "International Trade Law",
-  "LAW-330": "Cultural Property and Art Law",
-  "LAW-355": "First Nations and the Administration of Justice",
-  "LAW-365": "Women, Law and Family",
-  "LAW-388": "Environmental Law in Practice",
-  "LAW-557": "Topics in Common Law Theory and Practice: Human and Group Rights Law",
   "POLI-340": "History of Political Ideas",
   "POLI-404": "Public Policy and Its Administration",
   "SCIE-220": "Introduction to Sustainability",
@@ -5839,12 +3438,6 @@
   "RELG-331": "Medieval Jewish History",
   "RELG-341": "Islamic Art and Archaeology",
   "RELG-485": "Images of Eve",
-  "GSAT-501": "Intensive Laboratory Course",
-  "GREK-501": "Greek Prose",
-  "LARC-520": "Theories in Experience and Place",
-  "LARC-543": "Environment and Urban Form",
-  "IAR-500": "Perspectives and Methods in Asia Pacific Policy Studies",
-  "IAR-506": "Culture & Globalization in Asia-Pacific",
   "SPPH-518": "Mathematical Modeling of Communicable Diseases",
   "SPPH-528": "Rural and Remote Health",
   "SPPH-548": "Health Services Research Methods",
@@ -5855,385 +3448,285 @@
   "MATH-519": "Fluid Mechanics I",
   "POLI-346": "Democratic Theory",
   "PHTH-572": "Rehabilitation Research II",
-  "LATN-100": "First-Year Latin",
-  "IHHS-411": "Violence Across the Lifespan",
-  "SPAN-649": "DOC DISSERTATION",
-  "MIDW-200": "CLIN CARE INTRO",
-  "MIDW-240": "CORE CLIN CARE",
-  "MIDW-320": "VARNS CLIN CARE",
-  "MIDW-322": "MIDW PRMRY CARE",
-  "MIDW-350": "INTER PROF PLCMT",
-  "MIDW-360": "GBL MAT INF HLTH",
-  "MIDW-420": "ADV CLINICL CARE",
-  "MIDW-440": "CLINICAL CLRKSHP",
-  "OSOT-528": "FIELDWORK EDUC 1",
-  "ZOOL-549": "MASTERS THESIS",
-  "ZOOL-649": "DOC DISSERTATION",
-  "PHYS-298": "WORK PLACMNT I",
-  "PHYS-299": "WORK PLACMNT II",
-  "PHYS-399": "WORK PLACMNT III",
-  "PHYS-447": "ADV TPCS PHYS",
-  "PHYS-498": "WORK PLACMNT IV",
-  "PHYS-499": "WORK PLACMNT V",
-  "PHYS-520": "TEACH PHYS&ASTR",
-  "PHYS-549": "MASTERS THESIS",
-  "PHYS-649": "DOC DISSERTATION",
-  "NURS-321": "SKLLS CMPTNCS I",
-  "NURS-322": "SKLLS CMPTNCS II",
-  "NURS-344": "INQRY LDRSHP SYN",
-  "NURS-360": "NURSING ADULTS",
-  "NURS-362": "PRIMRY HLTH CARE",
-  "NURS-363": "NRSNG MNTL HLTH",
-  "NURS-365": "CHLDBRNG FAMLIES",
-  "NURS-366": "INFNT CHLD YOUTH",
-  "NURS-401": "SKLLS CMPTNCS IV",
-  "NURS-402": "SKLLS CMPTNCS V",
-  "NURS-427": "CONSOLD  PRAC EX",
-  "INDS-501": "INST SKILLS WKSH",
-  "INDS-649": "DOC DISSERTATION",
-  "INDE-451": "CLIN SKILLS IV",
-  "MTRL-578": "MCR EVL DFRM MTL",
-  "MTRL-598": "SEMINAR",
-  "MTRL-699": "DOC DISSERTATION",
-  "PSYC-399": "COOP WORK II",
-  "PSYC-498": "COOP WORK III",
-  "PSYC-513": "SP TPCS DEV PSYC",
-  "PSYC-649": "DOC DISSERTATION",
-  "MEDI-649": "PHD THESIS",
+  "SPAN-649": "Doctoral Dissertation",
+  "MIDW-200": "Midwifery Clinical Care - Antepartum, Postpartum and Newborn",
+  "MIDW-240": "Midwifery Clinical Care - Intrapartum and Postpartum",
+  "MIDW-320": "Midwifery Clinical Care - Variations of Normal",
+  "MIDW-322": "Midwifery Primary Care Clinical",
+  "MIDW-350": "Interprofessional Placement",
+  "MIDW-360": "Global Maternal Infant Health",
+  "MIDW-420": "Midwifery Clinical Care - Abnormal and Unexpected Conditions",
+  "MIDW-440": "Clinical Clerkship",
+  "OSOT-528": "Occupational Therapy Practice: Fieldwork I",
+  "ZOOL-549": "M.Sc. Thesis",
+  "ZOOL-649": "Doctoral Dissertation",
+  "PHYS-298": "Co-operative Work Placement I",
+  "PHYS-299": "Co-operative Work Placement II",
+  "PHYS-399": "Co-operative Work Placement III",
+  "PHYS-447": "Advanced Topics in Physics",
+  "PHYS-498": "Co-operative Work Placement IV",
+  "PHYS-499": "Co-operative Work Placement V",
+  "PHYS-520": "Teaching Techniques in Physics and Astronomy",
+  "PHYS-549": "Master's Thesis",
+  "PHYS-649": "Doctoral Dissertation",
+  "NURS-321": "Foundational Skills and Competencies for Clinical Practice I",
+  "NURS-322": "Foundational Skills and Competencies for Clinical Practice II",
+  "NURS-344": [
+    [
+      "2017W",
+      "INQRY LDRSHP SYN"
+    ],
+    [
+      "2010W",
+      "SYNTHESIS PROJCT"
+    ]
+  ],
+  "NURS-360": "Nursing Practice with Adults/Older Adults and their Families",
+  "NURS-362": "Nursing Practice in Primary Health Care Contexts",
+  "NURS-363": "Nursing Practice with People Living with Mental Health Challenges and Their Families",
+  "NURS-365": "Nursing Practice with Childbearing Individuals and Families",
+  "NURS-366": "Nursing Practice with Infants, Children, Youth and their Families: Practicum",
+  "NURS-401": "Foundational Skills and Competencies for Clinical Practice IV",
+  "NURS-402": "Foundational Skills and Competencies for Clinical Practice V",
+  "NURS-427": [
+    [
+      "2017W",
+      "CONSOLD  PRAC EX"
+    ],
+    [
+      "2010W",
+      "CONSOLD  PRACTCM"
+    ]
+  ],
+  "MTRL-578": "Microstructural Evolution of Deformed Materials",
+  "MTRL-598": "Seminar",
+  "MTRL-699": "Doctoral Dissertation",
+  "PSYC-399": "Cooperative Work Placement II",
+  "PSYC-498": "Cooperative Work Placement III",
+  "PSYC-513": "Special Topics in Developmental Psychology",
+  "PSYC-649": "Doctoral Dissertation",
+  "MEDI-649": "Ph.D. Thesis",
   "PHAR-414": "DIR STUD PHARM",
   "PHAR-489": "ADV PC EXP: INST",
-  "PHAR-549": "MASTERS THESIS",
-  "PHAR-648": "SEM-PHD STUDENTS",
-  "PHAR-649": "DOC DISSERTATION",
-  "PCTH-398": "COOP WORK PL I",
-  "PCTH-399": "COOP WORK PL II",
-  "PCTH-498": "COOP WORK PL III",
-  "PCTH-514": "SEMINAR PCTH",
-  "PCTH-549": "MS THESIS",
-  "PCTH-649": "DOC DISSERTATION",
-  "LAIS-620": "Adv Std Maj Area",
-  "LAIS-621": "Adv Std Min Area",
-  "LAIS-699": "DOC DISSERTATION",
-  "GRSJ-480": "SOC JUST PRACTM",
-  "GRSJ-520": "M.A. THESIS",
-  "RES-599": "MASTER'S THESIS",
-  "RES-699": "DOC DISSERTATION",
-  "RHSC-549": "M.SC. THESIS",
-  "RHSC-699": "DOC DISSERTATION",
+  "PHAR-549": "Master's Thesis",
+  "PHAR-648": "Seminar for Ph.D. Students",
+  "PHAR-649": "Doctoral Dissertation",
+  "PCTH-398": "Co-operative Work Placement I",
+  "PCTH-399": "Co-operative Work Placement II",
+  "PCTH-498": "Co-operative Work Placement III",
+  "PCTH-514": "Seminar in Pharmacology or Therapeutics",
+  "PCTH-549": "M.Sc. Thesis",
+  "PCTH-649": "Doctoral Dissertation",
+  "RES-599": "Master's Thesis",
+  "RES-699": "Doctoral Dissertation",
+  "RHSC-549": "M.Sc. Thesis",
+  "RHSC-699": "Doctoral Dissertation",
   "MECH-511": "TRANS PHENOM II",
-  "MECH-699": "DOC DISSERTATION",
-  "THTR-549": "MASTERS THESIS",
-  "THTR-551": "LG DSGN STD I",
-  "THTR-649": "DOC DISSERTATION",
-  "WOOD-311": "COOP PLACMENT II",
-  "WOOD-412": "COOP PLCMNT V",
-  "PATH-649": "DOC DISSERTATION",
-  "GRS-290": "GLOBAL ISSUES",
-  "GRS-390": "GLOBAL ISSUES",
-  "GRS-490": "GLOBAL ISSUES",
-  "OBST-649": "DOC DISSERTATION",
-  "MICB-398": "COOP WRK PLCMT 1",
-  "MICB-399": "COOP WRK PLCMT 2",
-  "MICB-498": "COOP WRK PLCMT 3",
-  "MICB-499": "COOP WRK PLCMT 4",
-  "MICB-549": "M.SC. THESIS",
-  "MICB-649": "DOC DISSERTATION",
-  "JRNL-548": "FINAL RSRCH PROJ",
-  "PHIL-469": "TOPIC: PHIL SCIE",
-  "PHIL-699": "DOC DISSERTATION",
-  "NRSC-649": "DOC DISSERTATION",
-  "LAW-379": "EXTERNSHIP",
-  "LAW-472": "ADV TRIAL ADVOC",
-  "LAW-474": "TRIAL ADVOCACY",
-  "LAW-475": "COMP TRIAL AD",
-  "LAW-477": "NEGTN & DISP RES",
-  "LAW-483": "COMP MOOTSA",
-  "LAW-488": "CLINICAL TERM",
-  "LAW-490": "CLINCL CRMNL LAW",
-  "LAW-491": "LAW STDS LGL ADV",
-  "LAW-501": "DIR RESEARCH",
-  "LAW-649": "DOC DISSERTATION",
-  "ISCI-300": "INTERDSC SEMINAR",
-  "ISCI-399": "CO-OP WORK II",
-  "ISCI-498": "CO-OP WORK III",
-  "ISCI-499": "CO-OP WORK IV",
-  "KIN-101": "COOP WORK PLCMNT",
-  "KIN-201": "COOP WORK PLCMNT",
-  "KIN-301": "COOP WORK PLCMNT",
-  "KIN-599": "MASTER'S THESIS",
-  "KIN-699": "DOC DISSERTATION",
-  "POLI-649": "DOC DISSERTATION",
-  "MATH-398": "COOP WRK PL I",
-  "MATH-399": "COOP WRK PL II",
-  "MATH-404": "HARM ANAL I",
-  "MATH-448": "DIRECTED STUDIES",
-  "MATH-449": "HONOURS READING",
-  "MATH-599": "MATH TEACHG TECH",
-  "MATH-649": "DOC DISSERTATION",
-  "MUSC-333": "ACC HARPSCHRD I",
-  "MUSC-407": "COMPOSITION IV",
-  "MUSC-545": "SMNR CNDCT RPRII",
-  "MUSC-649": "DOCTORAL THESIS",
-  "GERM-510": "LITERARY HISTORY",
-  "RGLA-471": "ADV SEM RELG&LIT",
-  "PHRM-270": "CMNTY SRVC LRN 2",
-  "PHRM-441": "ADV TPCS PHRM PR",
-  "PHRM-450": "SEMINAR",
-  "PHRM-451": "CRIT APPRAIS LIT",
-  "PHRM-452": "PATIENT ASSESSMN",
-  "PHRM-471": "ADV OUTPTNT EXPR",
-  "PHRM-472": "ADV INPTNT EXPER",
-  "PHRM-473": "ADV PHRM EXPER",
-  "PHRM-481": "HLTHCR QUAL IMPR",
-  "SOIL-500": "GRADUATE SEMINAR",
-  "SOIL-549": "MASTERS THESIS",
-  "SOIL-649": "DOC DISSERTATION",
-  "SPPH-501": "ANA LONG DATA",
-  "SPPH-507": "MSC RESEARCH SEM",
-  "SPPH-508": "MPH PRACTICUM",
-  "SPPH-529": "MAJOR ESSAY",
-  "SPPH-566": "OCCH PRACTICE",
-  "SPPH-570": "ISS PUBL HLTH PR",
-  "SPPH-599": "MSC THESIS",
-  "SPPH-607": "PHD RES SEMINAR",
-  "SPPH-699": "DOC DISSERTATION",
-  "LARC-511": "INTR WORKSHOP",
-  "LARC-598": "GRAD PROJECT II",
-  "GPP-542": "SCI TECH PUB POL",
-  "GSAT-599": "MASTER'S THESIS",
-  "GSAT-699": "DOCTORAL DISSERT",
-  "PLNT-549": "MASTERS THESIS",
-  "GEOB-508": "ADV SEM GEOMRPHY",
-  "STAT-398": "COOP WK PLACE I",
-  "STAT-399": "COOP WK PLACE II",
-  "STAT-498": "COOP WK PLAC III",
-  "STAT-521": "FND MULTIVAR ANL",
-  "STAT-551": "STAT CONSLT PRAC",
-  "STAT-599": "COOP WK PLMNT II",
-  "STAT-649": "DOC DISSERTATION",
-  "MEDD-411": "FDTN MEDD PRAC I",
-  "MEDD-412": "FDTN MEDD PRAC I",
-  "MEDD-421": "FDN MED PRCT 3",
-  "MEDD-422": "TRANSN CLIN EDUC",
-  "MEDD-429": "FLEX ENHAN LRN 2",
+  "MECH-699": "Doctoral Dissertation",
+  "THTR-549": "Master's Thesis",
+  "THTR-551": "Lighting Design Studio 1",
+  "THTR-649": "Doctoral Dissertation",
+  "WOOD-311": "Co-operative Work Placement II",
+  "WOOD-412": "Co-operative Work Placement V",
+  "PATH-649": "Doctoral Dissertation",
+  "OBST-649": "Doctoral Dissertation",
+  "MICB-398": "Co-operative Work Placement I",
+  "MICB-399": "Co-operative Work Placement II",
+  "MICB-498": "Co-operative Work Placement III",
+  "MICB-499": "Co-operative Work Placement IV",
+  "MICB-549": "M.Sc. Thesis",
+  "MICB-649": "Doctoral Dissertation",
+  "PHIL-469": "Topics in Philosophy of Science",
+  "PHIL-699": "Doctoral Dissertation",
+  "NRSC-649": "Doctoral Dissertation",
+  "POLI-649": "Doctoral Dissertation",
+  "MATH-398": "Co-operative Work Placement I",
+  "MATH-399": "Co-operative Work Placement II",
+  "MATH-404": "Harmonic Analysis I",
+  "MATH-448": "Directed Studies in Mathematics",
+  "MATH-449": "Honours Reading",
+  "MATH-599": "Mathematics Teaching Techniques",
+  "MATH-649": "Doctoral Dissertation",
+  "MUSC-333": "Accompanying on the Harpsichord I",
+  "MUSC-407": "Composition IV",
+  "MUSC-545": "Seminar in Conducting and Repertoire II",
+  "MUSC-649": "Ph.D. Dissertation or D.M.A. Thesis",
+  "RGLA-471": "Advanced Seminar in Religion and Literature",
+  "PHRM-270": "Community Service Learning II",
+  "PHRM-441": "Seminar: Advanced Topics in Pharmacy Practice",
+  "PHRM-450": "PharmD Seminar",
+  "PHRM-451": "Critical Appraisal of Pharmacotherapy Literature",
+  "PHRM-452": "Patient Assessment Skills",
+  "PHRM-471": "Outpatient Advanced Pharmacy Practice Experience",
+  "PHRM-472": "Inpatient and Health Authority-Based Advanced Pharmacy Practice Experience",
+  "PHRM-473": "Selected Advanced Pharmacy Practice Experience",
+  "PHRM-481": "Healthcare Quality Improvement",
+  "SOIL-500": "Graduate Seminar",
+  "SOIL-549": "Master's Thesis",
+  "SOIL-649": "Doctoral Dissertation",
+  "SPPH-501": "Analysis of Longitudinal Data from Epidemiological Studies",
+  "SPPH-507": "M.Sc. Research Seminar",
+  "SPPH-508": "M.P.H. Practicum",
+  "SPPH-529": "Major Essay",
+  "SPPH-566": "Occupational Hygiene Practice",
+  "SPPH-570": "Current Issues in Public Health Practice",
+  "SPPH-599": "M.Sc. Thesis",
+  "SPPH-607": "Ph.D. Research Seminar",
+  "SPPH-699": "Doctoral Dissertation",
+  "PLNT-549": "Master's Thesis",
+  "STAT-398": "Co-operative Work Placement I",
+  "STAT-399": "Co-operative Work Placement II",
+  "STAT-498": "Co-operative Work Placement III",
+  "STAT-521": "Topics in Multivariate Analysis",
+  "STAT-551": "Statistical Consulting Practicum",
+  "STAT-599": "Co-operative Work Placement II",
+  "STAT-649": "Doctoral Dissertation",
+  "MEDD-411": "Foundations of Medical Practice I",
+  "MEDD-412": "Foundations of Medical Practice II",
+  "MEDD-421": "Foundations of Medical Practice III",
+  "MEDD-422": "Transition into Clinical Education",
+  "MEDD-429": "Flexible Enhanced Learning II",
   "MEDD-443": "SENIOR ELECTIVE",
   "MEDD-444": "SENIOR ELECTIVE",
   "MEDD-445": "SENIOR ELECTIVE",
   "MEDD-446": "SENIOR ELECTIVE",
-  "MEDD-448": "TRNSN POSTGRD ED",
-  "MEDD-449": "FLEX ENHNC LRN 3",
-  "PHTH-574": "CLINCL PRAC VII",
-  "ONCO-510": "SEMINARS IN ONCO",
-  "ONCO-549": "M.SC. THESIS",
-  "ONCO-649": "DOC DISSERTATION",
-  "LFS-398": "LFS CO-OP 1",
-  "LFS-399": "LFS CO-OP 2",
-  "LFS-498": "LFS CO-OP 3",
-  "LFS-549": "MASTER'S THESIS",
-  "LFS-649": "DOC DISSERTATION",
-  "MEDG-549": "M.SC. THESIS",
-  "MEDG-560": "GENE COUNCLG SEM",
-  "MEDG-565": "ADV GEN COUN SEM",
-  "MEDG-649": "DOC DISSERTATION",
-  "SOCI-598": "DIRECTED STUDIES",
-  "SOCI-649": "DOC DISSERTATION",
-  "PLAN-527": "INTERNSHIP",
-  "PLAN-535": "TRANS PLAN & ANA",
-  "PLAN-649": "DOC DISSERTATION",
-  "HUNU-549": "MASTERS THESIS",
-  "HUNU-649": "DOC DISSERTATION",
-  "LING-546": "DIRECTED READING",
-  "LING-649": "DOC DISSERTATION",
-  "LLED-315": "ESL SEC C&P",
-  "LLED-325": "T & L FREN ELEM",
-  "LLED-336": "COMMUNICATION",
-  "LLED-350": "CLSRM DISCRS ELM",
-  "LLED-351": "LTR PRC&AST ELEM",
-  "LLED-352": "INTR TCH FRN ELE",
-  "LLED-353": "ENG ADNL LANG EL",
-  "LLED-360": "CLS DSC TEL SECD",
-  "LLED-361": "LIT PRC&ASMT SEC",
-  "LLED-366": "TEACH LITERATURE",
-  "LLED-367": "TEACHING WRITING",
-  "LLED-371": "FDN TCH FRCH SEC",
-  "LLED-372": "TCH FR LNG&LIT S",
-  "LLED-381": "TCH MOD LNG SEC",
-  "LLED-386": "SC THTR INTR C&P",
-  "LLED-388": "SC THTR PRC&DSGN",
-  "LLED-399": "TESL PRACTICUM",
-  "LLED-435": "DRAMA COMMUNITY",
-  "LLED-439": "SHKSPR IN CLSRM",
-  "LLED-590": "GRADUATING PROJ",
-  "LLED-699": "DOC DISSERTATION",
-  "GEOG-575": "RSRCH STGS H GEO",
-  "GEOG-699": "DOC DISSERTATION",
-  "SOWK-315": "PRACTICUM I",
-  "SOWK-415": "PRACTICUM II",
-  "SOWK-560": "DIR FLD STUDIES",
-  "SOWK-572": "CHLD&FAM POL&PRC",
-  "SOWK-699": "DOC DISSERTATION",
-  "LIBR-595": "PRACTICUM",
-  "LIBR-596": "FIELD EXPERIENCE",
-  "SOCI-549": "MASTERS THESIS",
-  "STAT-598": "COOP WORK PLMT I",
+  "MEDD-448": "Transition into Postgraduate Education and Practice",
+  "MEDD-449": "Flexible Enhanced Learning III",
+  "PHTH-574": "Clinical Practice VII",
+  "ONCO-510": "Seminars in Oncology",
+  "ONCO-549": "Master of Science Thesis",
+  "ONCO-649": "Doctoral Dissertation",
+  "MEDG-549": "M.Sc. Thesis",
+  "MEDG-560": "Genetic Counselling Seminar",
+  "MEDG-565": "Advanced Genetic Counselling Seminar",
+  "MEDG-649": "Doctoral Dissertation",
+  "SOCI-598": "Directed Studies",
+  "SOCI-649": "Doctoral Dissertation",
+  "PLAN-527": "Internship",
+  "PLAN-535": "Transportation Planning & Analysis",
+  "PLAN-649": "Doctoral Dissertation",
+  "SOWK-315": "Practicum I",
+  "SOWK-415": "Practicum II",
+  "SOWK-560": "Directed Field Studies in Social Work II",
+  "SOWK-572": "Child and Family: Policy and Practice",
+  "SOWK-699": "Doctoral Dissertation",
+  "SOCI-549": "Master's Thesis",
+  "STAT-598": "Co-operative Work Placement I",
   "MEDD-441": "SENIOR ELECTIVE",
   "MEDD-442": "SENIOR ELECTIVE",
-  "PHTH-534": "CLINCL PRAC III",
-  "PHTH-576": "CLIN DEC MAKNG V",
-  "LFS-499": "LFS CO-OP 4",
-  "LLED-387": "SC THTR APP CURR",
-  "LLED-433": "DRAMA CREATVAPPR",
-  "LLED-434": "DRAMA CROSS-CURR",
-  "ISCI-398": "CO-OP WORK I",
-  "SPPH-598": "OCC &ENV HY PROJ",
-  "MATH-498": "COOP WRK PL III",
-  "MATH-499": "COOP WRK PL IV",
-  "GERM-649": "DOC DISSERTATION",
-  "PHRM-171": "INT PRCT EX OP I",
-  "PHRM-271": "INT PRCT EXP OP2",
-  "PHRM-272": "INT PRCT EXP IP",
-  "PHRM-371": "INT PRCT EX OP 3",
-  "WOOD-300": "CO-OP WORK PLCMT",
-  "WOOD-305": "WOOD MACH SKIL",
-  "WOOD-312": "COOP PLCMNT III",
-  "WOOD-411": "COOP PLCMNT IV",
-  "GRSJ-606": "DOCTORAL DISSERT",
-  "JRNL-527": "INTERNSHIP",
-  "MINE-698": "SEMINAR",
-  "MINE-699": "DOC DISSERTATION",
-  "VISA-580": "MAJOR ESSAY",
-  "NURS-323": "SKLLS CMPTNC III",
-  "NURS-361": "ADULT ACUTE HLTH",
-  "NURS-699": "DOC DISSERTATION",
-  "MIDW-370": "GLBL CLIN PLCMNT",
-  "OSOT-538": "FIELDWORK EDUC 2",
+  "PHTH-534": "Clinical Practice III",
+  "PHTH-576": "Clinical Decision Making V",
+  "SPPH-598": "Occupational and Environmental Hygiene Project",
+  "MATH-498": "Co-operative Work Placement III",
+  "MATH-499": "Co-operative Work Placement IV",
+  "PHRM-171": [
+    [
+      "2017S",
+      "INT PRCT EX OP I"
+    ],
+    [
+      "2016S",
+      "INTR PRACT EXP 1"
+    ]
+  ],
+  "PHRM-271": "Introductory Pharmacy Practice Experience - Outpatient II",
+  "PHRM-272": "Introductory Pharmacy Practice Experience - Inpatient",
+  "PHRM-371": "Introductory Pharmacy Practice Experience - Outpatient III",
+  "WOOD-300": "Co-operative Work Placement I",
+  "WOOD-305": "Wood Machining Skills",
+  "WOOD-312": "Co-operative Work Placement III",
+  "WOOD-411": "Cooperative Work Placement IV",
+  "MINE-698": "Seminar",
+  "MINE-699": "Doctoral Dissertation",
+  "VISA-580": "Major Essay",
+  "NURS-323": "Foundational Skills and Competencies for Clinical Practice III",
+  "NURS-361": "Nursing Practice with Adults/Older Adults Experiencing Acute Health Challenges and their Families",
+  "NURS-699": "Doctoral Dissertation",
+  "MIDW-370": "Global Maternal Infant Health Clinical Placement",
+  "OSOT-538": "Occupational Therapy Practice: Fieldwork II",
   "PHAR-479": "ADV PRC EXP: COM",
-  "PSYC-499": "COOP WORK IV",
+  "PSYC-499": "Cooperative Work Placement IV",
   "PSYC-559": "Clin Psyc Intern",
-  "HIST-649": "DOC DISSERTATION",
-  "INDS-549": "MASTERS THESIS",
-  "LFS-500": "GRADUATE SEMINAR",
-  "GREK-649": "DOC DISSERTATION",
-  "SPPH-580": "DIR STUDIES",
+  "SPPH-580": "Directed Studies",
   "MATH-1": "ALGEBRA",
-  "MATH-450": "ASYMP&PRTB MTHDS",
-  "MATH-535": "LIE THEORY II",
-  "MUSC-507": "COMPOSITION",
-  "MUSC-694": "PERFORMANCE MAJ",
-  "LAW-486": "LAW REVIEW CREDI",
-  "LAW-553": "PUBLIC LAW II",
-  "HUNU-531": "M.SC. SEMINAR",
-  "HUNU-631": "PH.D SEMINAR",
-  "PHTH-554": "CLINCL PRAC V",
-  "MEDD-419": "FDTN SCLR FLX I",
-  "MEDD-431": "CLERKSHIP",
-  "SURG-549": "MASTERS THESIS",
-  "SOWK-506": "DIR FLD STDIES I",
-  "SOWK-601": "SOC WORK DOC SEM",
-  "SOWK-621": "SOCTHRY, ID&ETHC",
-  "NURS-601": "DOCTORAL SEMINAR",
-  "PUNJ-402": "MED&EARLYMOD LIT",
-  "RES-542": "INT ASSESSMENT",
-  "OSOT-558": "FIELDWORK EDUC 3",
+  "MATH-450": "Asymptotic and Perturbation Methods",
+  "MATH-535": "Lie Theory II",
+  "MUSC-507": "Composition",
+  "MUSC-694": "Music Performance (Major)",
+  "PHTH-554": "Clinical Practice V",
+  "MEDD-419": "Foundations of Scholarship and Flexible Enhanced Learning I",
+  "MEDD-431": "Clerkship",
+  "SURG-549": "M.Sc. Thesis",
+  "SOWK-506": "Directed Field Studies in Social Work I",
+  "SOWK-601": "Social Work Doctoral Seminar",
+  "SOWK-621": "Social Theory, Ideology and Ethics",
+  "NURS-601": "Doctoral Seminar",
+  "PUNJ-402": "Waris Shah's Hir",
+  "RES-542": "Integrated Assessment",
+  "OSOT-558": "Occupational Therapy Practice: Fieldwork III",
   "MIDW-220": "CLIN CARE INTRO",
   "PHAR-469": "PRACT EXP II",
-  "PHAR-533": "CLIN CLERKSHP I",
-  "PHAR-534": "CLIN CLERKSHP II",
-  "PHAR-535": "PHARM.D. SEMINAR",
-  "INDE-440": "SENIOR CLERKSHIP",
-  "INDE-441": "SENIOR CLERKSHIP",
-  "INDE-442": "SENIOR CLERKSHIP",
-  "INDE-443": "SENIOR CLERKSHIP",
-  "INDE-450": "SENIOR CLERKSHIP",
-  "INDE-453": "PREP MD PRACTICE",
-  "INDE-455": "SENIOR CLERKSHIP",
-  "MTRL-559": "ADV HYDROMTLRGY",
-  "MTRL-592": "ADVANCED TOPICS",
-  "GRSJ-505": "DIR READ FEMNST",
-  "RHSC-585": "DIRECTED STUDIES",
-  "KORN-440": "SPRV STDY KORN",
-  "MRNE-412": "BIOL OF FISHES",
-  "PSYC-398": "COOP WORK I",
+  "PHAR-533": "Clinical Clerkships I",
+  "PHAR-534": "Clinical Clerkships II",
+  "PHAR-535": "Pharm.D. Seminar",
+  "MTRL-559": "Advanced Hydrometallurgy",
+  "MTRL-592": "Advanced Topics in Materials Engineering",
+  "RHSC-585": "Directed Studies",
+  "MRNE-412": "Biology of Fishes",
+  "PSYC-398": "Cooperative Work Placement I",
   "RSOT-538": "FIELDWORK EDUC 2",
-  "LLED-599": "MASTER'S THESIS",
-  "GERM-549": "MASTERS THESIS",
-  "PLAN-549": "MASTERS THESIS",
+  "PLAN-549": "Master's Thesis",
   "MEDD-410": "TRNSTN MEDD EDUC",
-  "PLNT-649": "DOC DISSERTATION",
-  "LING-449": "HONOURS ESSAY",
-  "LING-549": "MASTERS THESIS",
+  "PLNT-649": "Doctoral Dissertation",
   "RSOT-528": "FIELDWORK EDUC 1",
   "RSOT-558": "FIELDWORK EDUC 3",
-  "LAW-331": "CULTURE/ART LAW",
   "RELG-502": "TOPICS JUDAISM",
   "RELG-514": "TOPICS IN ISLAM",
-  "KIN-401": "COOP WORK PLCMNT",
-  "PHRM-170": "COMM SERV LRNG I",
-  "MUSC-272": "PERFORMANCE SEC",
-  "MUSC-693": "PERFORMANCE SEC",
-  "MUSC-695": "PERFORMANCE MAJ",
+  "PHRM-170": "Community Service Learning I",
+  "MUSC-272": "Music Performance (Secondary)",
+  "MUSC-693": "Music Performance (Major)",
+  "MUSC-695": "Music Performance (Major)",
   "MATH-2": "PRE-CALCULUS",
-  "WOOD-310": "CO-OP WORK PLCMT",
+  "WOOD-310": "Co-operative Work Placement",
   "OPTH-450": "OPHTHALMOLOGY",
-  "GRSJ-510": "EXTENDED ESSAY",
-  "PHIL-516": "MODERN PHIL",
-  "PHIL-599": "M.A. THESIS",
+  "PHIL-516": "Modern Philosophy",
+  "PHIL-599": "Thesis",
   "OBST-430": "OBST CLIN CLKSHP",
-  "OBST-503": "FETL&PERNTL METB",
+  "OBST-503": "Fetal and Perinatal Metabolism",
   "ORPA-430": "ORTHOPAEDICS",
   "MEDI-430": "MEDI-CLIN CLKSHP",
   "PSYT-430": "PSYT CLIN CLKSHP",
-  "PHAR-570": "PHYSICAL ASSESS",
-  "INDE-420": "CLIN SKLS SYS II",
-  "INDE-452": "CLINICAL 3RD YR",
-  "INDE-430": "PROF DIMN'S MEDI",
+  "PHAR-570": "Physical Assessment",
   "PHAR-369": "INTRO PRAC EXP I",
   "PAED-430": "PAEDIATRICS",
-  "PCTH-499": "COOP WORK PL IV",
+  "PCTH-499": "Co-operative Work Placement IV",
   "MECH-551": "ADV MCH DSGN PRJ",
-  "STS-599": "MASTER'S THESIS",
-  "STAT-499": "COOP WK PLACE IV",
+  "STS-599": "Master's Thesis",
+  "STAT-499": "Co-operative Work Placement IV",
   "SURG-430": "SURGERY",
-  "PHYS-349": "DIR RSRCH PROJ",
+  "PHYS-349": "Directed Research Project in Physics",
   "WRIT-99": "ADV COMP",
-  "PORT-308": "PORT FOR BUSINES",
-  "HIST-699": "PHD RESEARCH SEM",
-  "THTR-505": "SC DSGN STD I",
+  "PORT-308": "Portuguese for Business (in Portuguese)",
+  "THTR-505": "Scenery Design Studio I",
   "MECH-543": "ACOUSTICS & CONT",
-  "MINE-582": "MAIN ENG",
-  "VISA-471": "ADV SPCL STDY II",
-  "IAR-525": [],
-  "MUSC-172": "PERFORMANCE SEC",
+  "MINE-582": "Maintenance Engineering",
+  "VISA-471": "Advanced Special Studies II",
+  "MUSC-172": "Music Performance (Secondary)",
   "RMES-599": "MASTER'S THESIS",
   "RMES-699": "DOC DISSERTATION",
-  "LLED-368": "MULTILIT IN E LA",
-  "LIBR-599": "THESIS",
-  "STS-598": "STS PHD COLLOQ",
-  "LLED-422": "LNG ASMNT FRN LN",
-  "SOWK-549": "MSTR THESIS",
-  "WOOD-475": "PRPTY,IDENT&USES",
-  "LATN-649": "DOC DISSERTATION",
-  "THTR-561": "DRAMATIC LIT",
-  "PATH-531": "BIOLGY OF CANCER",
-  "PCTH-402": "SYSTMTC PCOL LAB",
-  "PCTH-513": "PCOL ANAESTHESIA",
+  "STS-598": "Doctoral Colloquium in Science and Technology Studies",
+  "SOWK-549": "Master's Thesis",
+  "WOOD-475": "Wood Properties, Identification and Uses",
+  "THTR-561": "Studies in Dramatic Literature",
+  "PATH-531": "Molecular and Cell Biology of Cancer",
+  "PCTH-402": "Systematic Pharmacology Laboratory",
+  "PCTH-513": "Pharmacology of Anesthesia",
   "MINE-578": "IND EXP SYS",
-  "JRNL-549": "THESIS",
-  "ORNT-400": "ORNT MED SCH&PRF",
-  "KORN-101": "BASIC KOREAN 2",
-  "LATN-502": "LATIN VERSE",
+  "ORNT-400": "Orientation to Medical School and Profession",
   "SPAN-500": "SEMR HISP STUDYS",
   "PRIN-401": "PRNCP HUMAN BIOL",
-  "MTRL-564": "HYDRMTLLGCL RCTR",
-  "INDE-410": "INT CLN SK&SY I",
-  "LARC-599": "RESEARCH THESIS",
-  "SPPH-571": "PUB HLTH TRANS",
-  "GREK-525": "GREK LIT SEMINAR",
-  "LAW-385": "SOCL WELFARE LAW",
-  "LAW-554": "COMP INT LAW",
-  "GERM-514": "LIT OF 18TH CENT",
-  "GERM-547": "GUIDED RESEARCH",
-  "RELG-649": "DOC DISSERTATION",
-  "LLED-382": "LNG&LIT MDRN LNG",
+  "MTRL-564": "Hydrometallurgical Reactor Design and Analysis",
+  "SPPH-571": "Public Health, Transportation, and the Built Environment",
+  "RELG-649": "Doctoral Dissertation",
   "NURS-556": "MULTIVAR STATS"
 }

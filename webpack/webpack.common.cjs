@@ -38,7 +38,12 @@ module.exports = {
       overrideConfigFile: path.resolve(__dirname, '../.eslintrc'),
     }),
     new CopyPlugin({
-      patterns: [{ from: 'public' }],
+      patterns: [{
+        from: 'public',
+        globOptions: {
+          ignore: ['**.md']
+        }
+      }],
     }),
   ],
 };

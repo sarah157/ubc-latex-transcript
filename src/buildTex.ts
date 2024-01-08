@@ -55,7 +55,7 @@ const docSetupAndHeaderTex = (
 \\renewcommand{\\headrulewidth}{0pt}
 \\renewcommand{\\footrulewidth}{0pt}
 \\renewcommand{\\arraystretch}{${options.groupBySession ? '1.4' : '1.6'}} % Line/row spacing - default 1
-${!options.groupBySession ? '\\setlength{\\tabcolsep}{4pt} % Column spacing' : ''}
+${!options.groupBySession ? '\\setlength{\\tabcolsep}{4pt} % Column spacing - default 6pt' : ''}
 
 %%%%%%%%%%%%%%% DEFINITIONS %%%%%%%%%%%%%%%
 % Student info
@@ -99,7 +99,7 @@ const sessionTableTex = (
     courseTex.push(`{${course[CourseColumn.TITLE]}}`);
     courseTex.push(`{${course[CourseColumn.PCT_GRADE]}}`);
     courseTex.push(`{${course[CourseColumn.LETTER_GRADE]}}`);
-    courseTex.push(dropStdg ? '' : `{${course[CourseColumn.STANDING]}}`);
+    if (!dropStdg) courseTex.push(`{${course[CourseColumn.STANDING]}}`);
     courseTex.push(`{${course[CourseColumn.CREDITS]}}`);
     courseTex.push(`{${course[CourseColumn.CLASS_AVG]}}`);
     courseTex.push(`{${course[CourseColumn.CLASS_SIZE]}}`);
@@ -126,8 +126,8 @@ const allSessionsTableTex = (
       if (crs1[CourseColumn.TERM] === crs2[CourseColumn.TERM]) {
         return crs2[CourseColumn.NAME].localeCompare(crs1[CourseColumn.NAME]);
       }
-      return crs2[CourseColumn.TERM].localeCompare(crs1[CourseColumn.TERM])
-    })
+      return crs2[CourseColumn.TERM].localeCompare(crs1[CourseColumn.TERM]);
+    });
     for (const course of orderedCourses) {
       const courseTex = [];
       courseTex.push(`{${course[CourseColumn.NAME]}}`);
@@ -169,8 +169,8 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
 
   const tableBegin = 
     options.groupBySession 
-      ? `\\begin{longtable}{${pipe}l l p{${dropStdg ? '8' : '7'}cm}@{\\extracolsep{\\fill}} r l ${dropStdg ? '' : 'l'} r r r${pipe}}`
-      : `\\begin{longtable}{${pipe}l p{${dropStdg ? '7' : '6'}cm}@{\\extracolsep{\\fill}} r l l l l l ${dropStdg ? '' : 'l'} r r r${pipe}}`;
+      ? `\\begin{longtable}{${pipe}l p{2cm} p{${dropStdg ? '8' : '7'}cm}@{\\extracolsep{\\fill}} r l${dropStdg ? '' : ' l'} r r r${pipe}}`
+      : `\\begin{longtable}{${pipe}l p{${dropStdg ? '7' : '6'}cm}@{\\extracolsep{\\fill}} r l l l l l${dropStdg ? '' : ' l'} r r r${pipe}}`;
 
   const tableFooter = 
     options.bordersAroundTables && !options.bordersBetweenRows
