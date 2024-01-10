@@ -1,4 +1,4 @@
-import { Course, CourseColumn, Session, Student, Options } from './types';
+import { Course, CourseColumn, Session, Student, Options, Campus, TAB } from './types';
 
 export const buildTex = (
   student: Student,
@@ -82,15 +82,13 @@ ${tableDefinitionsTex(options, dropStdg)}
 \\end{tabular*}}\n`;
 };
 
-const TAB = '    ';
-
 const sessionTableTex = (
   session: Session,
   courses: Course[],
   dropStdg: boolean,
 ) => {
   const table = [];
-  table.push(`\\begin{Table}{${sessionFullName(session.name)}}{${session.program}}{${session.campus}}{${session.yearLevel}}`);
+  table.push(`\\begin{Table}{${sessionFullName(session.name)}}{${session.program}}{${campusFullName(session.campus)}}{${session.yearLevel}}`);
 
   for (const course of courses) {
     const courseTex = [`${TAB}\\Course`];
@@ -160,6 +158,16 @@ const sessionFullName = (sessionName: string) => {
   }
 };
 
+const campusFullName = (campus: string) => {
+  if (campus === Campus.UBCV) {
+    return 'UBC Vancouver';
+  } else if (campus === Campus.UBCO) {
+    return 'UBC Okanagan';
+  } else {
+    return "UBC";
+  }
+};
+
 const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   const pipe = options.bordersAroundTables ? '|' : '';
   const hline = options.bordersAroundTables ? '\\hline' : '';
@@ -170,7 +178,7 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   const tableBegin = 
     options.groupBySession 
       ? `\\begin{longtable}{${pipe}l p{2cm} p{${dropStdg ? '8' : '7'}cm}@{\\extracolsep{\\fill}} r l${dropStdg ? '' : ' l'} r r r${pipe}}`
-      : `\\begin{longtable}{${pipe}l p{${dropStdg ? '7' : '6'}cm}@{\\extracolsep{\\fill}} r l l l l l${dropStdg ? '' : ' l'} r r r${pipe}}`;
+      : `\\begin{longtable}{${pipe}l p{${dropStdg ? '7' : '6'}cm}@{\\extracolsep{\\fill}} r l l l l c${dropStdg ? '' : ' c'} r r r${pipe}}`;
 
   const tableFooter = 
     options.bordersAroundTables && !options.bordersBetweenRows
@@ -187,7 +195,7 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
 {${tableBegin}
     % Table header
     \\TableHeading{#1}
-    \\multicolumn{${n}}{${pipe}l${pipe}}{\\textbf{#2} (UBC #3) \\textbf{- Year #4}} \\\\[-0.75em]
+    \\multicolumn{${n}}{${pipe}l${pipe}}{\\textbf{#2} (#3) \\textbf{- Year #4}} \\\\[-0.75em]
     \\TableColumnNames${hlineRow}
     \\endfirsthead
     % Table header if table continues onto next page

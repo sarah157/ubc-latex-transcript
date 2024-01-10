@@ -7,6 +7,7 @@ import {
   CourseColumn,
   Student,
   Options,
+  Campus,
   NBSP
 } from './types';
 
@@ -27,6 +28,7 @@ const generateTranscript = async (options: Options) => {
 const parseDataFromDOM = async (options: Options) => {
   const student: Student = {};
   const sessions: Session[] = [];
+  // allCourses[i] is an array of courses for session at sessions[i]
   const allCourses: Course[][] = [];
   const iframe: HTMLIFrameElement = document.querySelector('#iframe-main');
 
@@ -108,7 +110,15 @@ const parseDataFromDOM = async (options: Options) => {
 const parseSession = (sessionEl: Element) => {
   const session: Session = {};
   session.name = sessionEl.id.replace('tabs-', '');
-  session.campus = sessionEl.querySelector('.listTitle').textContent.replace('Summary - ', '').split(' ')[0];
+  const campus = sessionEl.querySelector('.listTitle').textContent.replace('Summary - ', '').split(' ')[0];
+
+  if (campus === 'Vancouver') {
+    session.campus = Campus.UBCV;
+  } else if (campus === 'Okanagan') {
+    session.campus = Campus.UBCO;
+  } else {
+    session.campus = Campus.UNKNOWN;
+  }
 
   const programInfoRows = sessionEl.querySelector('tbody > tr:nth-child(2) tbody').children;
   for (let row = 0; row < programInfoRows.length; row++) {
@@ -131,7 +141,7 @@ const parseCourse = async (courseRowEl: Element, session: Session) => {
     if (col in CourseColumn) {
       // title is not in courseRow; instead get from storage (or fetch if not in storage)
       if (col === CourseColumn.TITLE) {
-        const courseTitle = await getCourseTitle(course[CourseColumn.NAME], session.name, session.campus) || '---';
+        const courseTitle = await getCourseTitle(course[CourseColumn.NAME], session) || '---';
         // escape latex special characters
         course[CourseColumn.TITLE] = courseTitle?.replace(/([&%$#_{}~^])/g, '\\$1');
       } else {

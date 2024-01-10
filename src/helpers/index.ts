@@ -1,3 +1,5 @@
+import { Campus, Session } from "../types";
+
 export const getStorageItem = async (key: string) => {
   const obj = await chrome.storage.sync.get([key]);
   return obj[key];
@@ -16,20 +18,38 @@ export const toCamelCase = (str: string) => {
   return camelCaseStr;
 };
 
-export const getCourseTitle = async (courseName: string, session: string, campus: string) => {
-  const campusAbbr = campus === 'Vancouver' ? 'UBCV' : 'UBCO';
+export const getCourseTitle = async (courseName: string, session: Session) => {
+  // if campus is unknown, try both UBCV and UBCO and set campus accordingly if title is found
+  if (session.campus === Campus.UNKNOWN) {
+    let title = await getCourseTitleHelper(courseName, session.name, Campus.UBCV);
+    if (title) {
+      session.campus = Campus.UBCV;
+      return title;
+    }
+    title = await getCourseTitleHelper(courseName, session.name, Campus.UBCO);
+    if (title) {
+      session.campus = Campus.UBCO;
+    }
+    return title;
+  }
+
+  // ow campus is known; try only that campus
+  return await getCourseTitleHelper(courseName, session.name, session.campus as Campus);
+}
+
+const getCourseTitleHelper = async (courseName: string, session: string, campus: Campus) => {
   const [subj, code] = courseName.split(' ');
-  const key = `${campusAbbr}-${subj}-${code}`;
+  const key = `${campus}-${subj}-${code}`;
 
   // check if course title is in storage
   let value = await getStorageItem(key);
-  if (value) return value;
+  if (value !== undefined) return value;
 
   // otherwise fetch course title 
 
   // most courses will be in public/data/, which contains courses offered in 2014S and/or later.
   let file;
-  if (campusAbbr === 'UBCO') file = 'UBCO';
+  if (campus === Campus.UBCO) file = 'UBCO';
   else if (subj[0] <= 'D') file = 'UBCV_A-D';
   else if (subj[0] <= 'L') file = 'UBCV_E-L';
   else file = 'UBCV_M-Z';
@@ -67,13 +87,13 @@ export const getCourseTitle = async (courseName: string, session: string, campus
       let res;
       if (session >= '2021S') {
         // v3 api; sessions 2021S and later
-        res = await fetch(`https://ubcgrades.com/api/v3/grades/${campusAbbr}/${session}/${subj}/${code}`);
+        res = await fetch(`https://ubcgrades.com/api/v3/grades/${campus}/${session}/${subj}/${code}`);
       }
       if (!res?.ok && session >= '2014') {
         // v2 api; sessions 2014S to 2021W (incl.)
-        res = await fetch(`https://ubcgrades.com/api/v2/grades/${campusAbbr}/${session}/${subj}/${code}`);
+        res = await fetch(`https://ubcgrades.com/api/v2/grades/${campus}/${session}/${subj}/${code}`);
       }
-      if (!res?.ok && campusAbbr === 'UBCV') {
+      if (!res?.ok && campus === Campus.UBCV) {
         // v1 api; only supports UBCV; sessions 1996S to 2018W (incl.)
         // some courses (e.g., Coop Placements) are only in v1 api
         res = await fetch(`https://ubcgrades.com/api/v1/grades/UBCV/${session}/${subj}/${code}`);
@@ -86,6 +106,9 @@ export const getCourseTitle = async (courseName: string, session: string, campus
       console.log(`[UBC LaTeX Transcript] Error fetching '${session} ${courseName}' from UBCGrades API.`);
     }
   }
+
+  // set value to null to distinguish between courses that are not in storage (undefined) and courses that are in storage but have no title (null)
+  if (!value) value = null;
 
   // cache course title in storage before returning
   await setStorageItem(key, value);

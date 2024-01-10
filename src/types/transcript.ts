@@ -22,6 +22,12 @@ export enum SessionValues {
   SESSIONAL_STDG = 'sessionalStanding',
 }
 
+export enum Campus {
+  UBCV = 'UBCV',
+  UBCO = 'UBCO',
+  UNKNOWN = 'UNKNOWN',
+}
+
 export type Course = {
   [key in CourseColumn]?: string;
 };
@@ -37,3 +43,6 @@ export type Student = {
 
 // non-breaking space is used to split Course name into subject and code (e.g., MATH&nbsp;200)
 export const NBSP = ' ';
+
+// 4 spaces; tab used in tex
+export const TAB = '    ';

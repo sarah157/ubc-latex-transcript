@@ -1,6 +1,6 @@
 {
   "name": "ubc-transcript",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Create a LaTeX transcript from your UBC Grades Summary",
   "scripts": {
     "start": "webpack --watch --config webpack/webpack.dev.cjs",
