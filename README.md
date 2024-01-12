@@ -41,9 +41,12 @@ The resulting transcript is loaded into Overleaf, a popular online LaTeX editor,
 ### Images
 **Extension popup with default options**
 
-![Extension popup_with default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/59f1669e-6f51-4ba4-bc94-808f17e93304)
+![Extension popup_with default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/05caf1a6-47b0-4ab2-a03b-98211ba83790)
+
 
 
 **Transcript generated using default options**
 
-![Grades summary before and after with default options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/2b7e260f-311e-4b1e-ba3c-6dc49331767a)
+![Grades Summary before and after using default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/9388636b-1e42-460c-bbae-df0017cffcb8)
+
+
