@@ -10,9 +10,9 @@ export const buildTex = (
   const tex = [];
   const dropStdg = options.dropEmptyStdgCol && isStdgColEmpty;
   tex.push(docSetupAndHeaderTex(student, options, dropStdg));
-  
+
   // add document beginning
-  tex.push('%%%%%%%%%%%%%%%%% TRANSCRIPT BODY %%%%%%%%%%%%%%%%%');
+  tex.push('%%%%%%%%%%%%%%%%%%%%%%%%% TRANSCRIPT BODY %%%%%%%%%%%%%%%%%%%%%%%%%');
   tex.push('\\begin{document}\n');
 
   if (options.groupBySession) {
@@ -38,23 +38,22 @@ const docSetupAndHeaderTex = (
   student: Student,
   options: Options,
   dropStdg: boolean,
-) => {
-  let colSep = '0pt';
-  if (options.groupBySession) colSep = options.bordersAroundTables ? '5pt' : '3pt';
-  return `\\documentclass[10pt]{article}
+  ) => {
+  // header alignment ref: https://tex.stackexchange.com/a/417744
+  return `\\documentclass{article}
 \\usepackage{fancyhdr, graphicx, longtable, lastpage}
 \\usepackage[empty]{fullpage}
 \\usepackage[table]{xcolor}
 \\usepackage[none]{hyphenat}
-\\usepackage{times} % Font - Remove for default. For more fonts see: https://www.overleaf.com/learn/latex/Font_typefaces
+\\usepackage{times} % font
+
 \\usepackage[
 includehead, 
-margin=0.5in, % page margins,
-headsep=${options.groupBySession ? '1' : '0.5'}cm, % spacing between transcript header and body,
+right=.5in, left=.5in, top=0.45in, bottom=0.45in, % page margins
+headsep=${options.groupBySession ? '0.75' : '0.25'}cm, % spacing between transcript header and body
 headheight=2.5cm % header height
 ]{geometry}
 
-% Setup
 \\pagestyle{fancy}
 \\fancyhf{}
 \\setlength{\\footskip}{12pt}
@@ -62,11 +61,11 @@ headheight=2.5cm % header height
 \\setlength\\LTright{0pt}
 \\renewcommand{\\headrulewidth}{0pt}
 \\renewcommand{\\footrulewidth}{0pt}
-\\setlength{\\tabcolsep}{${colSep}}
-\\renewcommand{\\arraystretch}{${options.groupBySession ? '1.4' : '1.6'}} % line/row spacing - default 1
+\\setlength{\\tabcolsep}{${options.groupBySession && options.bordersAroundTables ? '5pt' : '3pt'}}
+\\renewcommand{\\arraystretch}{${options.groupBySession ? '1.45' : '1.75'}} % line/row spacing - default 1
 \\arrayrulecolor{gray!70} % border color
 
-%%%%%%%%%%%%%%%%% DEFINITIONS %%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%% DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%%%%
 % Student info
 \\def\\studentName{${student.name}}
 \\def\\studentNumber{${student.number}}
@@ -74,29 +73,26 @@ headheight=2.5cm % header height
 % Title
 \\newcommand{\\transcriptTitle}{\\textbf{\\LARGE{${options.title}}}}
 
-% Spacing between tables
-\\newcommand{\\tableSpacing}{\\vspace{-0.25cm}}
-
 ${tableDefinitionsTex(options, dropStdg)}
 
-%%%%%%%%%%%%%%%%% TRANSCRIPT HEADER %%%%%%%%%%%%%%%%%
-\\fancyhead[C]{
-% Title
-\\parbox{8cm}{\\centering \\transcriptTitle}\\\\
+%%%%%%%%%%%%%%%%%%%%%%%% TRANSCRIPT HEADER %%%%%%%%%%%%%%%%%%%%%%%%
+\\def\\logoheight{1.15cm}
 
 % UBC logo
-\\def\\logoHeight{1.2cm}
-\\vspace{-\\logoHeight}
-\\begin{flushleft}
-    \\includegraphics[height=\\logoHeight]{ubc-logo.png} 
-\\end{flushleft}
+\\lhead{\\parbox[][\\headheight][t]{\\textwidth}{
+\\includegraphics[height=\\logoheight]{ubc-logo.png}
+}}
+
+\\chead{\\parbox[][\\headheight][t]{\\textwidth}{
+% Title
+\\centering\\parbox[][\\logoheight][c]{7cm}{\\centering\\transcriptTitle} \\\\\\vfill
 
 % Name, student number, date printed, page number
-\\renewcommand{\\arraystretch}{1}
+\\renewcommand{\\arraystretch}{1.1}
 \\begin{tabular*}{\\textwidth}[t]{@{} *{2}{l @{\\hspace{1cm}}} l @{\\extracolsep{\\fill}} l @{}}
-    \\textbf{Full Name:} & \\textbf{Student Number:} & \\textbf{Date Printed:} & \\textbf{{Page: \\thepage\\ of \\pageref{LastPage}}} \\\\
-    \\studentName & \\studentNumber & \\today \\\\
-\\end{tabular*}}\n`;
+    \\textbf{Student Name:} & \\textbf{Student Number:} & \\textbf{Date Printed:} & \\textbf{{Page: \\thepage\\ of \\pageref{LastPage}}} \\\\
+    \\studentName & \\studentNumber & ${todaysDate()} \\\\
+\\end{tabular*}}}\n`;
 };
 
 const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
@@ -106,22 +102,26 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
   let n = options.groupBySession ? 9 : 12;
   if (dropStdg) n--;
 
-  const tableBegin = 
-    options.groupBySession 
+  const tableBegin =
+    options.groupBySession
       // use @{\extracolsep{\fill}} at beginning to make longtable fit page width. ref: https://tex.stackexchange.com/a/110274
       // @{\extracolsep{\fill}} removes padding at beginning; @{\hspace{\tabcolsep}} readds padding
-      ? `\\begin{longtable}{@{\\extracolsep{\\fill}} ${pipe}@{\\hspace{\\tabcolsep}} l L{2cm} L{${dropStdg ? '8.5' : '7.5'}cm} r l${dropStdg ? '' : ' l'} r r r${pipe}}`
-      : `\\begin{longtable}{@{\\extracolsep{\\fill}}${pipe && ' |@{\\hspace{6pt}}'} l L{${dropStdg ? '7' : '6.5'}cm} r l l l l c${dropStdg ? '' : ' c'} r r r${pipe && '@{\\hspace{6pt}}|'}}`;
-  
-  const tableFooter = 
+      ? `\\begin{longtable}{@{\\extracolsep{\\fill}}${pipe || '@{\\hspace{\\tabcolsep}}'} l L{2.1cm} L{${dropStdg ? '8.5' : '7.5'}cm} r l${dropStdg ? '' : ' l'} r r r ${pipe}}`
+      : `\\begin{longtable}{@{\\extracolsep{\\fill}}${pipe} l L{${dropStdg ? '7' : '6.1'}cm}@{} r l l c l c${dropStdg ? '' : ' c'} r r r ${pipe || '@{}'}}`;
+
+  const tableFooter =
     options.bordersBetweenRows
       ? `% Table Footer\n${TAB}\\hline\\endlastfoot`
       : options.bordersAroundTables ? `% Table Footer\n${TAB}\\hline\\endfoot` : '';
 
-  const extraColsForSessionInfo = 
+  const extraColsForSessionInfo =
     !options.groupBySession
       ? '\\textbf{Session} & \\textbf{Term} & \\textbf{Prgm} & \\textbf{Yr} &'
       : '';
+
+  const tableHeadingAndSpacing = `\n% Table heading/title
+\\newcommand{\\TableHeading}[1]{\\multicolumn{${n}}{${pipe}l${pipe}}{\\cellcolor{gray!20}\\fontsize{11}{12}\\selectfont{\\textbf{#1}}}\\\\}
+\n% Spacing between tables\n\\newcommand{\\tableSpacing}{\\vspace{-0.25cm}}\n`;
 
   const sessionTable = `% Session table environment; args: Session, Program, Campus, Year
 \\newenvironment{Table}[4]
@@ -142,19 +142,15 @@ const tableDefinitionsTex = (options: Options, dropStdg: boolean) => {
 \\newenvironment{Table}
 {${tableBegin}
     % Table Header
-    ${(hline || hlineRow)}\\TableColumnNames${hlineRow} \\endhead
+    ${hline}\\TableColumnNames${hlineRow} \\endhead
     ${tableFooter}}
 {\\end{longtable}}`;
 
   return `% Table column names
 \\newcommand{\\TableColumnNames}{
-\\multicolumn{${n - 2}}{${pipe}c}{} & \\multicolumn{2}{c${pipe}}{\\textbf{Class}} \\\\[-1.25ex]
-${options.groupBySession ? '\\textbf{Term} &' : ''} \\textbf{Course} & \\textbf{Course Title} & \\textbf{Grade} & \\textbf{Letter} & ${extraColsForSessionInfo} ${dropStdg ? '' : '\\textbf{Stdg} &'} \\textbf{Credits} & \\textbf{~Avg} & \\textbf{Size}\\\\}
-
-% Table heading
-\\newcommand{\\TableHeading}[1]{\\multicolumn{${n}}{${pipe}l${pipe}}{\\cellcolor{gray!20}\\fontsize{11}{12}\\selectfont{\\textbf{#1}}}\\\\}
-
-\\newcolumntype{R}[1]{>{\\raggedleft\\arraybackslash}p{#1}}
+\\multicolumn{${n - 2}}{${pipe}c}{} & \\multicolumn{2}{c${pipe}}{\\textbf{Class}} \\\\[-${options.groupBySession ? '1.5' : '2'}ex]
+${options.groupBySession ? '\\textbf{Term} & ' : ''}\\textbf{Course} & \\textbf{Course Title} & \\textbf{Grade} & \\textbf{Letter} & ${extraColsForSessionInfo} ${dropStdg ? '' : '\\textbf{Stdg} &'} \\textbf{Credits} & \\textbf{~Avg} & \\textbf{Size}\\\\}
+${options.groupBySession ? tableHeadingAndSpacing : ''}
 \\newcolumntype{L}[1]{>{\\raggedright\\arraybackslash}p{#1}}
 
 ${options.groupBySession ? sessionTable : allSessionsTable}`;
@@ -233,6 +229,11 @@ const allSessionsTableTex = (
   table.push('\\end{Table}\n');
   return table.join('\n');
 };
+
+const todaysDate = () => {
+  const date = new Date();
+  return date.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+}
 
 const sessionFullName = (sessionName: string) => {
   const year = sessionName.substring(0, 4);
