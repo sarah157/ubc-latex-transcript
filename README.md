@@ -39,14 +39,13 @@ The resulting transcript is loaded into Overleaf, a popular online LaTeX editor,
 4. Load the `dist` folder
 
 ### Images
-**Extension popup with default options**
+**Extension popup**
 
-![Extension popup_with default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/05caf1a6-47b0-4ab2-a03b-98211ba83790)
+![Extension popup](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/05caf1a6-47b0-4ab2-a03b-98211ba83790)
 
 
 
-**Transcript generated using default options**
+**Transcript generated with `Group courses by session` selected**
 
-![Grades Summary before and after using default_options](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/9388636b-1e42-460c-bbae-df0017cffcb8)
-
+![befor and eafter with courses grouped by session](https://github.com/sarah157/ubc-latex-transcript/assets/47197893/c93fe946-c5a0-46da-b35c-65ed3d52f5ca)
 

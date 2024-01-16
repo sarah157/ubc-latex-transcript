@@ -42,7 +42,7 @@ export const INVALID_URL_HTML = `<p>To use this extension, go to
 
 export const DEFAULT_OPTIONS: Options = {
   [FormField.Title]: 'Grades Summary',
-  [FormField.GroupBySession]: true,
+  [FormField.GroupBySession]: false,
   [FormField.BordersAroundTables]: false,
   [FormField.BordersBetweenRows]: false,
   [FormField.DropWCourses]: false,
